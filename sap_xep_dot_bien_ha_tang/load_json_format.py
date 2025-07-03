@@ -5,6 +5,15 @@ from Database.Database import *
 from Models.Districts import Districts
 from Models.XaPhuong import XaPhuong
 from Models.Provinces import Provinces
+import geojson
+from shapely.wkt import loads as wkt_loads
+from shapely.wkb import loads as load_wkb, dumps as dump_wkb
+from shapely.wkb import loads
+
+def bToPolygon(dat):
+    polygon = loads(dat.data)
+    geojson_polygon = geojson.Feature(geometry=polygon)
+    return geojson_polygon["geometry"]["coordinates"]
 
 def load_json_phanloai( input_file ):
     with open(input_file) as json_file:
@@ -20,6 +29,11 @@ def load_json_phanloai( input_file ):
             district_find =  session.query(Districts).filter(Districts.DistrictID ==  int(idpro) ).first() 
             province_find =  session.query(Provinces).filter(Provinces.ProvinceID ==  district_find.ProvinceID ).first() 
             list_data = []
+            polygon_item = ""
+            if district_find.multipolygon != None:
+                coords = bToPolygon(district_find.multipolygon)
+                encrypted_data = coords
+                polygon_item = encrypted_data
             list_data_rutgon = []
             list_rut_gon = []
             count = 0
@@ -46,8 +60,13 @@ def load_json_phanloai( input_file ):
             toanbodotbien = toanbodotbien + count
             data_json = {
                 "id_district" : item_district["id"] ,
+                "id_province" : province_find.ProvinceID , 
+                "name_province" : province_find.ProvinceName , 
+                "name_district" : district_find.DistrictName ,
                 "list_sukien" : list_data ,
-                "so_dot_bien" : count
+                "so_dot_bien" : count , 
+                "thu_tu_sap_xep" : sapxep ,
+                "polygon" : polygon_item
             }
             data_json2 = {
                 "id_district" : item_district["id"] ,
@@ -67,4 +86,4 @@ def load_json_phanloai( input_file ):
                 json.dump( { "tongcong" : listongcong , "tongso_dotbien" : toanbodotbien } , f, ensure_ascii=False, indent=4)
 
 # Thực hiện xử lý và ghi file
-load_json_phanloai( "/home/landinvest/Desktop/dobien_hatang/output_construction_projects.json" )
+load_json_phanloai( "/home/landinvest/Desktop/sap_xep_dot_bien_ha_tang/output_construction_projects.json" )
