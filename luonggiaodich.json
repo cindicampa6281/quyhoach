@@ -1,6 +1,6 @@
-{
+{ 
+    "time_danh_gia" : 2024 ,
     "giao_dich_so_cap_ca_nuoc" : {
-        "time_danh_gia" : 2024 ,
         "tong_giao_dich_ca_nuoc" : 47345 ,
         "san_pham_chao_ban" : 81453 ,
         "san_pham_chao_ban_nam_truoc: " : 48871 ,
@@ -42,10 +42,18 @@
                     "name" : "ha_dong"
                 } ,
                 {
-                    "tong_giao_dich" : 15000 ,
+                    "tong_giao_dich" : 11000 ,
+                    "chung_cu" : 2970  ,
+                    "tho_cu" : 7590 ,
+                    "lien_ke_biet_thu" : 440 ,
+                    "id_district" : 4 ,
+                    "name" :  "long_bien"
+                } ,
+                {
+                    "tong_giao_dich" : 11000 ,
                     "chung_cu" : 4500  ,
                     "tho_cu" : 8550 ,
-                    "lien_ke_biet_thu" : 1650 ,
+                    "lien_ke_biet_thu" : 440 ,
                     "id_district" : 17 ,
                     "name" :  "long_bien"
                 }
