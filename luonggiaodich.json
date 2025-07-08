@@ -17,7 +17,12 @@
         "chung_cu_cu_ban_ra" : 42004 ,
         "giao_dich_cac_huyen" : [
             {
-                "nam_tu_liem" : 
+                "nam_tu_liem" : {
+                    "tong_giao_dich" : 26000 ,
+                    "chung_cu" : 22880  ,
+                    "tho_cu" : 2860 ,
+                    "lien_ke_biet_thu" : 260
+                }
             }
         ]
     }
