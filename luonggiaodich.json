@@ -7,9 +7,23 @@
         "san_pham_chao_ban_moi" : 65376 ,
         "san_pham_chao_ban_moi_nam_truoc" : 21792 
     } ,
+    "hochiminh" : {
+        "id_provinces" : 29 ,
+        "tong_giao_dich" : 47000 ,
+        "tong_chao_ban_so_cap" : 7000 ,
+        "ti_le_hap_thu_so_cap" : 72 ,
+        "chung_cu_so_cap_ban_ra" : 5200 ,
+        "tong_giao_dich_chung_cu" : 7400 , 
+        "tong_giao_dich_tho_cu" : 25409 ,
+        "tong_giao_dich_biet_thu_lien_ke" : 5959 ,
+        "chung_cu_cu_ban_ra" : 42004 ,
+        "giao_dich_cac_huyen" : [
+        ]
+    }  ,
     "hanoi" : {
         "id_provinces" : 24 ,
-        "tong_giao_dich" : 119198 ,
+        "tong_giao_dich" : 119198  ,
+        "tong_chao_ban_so_cap" : 30588 ,
         "ti_le_hap_thu_so_cap" : 85 ,
         "chung_cu_so_cap_ban_ra" : 24996 ,
         "tong_giao_dich_chung_cu" : 67000 , 
@@ -114,12 +128,12 @@
                     "name" :  "ba_dinh"
                 } ,
                 {
-                    "tong_giao_dich" : 2700 ,
-                    "chung_cu" : 675  ,
-                    "tho_cu" : 1890 ,
-                    "lien_ke_biet_thu" : 135 ,
-                    "id_district" : 1 ,
-                    "name" :  "ba_dinh"
+                    "tong_giao_dich" : 800 ,
+                    "chung_cu" : 100  ,
+                    "tho_cu" : 800 ,
+                    "lien_ke_biet_thu" : 0 ,
+                    "id_district" : 2 ,
+                    "name" :  "hoan_kiem"
                 }
         ]
     }
