@@ -8,6 +8,7 @@
         "san_pham_chao_ban_moi_nam_truoc" : 21792 
     } ,
     "hanoi" : {
+        "id_provinces" : 24 ,
         "tong_giao_dich" : 119198 ,
         "ti_le_hap_thu_so_cap" : 85 ,
         "chung_cu_so_cap_ban_ra" : 24996 ,
@@ -28,8 +29,15 @@
                     "tong_giao_dich" : 22000 ,
                     "chung_cu" : 17600  ,
                     "tho_cu" : 3960 ,
-                    "lien_ke_biet_thu" : 260 ,
+                    "lien_ke_biet_thu" : 440 ,
                     "id_district" : 12
+                },
+                "ha_dong" : {
+                    "tong_giao_dich" : 15000 ,
+                    "chung_cu" : 4500  ,
+                    "tho_cu" : 8550 ,
+                    "lien_ke_biet_thu" : 440 ,
+                    "id_district" : 17
                 }
             }
         ]
