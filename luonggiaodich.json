@@ -17,29 +17,38 @@
         "tong_giao_dich_biet_thu_lien_ke" : 5959 ,
         "chung_cu_cu_ban_ra" : 42004 ,
         "giao_dich_cac_huyen" : [
-            {
-                "nam_tu_liem" : {
+                 {
                     "tong_giao_dich" : 26000 ,
                     "chung_cu" : 22880  ,
                     "tho_cu" : 2860 ,
                     "lien_ke_biet_thu" : 260 ,
-                    "id_district" : 13
+                    "id_district" : 13 ,
+                    "name" : "nam_tu_liem"
                 } ,
-                "gia_lam" : {
+                {
                     "tong_giao_dich" : 22000 ,
                     "chung_cu" : 17600  ,
                     "tho_cu" : 3960 ,
                     "lien_ke_biet_thu" : 440 ,
-                    "id_district" : 12
+                    "id_district" : 12 ,
+                    "name" : "gia_lam"
                 },
-                "ha_dong" : {
+                {
                     "tong_giao_dich" : 15000 ,
                     "chung_cu" : 4500  ,
                     "tho_cu" : 8550 ,
                     "lien_ke_biet_thu" : 1650 ,
-                    "id_district" : 17
+                    "id_district" : 17 ,
+                    "name" : "ha_dong"
+                } ,
+                {
+                    "tong_giao_dich" : 15000 ,
+                    "chung_cu" : 4500  ,
+                    "tho_cu" : 8550 ,
+                    "lien_ke_biet_thu" : 1650 ,
+                    "id_district" : 17 ,
+                    "name" :  "long_bien"
                 }
-            }
         ]
     }
 }
