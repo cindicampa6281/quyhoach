@@ -315,7 +315,7 @@ if __name__ == "__main__":
         year = 2025
         print("______")
         for item_province in list_provinces:
-            if item_province.ProvinceID >= 26 :
+            if item_province.ProvinceID >= 41 :
                 print("________________"+ str( item_province.ProvinceName ) + "_____" + str(item_province.ProvinceID))
 
                 list_district_in_pro = session.query(Districts).filter(Districts.ProvinceID == item_province.ProvinceID).all()
