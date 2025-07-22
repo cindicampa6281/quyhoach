@@ -1,1062 +1,706 @@
 {
     "shophouse": [
         {
-            "xaphuong_id": 26508,
-            "name_xaphuong": " Phường Thắng Tam",
-            "price": 106879927,
-            "type": "Shophouse",
-            "max": 393939393,
-            "avg": 106879927,
-            "min": 33673469,
-            "color": {
-                "red": 255,
-                "green": 0,
-                "blue": 0
-            }
-        },
-        {
             "xaphuong_id": 26509,
             "name_xaphuong": " 2",
-            "price": 114814814,
+            "price": 9300000000,
             "type": "Shophouse",
-            "max": 114814814,
-            "avg": 114814814,
-            "min": 114814814,
+            "max": 371.0,
+            "avg": 175,
+            "min": 114.0,
             "color": {
-                "red": 235,
-                "green": 19,
-                "blue": 2
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
             }
         },
         {
             "xaphuong_id": 26512,
             "name_xaphuong": " Phường 2",
-            "price": 9139718084,
+            "price": 110000000000,
             "type": "Shophouse",
-            "max": 250000000000,
-            "avg": 9139718084,
-            "min": 104477611,
+            "max": 371.0,
+            "avg": 175,
+            "min": 114.0,
             "color": {
-                "red": 215,
-                "green": 39,
+                "red": 231.8181818181818,
+                "green": 23.181818181818183,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 26524,
+            "name_xaphuong": " Phường 7",
+            "price": 19000000000,
+            "type": "Shophouse",
+            "max": 197.0,
+            "avg": 138,
+            "min": 100.0,
+            "color": {
+                "red": 208.63636363636363,
+                "green": 46.36363636363637,
                 "blue": 4
             }
         },
         {
             "xaphuong_id": 26515,
             "name_xaphuong": " Phường 4",
-            "price": 141388212,
+            "price": 14000000000,
             "type": "Shophouse",
-            "max": 211640211,
-            "avg": 141388212,
-            "min": 87912087,
+            "max": 246.0,
+            "avg": 131,
+            "min": 92.0,
             "color": {
-                "red": 196,
-                "green": 58,
+                "red": 185.45454545454544,
+                "green": 69.54545454545455,
                 "blue": 6
             }
         },
         {
-            "xaphuong_id": 26524,
-            "name_xaphuong": " Phường 7",
-            "price": 11378923217,
+            "xaphuong_id": 26536,
+            "name_xaphuong": " Phường 9",
+            "price": 15800000000,
             "type": "Shophouse",
-            "max": 180000000000,
-            "avg": 11378923217,
-            "min": 80246913,
+            "max": 132.0,
+            "avg": 114,
+            "min": 88.0,
             "color": {
-                "red": 176,
-                "green": 78,
+                "red": 162.27272727272725,
+                "green": 92.72727272727273,
                 "blue": 8
             }
         },
         {
-            "xaphuong_id": 26526,
-            "name_xaphuong": " Phường Nguyễn An Ninh",
-            "price": 56485507,
+            "xaphuong_id": 26535,
+            "name_xaphuong": " Phường Rạch Dừa",
+            "price": 11000000000,
             "type": "Shophouse",
-            "max": 57971014,
-            "avg": 56485507,
-            "min": 55000000,
+            "max": 150.0,
+            "avg": 103,
+            "min": 66.0,
             "color": {
-                "red": 156,
-                "green": 98,
+                "red": 139.09090909090907,
+                "green": 115.90909090909092,
                 "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 26533,
+            "name_xaphuong": " Phường Thắng Nhất",
+            "price": 6800000000,
+            "type": "Shophouse",
+            "max": 132.0,
+            "avg": 98,
+            "min": 65.0,
+            "color": {
+                "red": 115.9090909090909,
+                "green": 139.0909090909091,
+                "blue": 12
             }
         },
         {
             "xaphuong_id": 26527,
             "name_xaphuong": " Phường 8",
-            "price": 125666422,
+            "price": 2450000000,
             "type": "Shophouse",
-            "max": 567164179,
-            "avg": 125666422,
-            "min": 38000000,
+            "max": 69.2,
+            "avg": 52,
+            "min": 46.0,
             "color": {
-                "red": 137,
-                "green": 117,
+                "red": 92.72727272727272,
+                "green": 162.27272727272728,
+                "blue": 14
+            }
+        },
+        {
+            "xaphuong_id": 26508,
+            "name_xaphuong": " Phường Thắng Tam",
+            "price": 1650000000,
+            "type": "Shophouse",
+            "max": 50.3,
+            "avg": 41,
+            "min": 34.4,
+            "color": {
+                "red": 69.54545454545453,
+                "green": 185.45454545454547,
+                "blue": 16
+            }
+        }
+    ],
+    "chungcu": [
+        {
+            "xaphuong_id": 26526,
+            "name_xaphuong": " Phường Nguyễn An Ninh",
+            "price": 3770000000,
+            "type": "Chung cư",
+            "max": 52.0,
+            "avg": 46,
+            "min": 39.7,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 26536,
+            "name_xaphuong": " 10",
+            "price": 3330000000,
+            "type": "Chung cư",
+            "max": 52.0,
+            "avg": 46,
+            "min": 39.7,
+            "color": {
+                "red": 226.66666666666666,
+                "green": 28.333333333333332,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 26508,
+            "name_xaphuong": " Phường Thắng Tam",
+            "price": 3520000000,
+            "type": "Chung cư",
+            "max": 46.0,
+            "avg": 38,
+            "min": 33.4,
+            "color": {
+                "red": 198.33333333333334,
+                "green": 56.666666666666664,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 26512,
+            "name_xaphuong": " Phường 2",
+            "price": 2250000000,
+            "type": "Chung cư",
+            "max": 46.5,
+            "avg": 37,
+            "min": 33.8,
+            "color": {
+                "red": 170.0,
+                "green": 85.0,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 26506,
+            "name_xaphuong": " 1",
+            "price": 3800000000,
+            "type": "Chung cư",
+            "max": 43.8,
+            "avg": 32,
+            "min": 30.7,
+            "color": {
+                "red": 141.66666666666669,
+                "green": 113.33333333333333,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 26524,
+            "name_xaphuong": " Phường 7",
+            "price": 2900000000,
+            "type": "Chung cư",
+            "max": 29.2,
+            "avg": 27,
+            "min": 25.9,
+            "color": {
+                "red": 113.33333333333334,
+                "green": 141.66666666666666,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 26533,
+            "name_xaphuong": " Phường Thắng Nhất",
+            "price": 2300000000,
+            "type": "Chung cư",
+            "max": 29.9,
+            "avg": 24,
+            "min": 23.2,
+            "color": {
+                "red": 85.0,
+                "green": 170.0,
+                "blue": 12
+            }
+        }
+    ],
+    "bietthu": [
+        {
+            "xaphuong_id": 26508,
+            "name_xaphuong": " Phường Thắng Tam",
+            "price": 33000000000,
+            "type": "Biệt thự",
+            "max": 167.1,
+            "avg": 121,
+            "min": 60.0,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 26512,
+            "name_xaphuong": " Phường 2",
+            "price": 58000000000,
+            "type": "Biệt thự",
+            "max": 211.0,
+            "avg": 103,
+            "min": 72.0,
+            "color": {
+                "red": 233.75,
+                "green": 21.25,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 26524,
+            "name_xaphuong": " Phường 1",
+            "price": 30000000000,
+            "type": "Biệt thự",
+            "max": 112.0,
+            "avg": 96,
+            "min": 79.0,
+            "color": {
+                "red": 212.5,
+                "green": 42.5,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 26527,
+            "name_xaphuong": " Phường 8",
+            "price": 18000000000,
+            "type": "Biệt thự",
+            "max": 150.0,
+            "avg": 86,
+            "min": 58.0,
+            "color": {
+                "red": 191.25,
+                "green": 63.75,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 26526,
+            "name_xaphuong": " Phường Nguyễn An Ninh",
+            "price": 25500000000,
+            "type": "Biệt thự",
+            "max": 158.9,
+            "avg": 80,
+            "min": 69.9,
+            "color": {
+                "red": 170.0,
+                "green": 85.0,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 26542,
+            "name_xaphuong": " Phường 12",
+            "price": 12000000000,
+            "type": "Biệt thự",
+            "max": 79.6,
+            "avg": 66,
+            "min": 58.9,
+            "color": {
+                "red": 148.75,
+                "green": 106.25,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 26536,
+            "name_xaphuong": " Phường 10",
+            "price": 22500000000,
+            "type": "Biệt thự",
+            "max": 115.0,
+            "avg": 59,
+            "min": 30.0,
+            "color": {
+                "red": 127.5,
+                "green": 127.5,
                 "blue": 12
             }
         },
         {
             "xaphuong_id": 26533,
             "name_xaphuong": " Phường Thắng Nhất",
-            "price": 127132275,
-            "type": "Shophouse",
-            "max": 161904761,
-            "avg": 127132275,
-            "min": 76719576,
+            "price": 10000000000,
+            "type": "Biệt thự",
+            "max": 71.0,
+            "avg": 57,
+            "min": 38.0,
             "color": {
-                "red": 117,
-                "green": 137,
+                "red": 106.25,
+                "green": 148.75,
+                "blue": 14
+            }
+        },
+        {
+            "xaphuong_id": 26521,
+            "name_xaphuong": " Phường Thắng Nhì",
+            "price": 14300000000,
+            "type": "Biệt thự",
+            "max": 75.0,
+            "avg": 48,
+            "min": 19.0,
+            "color": {
+                "red": 85.0,
+                "green": 170.0,
+                "blue": 16
+            }
+        },
+        {
+            "xaphuong_id": 26689,
+            "name_xaphuong": " Thị trấn Phước Hải",
+            "price": 1500000000,
+            "type": "Biệt thự",
+            "max": 41.0,
+            "avg": 13,
+            "min": 4.0,
+            "color": {
+                "red": 63.75,
+                "green": 191.25,
+                "blue": 18
+            }
+        }
+    ],
+    "thocu": [
+        {
+            "xaphuong_id": 26512,
+            "name_xaphuong": " Phường 2",
+            "price": 24000000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 205.0,
+            "avg": 100,
+            "min": 50.0,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 26508,
+            "name_xaphuong": "Phường Thắng Tam",
+            "price": 7300000000,
+            "type": "Nhà riêng",
+            "max": 126.0,
+            "avg": 90,
+            "min": 57.0,
+            "color": {
+                "red": 236.78571428571428,
+                "green": 18.214285714285715,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 26527,
+            "name_xaphuong": " Phường 8",
+            "price": 86000000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 150.0,
+            "avg": 86,
+            "min": 58.0,
+            "color": {
+                "red": 218.57142857142856,
+                "green": 36.42857142857143,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 26515,
+            "name_xaphuong": " Phường 4",
+            "price": 20000000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 104.0,
+            "avg": 82,
+            "min": 61.0,
+            "color": {
+                "red": 200.35714285714286,
+                "green": 54.642857142857146,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 26524,
+            "name_xaphuong": "Phường 7",
+            "price": 4500000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 111.0,
+            "avg": 73,
+            "min": 42.0,
+            "color": {
+                "red": 182.14285714285714,
+                "green": 72.85714285714286,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 26526,
+            "name_xaphuong": " Phường Nguyễn An Ninh",
+            "price": 3750000000,
+            "type": "Nhà riêng",
+            "max": 116.0,
+            "avg": 69,
+            "min": 32.0,
+            "color": {
+                "red": 163.92857142857142,
+                "green": 91.07142857142858,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 26536,
+            "name_xaphuong": " Phường 10",
+            "price": 4500000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 115.0,
+            "avg": 59,
+            "min": 30.0,
+            "color": {
+                "red": 145.71428571428572,
+                "green": 109.28571428571429,
+                "blue": 12
+            }
+        },
+        {
+            "xaphuong_id": 26533,
+            "name_xaphuong": " Phường Thắng Nhất",
+            "price": 6800000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 71.0,
+            "avg": 57,
+            "min": 38.0,
+            "color": {
+                "red": 127.5,
+                "green": 127.5,
                 "blue": 14
             }
         },
         {
             "xaphuong_id": 26535,
             "name_xaphuong": " Phường Rạch Dừa",
-            "price": 80065326,
-            "type": "Shophouse",
-            "max": 146666666,
-            "avg": 80065326,
-            "min": 27946127,
+            "price": 4000000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 91.0,
+            "avg": 56,
+            "min": 38.0,
             "color": {
-                "red": 98,
-                "green": 156,
+                "red": 109.28571428571428,
+                "green": 145.71428571428572,
                 "blue": 16
-            }
-        },
-        {
-            "xaphuong_id": 26536,
-            "name_xaphuong": " 10",
-            "price": 97115142,
-            "type": "Shophouse",
-            "max": 153333333,
-            "avg": 97115142,
-            "min": 61224489,
-            "color": {
-                "red": 78,
-                "green": 176,
-                "blue": 18
-            }
-        },
-        {
-            "xaphuong_id": 26689,
-            "name_xaphuong": " Thị trấn Phước Hải",
-            "price": 5200000000,
-            "type": "Shophouse",
-            "max": 5200000000,
-            "avg": 5200000000,
-            "min": 5200000000,
-            "color": {
-                "red": 58,
-                "green": 196,
-                "blue": 20
-            }
-        }
-    ],
-    "dat_dau_gia_dat_tho_cu": [
-        {
-            "xaphuong_id": 26506,
-            "name_xaphuong": "1",
-            "price": 3916666,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 3916666,
-            "avg": 3916666,
-            "min": 3916666,
-            "color": {
-                "red": 255,
-                "green": 0,
-                "blue": 0
-            }
-        },
-        {
-            "xaphuong_id": 26508,
-            "name_xaphuong": "thắng tam",
-            "price": 50070551,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 100000000,
-            "avg": 50070551,
-            "min": 189189,
-            "color": {
-                "red": 251,
-                "green": 3,
-                "blue": 2
-            }
-        },
-        {
-            "xaphuong_id": 26509,
-            "name_xaphuong": "2",
-            "price": 61761983,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 102211111,
-            "avg": 61761983,
-            "min": 4841897,
-            "color": {
-                "red": 247,
-                "green": 7,
-                "blue": 4
-            }
-        },
-        {
-            "xaphuong_id": 26512,
-            "name_xaphuong": "3",
-            "price": 4227650257,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 122142857142,
-            "avg": 4227650257,
-            "min": 1817757,
-            "color": {
-                "red": 243,
-                "green": 11,
-                "blue": 6
-            }
-        },
-        {
-            "xaphuong_id": 26515,
-            "name_xaphuong": "4",
-            "price": 68228377,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 102409638,
-            "avg": 68228377,
-            "min": 5431309,
-            "color": {
-                "red": 239,
-                "green": 15,
-                "blue": 8
-            }
-        },
-        {
-            "xaphuong_id": 26518,
-            "name_xaphuong": "5",
-            "price": 2250000,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 2250000,
-            "avg": 2250000,
-            "min": 2250000,
-            "color": {
-                "red": 235,
-                "green": 19,
-                "blue": 10
             }
         },
         {
             "xaphuong_id": 26521,
-            "name_xaphuong": "thắng nhì",
-            "price": 58071364,
+            "name_xaphuong": " Phường Thắng Nhì",
+            "price": 14300000000,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 129800000,
-            "avg": 58071364,
-            "min": 4285714,
+            "max": 75.0,
+            "avg": 48,
+            "min": 19.0,
             "color": {
-                "red": 231,
-                "green": 23,
-                "blue": 12
-            }
-        },
-        {
-            "xaphuong_id": 26524,
-            "name_xaphuong": "7",
-            "price": 13051495830,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 125000000000,
-            "avg": 13051495830,
-            "min": 130,
-            "color": {
-                "red": 227,
-                "green": 27,
-                "blue": 14
-            }
-        },
-        {
-            "xaphuong_id": 26526,
-            "name_xaphuong": "nguyễn an ninh",
-            "price": 87559462,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 100000000,
-            "avg": 87559462,
-            "min": 46206896,
-            "color": {
-                "red": 224,
-                "green": 30,
-                "blue": 16
-            }
-        },
-        {
-            "xaphuong_id": 26527,
-            "name_xaphuong": "8",
-            "price": 10951651884,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 113235294117,
-            "avg": 10951651884,
-            "min": 6285714,
-            "color": {
-                "red": 220,
-                "green": 34,
+                "red": 91.07142857142856,
+                "green": 163.92857142857144,
                 "blue": 18
             }
         },
         {
-            "xaphuong_id": 26530,
-            "name_xaphuong": null,
-            "price": 126744186,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 126744186,
-            "avg": 126744186,
-            "min": 126744186,
-            "color": {
-                "red": 216,
-                "green": 38,
-                "blue": 20
-            }
-        },
-        {
-            "xaphuong_id": 26533,
-            "name_xaphuong": "thắng nhất",
-            "price": 38496120,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 80000000,
-            "avg": 38496120,
-            "min": 1300000,
-            "color": {
-                "red": 212,
-                "green": 42,
-                "blue": 22
-            }
-        },
-        {
-            "xaphuong_id": 26535,
-            "name_xaphuong": "rạch dừa",
-            "price": 33915116,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 88888888,
-            "avg": 33915116,
-            "min": 980000,
-            "color": {
-                "red": 208,
-                "green": 46,
-                "blue": 24
-            }
-        },
-        {
-            "xaphuong_id": 26536,
-            "name_xaphuong": "10",
-            "price": 1394250949,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 15625000000,
-            "avg": 1394250949,
-            "min": 2500000,
-            "color": {
-                "red": 204,
-                "green": 50,
-                "blue": 26
-            }
-        },
-        {
-            "xaphuong_id": 26539,
-            "name_xaphuong": "11",
-            "price": 18174740,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 30487804,
-            "avg": 18174740,
-            "min": 1995798,
-            "color": {
-                "red": 200,
-                "green": 54,
-                "blue": 28
-            }
-        },
-        {
             "xaphuong_id": 26542,
-            "name_xaphuong": "12",
-            "price": 37367802,
+            "name_xaphuong": " Phường 12",
+            "price": 54000000,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 150000000,
-            "avg": 37367802,
-            "min": 540000,
+            "max": 31.0,
+            "avg": 14,
+            "min": 6.0,
             "color": {
-                "red": 197,
-                "green": 57,
-                "blue": 30
-            }
-        },
-        {
-            "xaphuong_id": 26545,
-            "name_xaphuong": "long sơn",
-            "price": 2620967,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 2620967,
-            "avg": 2620967,
-            "min": 2620967,
-            "color": {
-                "red": 193,
-                "green": 61,
-                "blue": 32
-            }
-        },
-        {
-            "xaphuong_id": 26554,
-            "name_xaphuong": "phước nguyên",
-            "price": 173084159,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 466666666,
-            "avg": 173084159,
-            "min": 5217391,
-            "color": {
-                "red": 189,
-                "green": 65,
-                "blue": 34
-            }
-        },
-        {
-            "xaphuong_id": 26557,
-            "name_xaphuong": "long toàn",
-            "price": 21250000,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 21250000,
-            "avg": 21250000,
-            "min": 21250000,
-            "color": {
-                "red": 185,
-                "green": 69,
-                "blue": 36
-            }
-        },
-        {
-            "xaphuong_id": 26558,
-            "name_xaphuong": "long tâm",
-            "price": 1210759854,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 12000000000,
-            "avg": 1210759854,
-            "min": 9,
-            "color": {
-                "red": 181,
-                "green": 73,
-                "blue": 38
-            }
-        },
-        {
-            "xaphuong_id": 26560,
-            "name_xaphuong": "phước trung",
-            "price": 49000,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 49000,
-            "avg": 49000,
-            "min": 49000,
-            "color": {
-                "red": 177,
-                "green": 77,
-                "blue": 40
-            }
-        },
-        {
-            "xaphuong_id": 26563,
-            "name_xaphuong": "long hương",
-            "price": 31889671,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 61666666,
-            "avg": 31889671,
-            "min": 2112676,
-            "color": {
-                "red": 173,
-                "green": 81,
-                "blue": 42
-            }
-        },
-        {
-            "xaphuong_id": 26566,
-            "name_xaphuong": "kim dinh",
-            "price": 8417506,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 15600000,
-            "avg": 8417506,
-            "min": 9,
-            "color": {
-                "red": 170,
-                "green": 85,
-                "blue": 44
-            }
-        },
-        {
-            "xaphuong_id": 26567,
-            "name_xaphuong": "tân hưng",
-            "price": 58011498,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 127192982,
-            "avg": 58011498,
-            "min": 2268000,
-            "color": {
-                "red": 166,
-                "green": 88,
-                "blue": 46
-            }
-        },
-        {
-            "xaphuong_id": 26569,
-            "name_xaphuong": "long phước",
-            "price": 136420633,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 870000000,
-            "avg": 136420633,
-            "min": 70,
-            "color": {
-                "red": 162,
-                "green": 92,
-                "blue": 48
-            }
-        },
-        {
-            "xaphuong_id": 26572,
-            "name_xaphuong": "hòa long",
-            "price": 30921389,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 201612903,
-            "avg": 30921389,
-            "min": 285,
-            "color": {
-                "red": 158,
-                "green": 96,
-                "blue": 50
-            }
-        },
-        {
-            "xaphuong_id": 26574,
-            "name_xaphuong": "bàu chinh",
-            "price": 17549921,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 110714285,
-            "avg": 17549921,
-            "min": 79545,
-            "color": {
-                "red": 154,
-                "green": 100,
-                "blue": 52
-            }
-        },
-        {
-            "xaphuong_id": 26575,
-            "name_xaphuong": "ngãi giao",
-            "price": 4926169,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 12254901,
-            "avg": 4926169,
-            "min": 177777,
-            "color": {
-                "red": 150,
-                "green": 104,
-                "blue": 54
-            }
-        },
-        {
-            "xaphuong_id": 26578,
-            "name_xaphuong": "bình ba",
-            "price": 1587173516,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 9500000000,
-            "avg": 1587173516,
-            "min": 700000,
-            "color": {
-                "red": 146,
-                "green": 108,
-                "blue": 56
-            }
-        },
-        {
-            "xaphuong_id": 26581,
-            "name_xaphuong": "suối nghệ",
-            "price": 586468312,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 6100000000,
-            "avg": 586468312,
-            "min": 2830188,
-            "color": {
-                "red": 142,
-                "green": 112,
-                "blue": 58
-            }
-        },
-        {
-            "xaphuong_id": 26584,
-            "name_xaphuong": "xuân sơn",
-            "price": 4834845,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 7549549,
-            "avg": 4834845,
-            "min": 2120141,
-            "color": {
-                "red": 139,
-                "green": 115,
-                "blue": 60
-            }
-        },
-        {
-            "xaphuong_id": 26587,
-            "name_xaphuong": "sơn bình",
-            "price": 145833,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 145833,
-            "avg": 145833,
-            "min": 145833,
-            "color": {
-                "red": 135,
-                "green": 119,
-                "blue": 62
-            }
-        },
-        {
-            "xaphuong_id": 26590,
-            "name_xaphuong": "bình giã",
-            "price": 13044025,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 18333333,
-            "avg": 13044025,
-            "min": 7754716,
-            "color": {
-                "red": 131,
-                "green": 123,
-                "blue": 64
-            }
-        },
-        {
-            "xaphuong_id": 26593,
-            "name_xaphuong": "bình trung",
-            "price": 7479266,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 17847336,
-            "avg": 7479266,
-            "min": 1019035,
-            "color": {
-                "red": 127,
-                "green": 127,
-                "blue": 66
-            }
-        },
-        {
-            "xaphuong_id": 26596,
-            "name_xaphuong": "xà bang",
-            "price": 31662646,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 110294117,
-            "avg": 31662646,
-            "min": 77001,
-            "color": {
-                "red": 123,
-                "green": 131,
-                "blue": 68
-            }
-        },
-        {
-            "xaphuong_id": 26602,
-            "name_xaphuong": "láng lớn",
-            "price": 16448538,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 62222222,
-            "avg": 16448538,
-            "min": 375000,
-            "color": {
-                "red": 119,
-                "green": 135,
-                "blue": 70
-            }
-        },
-        {
-            "xaphuong_id": 26605,
-            "name_xaphuong": "quảng thành",
-            "price": 16546952,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 47916666,
-            "avg": 16546952,
-            "min": 750000,
-            "color": {
-                "red": 115,
-                "green": 139,
-                "blue": 72
-            }
-        },
-        {
-            "xaphuong_id": 26611,
-            "name_xaphuong": "suối rao",
-            "price": 17813292,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 70000000,
-            "avg": 17813292,
-            "min": 29,
-            "color": {
-                "red": 112,
-                "green": 142,
-                "blue": 74
-            }
-        },
-        {
-            "xaphuong_id": 26614,
-            "name_xaphuong": "đá bạc",
-            "price": 11755304,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 86666666,
-            "avg": 11755304,
-            "min": 9,
-            "color": {
-                "red": 108,
-                "green": 146,
-                "blue": 76
-            }
-        },
-        {
-            "xaphuong_id": 26617,
-            "name_xaphuong": "nghĩa thành",
-            "price": 32891650,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 590277777,
-            "avg": 32891650,
-            "min": 9,
-            "color": {
-                "red": 104,
-                "green": 150,
-                "blue": 78
-            }
-        },
-        {
-            "xaphuong_id": 26620,
-            "name_xaphuong": "phước bửu",
-            "price": 42187296,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 114545454,
-            "avg": 42187296,
-            "min": 1367521,
-            "color": {
-                "red": 100,
-                "green": 154,
-                "blue": 80
-            }
-        },
-        {
-            "xaphuong_id": 26623,
-            "name_xaphuong": "phước thuận",
-            "price": 26226639,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 105294117,
-            "avg": 26226639,
-            "min": 29,
-            "color": {
-                "red": 96,
-                "green": 158,
-                "blue": 82
-            }
-        },
-        {
-            "xaphuong_id": 26626,
-            "name_xaphuong": "phước tân",
-            "price": 12332257,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 444444444,
-            "avg": 12332257,
-            "min": 52935,
-            "color": {
-                "red": 92,
-                "green": 162,
-                "blue": 84
-            }
-        },
-        {
-            "xaphuong_id": 26629,
-            "name_xaphuong": "xuyên mộc",
-            "price": 7925450,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 35200000,
-            "avg": 7925450,
-            "min": 29,
-            "color": {
-                "red": 88,
-                "green": 166,
-                "blue": 86
-            }
-        },
-        {
-            "xaphuong_id": 26632,
-            "name_xaphuong": "bông trang",
-            "price": 5757575,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 5757575,
-            "avg": 5757575,
-            "min": 5757575,
-            "color": {
-                "red": 85,
-                "green": 170,
-                "blue": 88
-            }
-        },
-        {
-            "xaphuong_id": 26635,
-            "name_xaphuong": "tân lâm",
-            "price": 13161772,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 71302325,
-            "avg": 13161772,
-            "min": 25000,
-            "color": {
-                "red": 81,
-                "green": 173,
-                "blue": 90
-            }
-        },
-        {
-            "xaphuong_id": 26638,
-            "name_xaphuong": "bàu lâm",
-            "price": 11984167,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 20000000,
-            "avg": 11984167,
-            "min": 2086956,
-            "color": {
-                "red": 77,
-                "green": 177,
-                "blue": 92
-            }
-        },
-        {
-            "xaphuong_id": 26641,
-            "name_xaphuong": "hòa bình",
-            "price": 8052740,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 312500000,
-            "avg": 8052740,
-            "min": 9,
-            "color": {
-                "red": 73,
-                "green": 181,
-                "blue": 94
-            }
-        },
-        {
-            "xaphuong_id": 26644,
-            "name_xaphuong": "hòa hưng",
-            "price": 250000,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 250000,
-            "avg": 250000,
-            "min": 250000,
-            "color": {
-                "red": 69,
-                "green": 185,
-                "blue": 96
-            }
-        },
-        {
-            "xaphuong_id": 26647,
-            "name_xaphuong": "hòa hiệp",
-            "price": 4844912,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 138211382,
-            "avg": 4844912,
-            "min": 9,
-            "color": {
-                "red": 65,
-                "green": 189,
-                "blue": 98
-            }
-        },
-        {
-            "xaphuong_id": 26650,
-            "name_xaphuong": "hòa hội",
-            "price": 31748738,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 118421052,
-            "avg": 31748738,
-            "min": 437743,
-            "color": {
-                "red": 61,
-                "green": 193,
-                "blue": 100
-            }
-        },
-        {
-            "xaphuong_id": 26653,
-            "name_xaphuong": "bưng riềng",
-            "price": 30303030,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 30303030,
-            "avg": 30303030,
-            "min": 30303030,
-            "color": {
-                "red": 57,
-                "green": 197,
-                "blue": 102
-            }
-        },
-        {
-            "xaphuong_id": 26656,
-            "name_xaphuong": "bình châu",
-            "price": 51215681,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 208333333,
-            "avg": 51215681,
-            "min": 153846,
-            "color": {
-                "red": 54,
-                "green": 200,
-                "blue": 104
+                "red": 72.85714285714283,
+                "green": 182.14285714285717,
+                "blue": 20
             }
         },
         {
             "xaphuong_id": 26689,
             "name_xaphuong": " Thị trấn Phước Hải",
-            "price": 1074048273,
+            "price": 4900000000,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 11684210526,
-            "avg": 1074048273,
-            "min": 2600000,
+            "max": 41.0,
+            "avg": 13,
+            "min": 4.0,
             "color": {
-                "red": 50,
-                "green": 204,
-                "blue": 106
-            }
-        },
-        {
-            "xaphuong_id": 26704,
-            "name_xaphuong": "phú mỹ",
-            "price": 45046106,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 262500000,
-            "avg": 45046106,
-            "min": 1044117,
-            "color": {
-                "red": 46,
-                "green": 208,
-                "blue": 108
-            }
-        },
-        {
-            "xaphuong_id": 26707,
-            "name_xaphuong": "tân hòa",
-            "price": 41730637,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 362318840,
-            "avg": 41730637,
-            "min": 33,
-            "color": {
-                "red": 42,
-                "green": 212,
-                "blue": 110
-            }
-        },
-        {
-            "xaphuong_id": 26710,
-            "name_xaphuong": "tân hải",
-            "price": 126336559,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 571428571,
-            "avg": 126336559,
-            "min": 24645,
-            "color": {
-                "red": 38,
-                "green": 216,
-                "blue": 112
-            }
-        },
-        {
-            "xaphuong_id": 26713,
-            "name_xaphuong": "phước hòa",
-            "price": 9730522,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 36842105,
-            "avg": 9730522,
-            "min": 50000,
-            "color": {
-                "red": 34,
-                "green": 220,
-                "blue": 114
-            }
-        },
-        {
-            "xaphuong_id": 26716,
-            "name_xaphuong": "tân phước",
-            "price": 43949513,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 113043478,
-            "avg": 43949513,
-            "min": 12000000,
-            "color": {
-                "red": 30,
-                "green": 224,
-                "blue": 116
-            }
-        },
-        {
-            "xaphuong_id": 26719,
-            "name_xaphuong": "mỹ xuân",
-            "price": 28461889,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 104255319,
-            "avg": 28461889,
-            "min": 17000,
-            "color": {
-                "red": 27,
-                "green": 227,
-                "blue": 118
-            }
-        },
-        {
-            "xaphuong_id": 26722,
-            "name_xaphuong": "sông xoài",
-            "price": 18817236,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 47368421,
-            "avg": 18817236,
-            "min": 2148760,
-            "color": {
-                "red": 23,
-                "green": 231,
-                "blue": 120
-            }
-        },
-        {
-            "xaphuong_id": 26725,
-            "name_xaphuong": "hắc dịch",
-            "price": 27955117,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 442857142,
-            "avg": 27955117,
-            "min": 121428,
-            "color": {
-                "red": 19,
-                "green": 235,
-                "blue": 122
-            }
-        },
-        {
-            "xaphuong_id": 26728,
-            "name_xaphuong": "châu pha",
-            "price": 21736966,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 218750000,
-            "avg": 21736966,
-            "min": 38216,
-            "color": {
-                "red": 15,
-                "green": 239,
-                "blue": 124
-            }
-        },
-        {
-            "xaphuong_id": 26731,
-            "name_xaphuong": "tóc tiên",
-            "price": 25767049,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 115555555,
-            "avg": 25767049,
-            "min": 288461,
-            "color": {
-                "red": 11,
-                "green": 243,
-                "blue": 126
+                "red": 54.64285714285714,
+                "green": 200.35714285714286,
+                "blue": 22
             }
         }
     ],
     "polygon": [
         {
-            "WandID": 26508,
-            "WandName": "Thắng Tam",
+            "polygon": [
+                [
+                    [
+                        109.30089073417618,
+                        13.086965803156252
+                    ],
+                    [
+                        109.30135092052407,
+                        13.086142503175157
+                    ],
+                    [
+                        109.30281789137084,
+                        13.086530354256263
+                    ],
+                    [
+                        109.30318934523845,
+                        13.085313331842993
+                    ],
+                    [
+                        109.30364977966916,
+                        13.085456551807304
+                    ],
+                    [
+                        109.3037040821675,
+                        13.085284170528599
+                    ],
+                    [
+                        109.30372676108054,
+                        13.085183790934238
+                    ],
+                    [
+                        109.30368478301591,
+                        13.085001375322472
+                    ],
+                    [
+                        109.30349560234093,
+                        13.084454356661533
+                    ],
+                    [
+                        109.3037319533956,
+                        13.084377182206753
+                    ],
+                    [
+                        109.30353497470968,
+                        13.083821645660485
+                    ],
+                    [
+                        109.30424870477162,
+                        13.083557063772865
+                    ],
+                    [
+                        109.30445340497398,
+                        13.08341577121653
+                    ],
+                    [
+                        109.30451276744509,
+                        13.083259053809861
+                    ],
+                    [
+                        109.3052388412238,
+                        13.082330541866115
+                    ],
+                    [
+                        109.30481856651599,
+                        13.082054653779787
+                    ],
+                    [
+                        109.30387358687415,
+                        13.081342709790226
+                    ],
+                    [
+                        109.30271451641946,
+                        13.080315399863407
+                    ],
+                    [
+                        109.30012705071788,
+                        13.078205098021938
+                    ],
+                    [
+                        109.29977668793872,
+                        13.078340513671666
+                    ],
+                    [
+                        109.29917289242464,
+                        13.078487146048563
+                    ],
+                    [
+                        109.29881416158975,
+                        13.07865345737608
+                    ],
+                    [
+                        109.29862585123449,
+                        13.078808463263716
+                    ],
+                    [
+                        109.29827834592636,
+                        13.079527301618105
+                    ],
+                    [
+                        109.2979956226297,
+                        13.079711504569609
+                    ],
+                    [
+                        109.29769187665877,
+                        13.07969475690504
+                    ],
+                    [
+                        109.29751892847075,
+                        13.079732174264835
+                    ],
+                    [
+                        109.29738124416745,
+                        13.07988953851136
+                    ],
+                    [
+                        109.29726539648314,
+                        13.080149931639365
+                    ],
+                    [
+                        109.29716918358523,
+                        13.080596930997991
+                    ],
+                    [
+                        109.29716023709356,
+                        13.080924019532894
+                    ],
+                    [
+                        109.29728271525188,
+                        13.082187213082113
+                    ],
+                    [
+                        109.29731352722455,
+                        13.0830263956719
+                    ],
+                    [
+                        109.29711566241089,
+                        13.08353931171131
+                    ],
+                    [
+                        109.29767729427243,
+                        13.083715736976282
+                    ],
+                    [
+                        109.29718075627099,
+                        13.08523747873194
+                    ],
+                    [
+                        109.30085789486793,
+                        13.086995955761745
+                    ],
+                    [
+                        109.30089073417618,
+                        13.086965803156252
+                    ]
+                ]
+            ],
+            "WandID": 26506,
+            "WandName": "1"
+        },
+        {
             "polygon": [
                 [
                     [
@@ -1136,11 +780,11 @@
                         10.3492107391358
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26508,
+            "WandName": "Thắng Tam"
         },
         {
-            "WandID": 26509,
-            "WandName": "2",
             "polygon": [
                 [
                     [
@@ -1516,11 +1160,11 @@
                         13.093889386880772
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26509,
+            "WandName": "2"
         },
         {
-            "WandID": 26512,
-            "WandName": "3",
             "polygon": [
                 [
                     [
@@ -1632,11 +1276,11 @@
                         13.089768735626503
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26512,
+            "WandName": "3"
         },
         {
-            "WandID": 26515,
-            "WandName": "4",
             "polygon": [
                 [
                     [
@@ -1772,11 +1416,231 @@
                         13.089166803544789
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26515,
+            "WandName": "4"
         },
         {
-            "WandID": 26524,
-            "WandName": "7",
+            "polygon": [
+                [
+                    [
+                        107.093881,
+                        10.370289
+                    ],
+                    [
+                        107.093887,
+                        10.370267
+                    ],
+                    [
+                        107.093901,
+                        10.370248
+                    ],
+                    [
+                        107.093919,
+                        10.370235
+                    ],
+                    [
+                        107.093942,
+                        10.370229
+                    ],
+                    [
+                        107.093965,
+                        10.37023
+                    ],
+                    [
+                        107.093986,
+                        10.370238
+                    ],
+                    [
+                        107.094003,
+                        10.370252
+                    ],
+                    [
+                        107.094014,
+                        10.370271
+                    ],
+                    [
+                        107.094019,
+                        10.370293
+                    ],
+                    [
+                        107.094016,
+                        10.370315
+                    ],
+                    [
+                        107.094007,
+                        10.370335
+                    ],
+                    [
+                        107.093991,
+                        10.370351
+                    ],
+                    [
+                        107.093971,
+                        10.370361
+                    ],
+                    [
+                        107.093949,
+                        10.370364
+                    ],
+                    [
+                        107.093927,
+                        10.37036
+                    ],
+                    [
+                        107.093907,
+                        10.370349
+                    ],
+                    [
+                        107.093891,
+                        10.370332
+                    ],
+                    [
+                        107.093882,
+                        10.370311
+                    ],
+                    [
+                        107.093881,
+                        10.370289
+                    ]
+                ]
+            ],
+            "WandID": 26518,
+            "WandName": "5"
+        },
+        {
+            "polygon": [
+                [
+                    [
+                        107.076683044434,
+                        10.3845729827882
+                    ],
+                    [
+                        107.07837677002,
+                        10.3854541778564
+                    ],
+                    [
+                        107.080184936523,
+                        10.3853673934938
+                    ],
+                    [
+                        107.080200195312,
+                        10.3837966918946
+                    ],
+                    [
+                        107.081245422363,
+                        10.3825025558472
+                    ],
+                    [
+                        107.080596923828,
+                        10.3816413879396
+                    ],
+                    [
+                        107.080917358398,
+                        10.3802871704102
+                    ],
+                    [
+                        107.079345703125,
+                        10.379177093506
+                    ],
+                    [
+                        107.081954956055,
+                        10.3782739639283
+                    ],
+                    [
+                        107.080810546875,
+                        10.3766183853151
+                    ],
+                    [
+                        107.084274291992,
+                        10.3691415786744
+                    ],
+                    [
+                        107.083473205566,
+                        10.3686180114747
+                    ],
+                    [
+                        107.08056640625,
+                        10.3700094223023
+                    ],
+                    [
+                        107.076667785645,
+                        10.3702421188354
+                    ],
+                    [
+                        107.075492858887,
+                        10.3619060516357
+                    ],
+                    [
+                        107.075401306152,
+                        10.3612327575685
+                    ],
+                    [
+                        107.074607849121,
+                        10.3613109588624
+                    ],
+                    [
+                        107.073051452637,
+                        10.3561944961549
+                    ],
+                    [
+                        107.067306518555,
+                        10.3597612380983
+                    ],
+                    [
+                        107.068893432617,
+                        10.3620090484619
+                    ],
+                    [
+                        107.068649291992,
+                        10.3629627227783
+                    ],
+                    [
+                        107.067909240723,
+                        10.3620023727418
+                    ],
+                    [
+                        107.068435668945,
+                        10.3640737533569
+                    ],
+                    [
+                        107.067581176758,
+                        10.363917350769
+                    ],
+                    [
+                        107.066352844238,
+                        10.3680658340454
+                    ],
+                    [
+                        107.066627502441,
+                        10.3703689575195
+                    ],
+                    [
+                        107.072708129883,
+                        10.3740720748901
+                    ],
+                    [
+                        107.07292175293,
+                        10.3789329528809
+                    ],
+                    [
+                        107.07682800293,
+                        10.3808717727662
+                    ],
+                    [
+                        107.07625579834,
+                        10.3834571838379
+                    ],
+                    [
+                        107.076683044434,
+                        10.3845729827882
+                    ]
+                ]
+            ],
+            "WandID": 26521,
+            "WandName": "Thắng Nhì"
+        },
+        {
             "polygon": [
                 [
                     [
@@ -2128,11 +1992,11 @@
                         13.108658146075564
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26524,
+            "WandName": "7"
         },
         {
-            "WandID": 26526,
-            "WandName": "Nguyễn An Ninh",
             "polygon": [
                 [
                     [
@@ -2276,11 +2140,11 @@
                         10.3670673370362
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26526,
+            "WandName": "Nguyễn An Ninh"
         },
         {
-            "WandID": 26527,
-            "WandName": "8",
             "polygon": [
                 [
                     [
@@ -2528,711 +2392,11 @@
                         13.103037700366196
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26527,
+            "WandName": "8"
         },
         {
-            "WandID": 26533,
-            "WandName": "Thắng Nhất",
-            "polygon": [
-                [
-                    [
-                        107.099464416504,
-                        10.4015254974366
-                    ],
-                    [
-                        107.09912109375,
-                        10.3972787857056
-                    ],
-                    [
-                        107.098052978516,
-                        10.3967380523682
-                    ],
-                    [
-                        107.09871673584,
-                        10.396243095398
-                    ],
-                    [
-                        107.097114562988,
-                        10.394082069397
-                    ],
-                    [
-                        107.096687316895,
-                        10.3947715759278
-                    ],
-                    [
-                        107.096458435059,
-                        10.3937320709229
-                    ],
-                    [
-                        107.096054077148,
-                        10.3944425582885
-                    ],
-                    [
-                        107.095329284668,
-                        10.3935070037843
-                    ],
-                    [
-                        107.090225219727,
-                        10.3943662643433
-                    ],
-                    [
-                        107.089805603027,
-                        10.3951282501222
-                    ],
-                    [
-                        107.090354919434,
-                        10.3965787887573
-                    ],
-                    [
-                        107.091979980469,
-                        10.398678779602
-                    ],
-                    [
-                        107.093994140625,
-                        10.3998680114746
-                    ],
-                    [
-                        107.095962524414,
-                        10.4037456512452
-                    ],
-                    [
-                        107.097999572754,
-                        10.4028816223145
-                    ],
-                    [
-                        107.099464416504,
-                        10.4015254974366
-                    ]
-                ]
-            ]
-        },
-        {
-            "WandID": 26535,
-            "WandName": "Rạch Dừa",
-            "polygon": [
-                [
-                    [
-                        107.11873626709,
-                        10.3960447311402
-                    ],
-                    [
-                        107.117424011231,
-                        10.3957891464234
-                    ],
-                    [
-                        107.117668151856,
-                        10.3948612213135
-                    ],
-                    [
-                        107.113327026367,
-                        10.3928327560425
-                    ],
-                    [
-                        107.109169006348,
-                        10.3893537521362
-                    ],
-                    [
-                        107.106559753418,
-                        10.3929004669189
-                    ],
-                    [
-                        107.104927062988,
-                        10.3928127288818
-                    ],
-                    [
-                        107.103408813477,
-                        10.3962392807008
-                    ],
-                    [
-                        107.104499816895,
-                        10.4016590118408
-                    ],
-                    [
-                        107.105171203613,
-                        10.4019222259523
-                    ],
-                    [
-                        107.104988098145,
-                        10.403184890747
-                    ],
-                    [
-                        107.107406616211,
-                        10.4075040817261
-                    ],
-                    [
-                        107.109199523926,
-                        10.4090929031373
-                    ],
-                    [
-                        107.114540100098,
-                        10.4111394882202
-                    ],
-                    [
-                        107.116744995117,
-                        10.4145069122314
-                    ],
-                    [
-                        107.120300292969,
-                        10.4136800765991
-                    ],
-                    [
-                        107.121208190918,
-                        10.4079351425171
-                    ],
-                    [
-                        107.120140075684,
-                        10.4040851593018
-                    ],
-                    [
-                        107.121681213379,
-                        10.402123451233
-                    ],
-                    [
-                        107.122314453125,
-                        10.3999309539795
-                    ],
-                    [
-                        107.120765686035,
-                        10.3993358612061
-                    ],
-                    [
-                        107.121650695801,
-                        10.39830493927
-                    ],
-                    [
-                        107.121482849121,
-                        10.3974723815919
-                    ],
-                    [
-                        107.119964599609,
-                        10.3974199295044
-                    ],
-                    [
-                        107.11873626709,
-                        10.3960447311402
-                    ]
-                ]
-            ]
-        },
-        {
-            "WandID": 26536,
-            "WandName": "10",
-            "polygon": [
-                [
-                    [
-                        106.65096880709551,
-                        10.784743152074112
-                    ],
-                    [
-                        106.65091617361998,
-                        10.784279118585953
-                    ],
-                    [
-                        106.65074451491996,
-                        10.78353524312203
-                    ],
-                    [
-                        106.65050191236172,
-                        10.78281380022628
-                    ],
-                    [
-                        106.6501070262753,
-                        10.782108239257079
-                    ],
-                    [
-                        106.64989811743925,
-                        10.779775776704977
-                    ],
-                    [
-                        106.64982713713306,
-                        10.777486645447492
-                    ],
-                    [
-                        106.64975919309883,
-                        10.777149191126432
-                    ],
-                    [
-                        106.64970281769276,
-                        10.777025097564458
-                    ],
-                    [
-                        106.64903644249996,
-                        10.776185592872473
-                    ],
-                    [
-                        106.64802325291693,
-                        10.774791343591204
-                    ],
-                    [
-                        106.64705226305351,
-                        10.776076644168546
-                    ],
-                    [
-                        106.64568570227281,
-                        10.777978802013532
-                    ],
-                    [
-                        106.64329649699914,
-                        10.7814625137808
-                    ],
-                    [
-                        106.64287368713462,
-                        10.782417785517387
-                    ],
-                    [
-                        106.64206473570033,
-                        10.784875781315431
-                    ],
-                    [
-                        106.6416182489805,
-                        10.785974495199861
-                    ],
-                    [
-                        106.64315626619933,
-                        10.786592454730894
-                    ],
-                    [
-                        106.64519936174693,
-                        10.787608159903582
-                    ],
-                    [
-                        106.64589763263373,
-                        10.787903396252057
-                    ],
-                    [
-                        106.64617475669071,
-                        10.787990439324396
-                    ],
-                    [
-                        106.64645067522088,
-                        10.788008000304163
-                    ],
-                    [
-                        106.64649603013132,
-                        10.787972820519396
-                    ],
-                    [
-                        106.64650272747893,
-                        10.78787611865702
-                    ],
-                    [
-                        106.64800185758477,
-                        10.7868247552325
-                    ],
-                    [
-                        106.6483113545237,
-                        10.786678319472836
-                    ],
-                    [
-                        106.64870668878032,
-                        10.78631900102356
-                    ],
-                    [
-                        106.64938712459592,
-                        10.785827653398767
-                    ],
-                    [
-                        106.64949795241765,
-                        10.785710733336881
-                    ],
-                    [
-                        106.64944823137691,
-                        10.785541635508933
-                    ],
-                    [
-                        106.65079005615932,
-                        10.784788011154241
-                    ],
-                    [
-                        106.65096880709551,
-                        10.784743152074112
-                    ]
-                ]
-            ]
-        },
-        {
-            "WandID": 26506,
-            "WandName": "1",
-            "polygon": [
-                [
-                    [
-                        109.30089073417618,
-                        13.086965803156252
-                    ],
-                    [
-                        109.30135092052407,
-                        13.086142503175157
-                    ],
-                    [
-                        109.30281789137084,
-                        13.086530354256263
-                    ],
-                    [
-                        109.30318934523845,
-                        13.085313331842993
-                    ],
-                    [
-                        109.30364977966916,
-                        13.085456551807304
-                    ],
-                    [
-                        109.3037040821675,
-                        13.085284170528599
-                    ],
-                    [
-                        109.30372676108054,
-                        13.085183790934238
-                    ],
-                    [
-                        109.30368478301591,
-                        13.085001375322472
-                    ],
-                    [
-                        109.30349560234093,
-                        13.084454356661533
-                    ],
-                    [
-                        109.3037319533956,
-                        13.084377182206753
-                    ],
-                    [
-                        109.30353497470968,
-                        13.083821645660485
-                    ],
-                    [
-                        109.30424870477162,
-                        13.083557063772865
-                    ],
-                    [
-                        109.30445340497398,
-                        13.08341577121653
-                    ],
-                    [
-                        109.30451276744509,
-                        13.083259053809861
-                    ],
-                    [
-                        109.3052388412238,
-                        13.082330541866115
-                    ],
-                    [
-                        109.30481856651599,
-                        13.082054653779787
-                    ],
-                    [
-                        109.30387358687415,
-                        13.081342709790226
-                    ],
-                    [
-                        109.30271451641946,
-                        13.080315399863407
-                    ],
-                    [
-                        109.30012705071788,
-                        13.078205098021938
-                    ],
-                    [
-                        109.29977668793872,
-                        13.078340513671666
-                    ],
-                    [
-                        109.29917289242464,
-                        13.078487146048563
-                    ],
-                    [
-                        109.29881416158975,
-                        13.07865345737608
-                    ],
-                    [
-                        109.29862585123449,
-                        13.078808463263716
-                    ],
-                    [
-                        109.29827834592636,
-                        13.079527301618105
-                    ],
-                    [
-                        109.2979956226297,
-                        13.079711504569609
-                    ],
-                    [
-                        109.29769187665877,
-                        13.07969475690504
-                    ],
-                    [
-                        109.29751892847075,
-                        13.079732174264835
-                    ],
-                    [
-                        109.29738124416745,
-                        13.07988953851136
-                    ],
-                    [
-                        109.29726539648314,
-                        13.080149931639365
-                    ],
-                    [
-                        109.29716918358523,
-                        13.080596930997991
-                    ],
-                    [
-                        109.29716023709356,
-                        13.080924019532894
-                    ],
-                    [
-                        109.29728271525188,
-                        13.082187213082113
-                    ],
-                    [
-                        109.29731352722455,
-                        13.0830263956719
-                    ],
-                    [
-                        109.29711566241089,
-                        13.08353931171131
-                    ],
-                    [
-                        109.29767729427243,
-                        13.083715736976282
-                    ],
-                    [
-                        109.29718075627099,
-                        13.08523747873194
-                    ],
-                    [
-                        109.30085789486793,
-                        13.086995955761745
-                    ],
-                    [
-                        109.30089073417618,
-                        13.086965803156252
-                    ]
-                ]
-            ]
-        },
-        {
-            "WandID": 26518,
-            "WandName": "5",
-            "polygon": [
-                [
-                    [
-                        107.093881,
-                        10.370289
-                    ],
-                    [
-                        107.093887,
-                        10.370267
-                    ],
-                    [
-                        107.093901,
-                        10.370248
-                    ],
-                    [
-                        107.093919,
-                        10.370235
-                    ],
-                    [
-                        107.093942,
-                        10.370229
-                    ],
-                    [
-                        107.093965,
-                        10.37023
-                    ],
-                    [
-                        107.093986,
-                        10.370238
-                    ],
-                    [
-                        107.094003,
-                        10.370252
-                    ],
-                    [
-                        107.094014,
-                        10.370271
-                    ],
-                    [
-                        107.094019,
-                        10.370293
-                    ],
-                    [
-                        107.094016,
-                        10.370315
-                    ],
-                    [
-                        107.094007,
-                        10.370335
-                    ],
-                    [
-                        107.093991,
-                        10.370351
-                    ],
-                    [
-                        107.093971,
-                        10.370361
-                    ],
-                    [
-                        107.093949,
-                        10.370364
-                    ],
-                    [
-                        107.093927,
-                        10.37036
-                    ],
-                    [
-                        107.093907,
-                        10.370349
-                    ],
-                    [
-                        107.093891,
-                        10.370332
-                    ],
-                    [
-                        107.093882,
-                        10.370311
-                    ],
-                    [
-                        107.093881,
-                        10.370289
-                    ]
-                ]
-            ]
-        },
-        {
-            "WandID": 26521,
-            "WandName": "Thắng Nhì",
-            "polygon": [
-                [
-                    [
-                        107.076683044434,
-                        10.3845729827882
-                    ],
-                    [
-                        107.07837677002,
-                        10.3854541778564
-                    ],
-                    [
-                        107.080184936523,
-                        10.3853673934938
-                    ],
-                    [
-                        107.080200195312,
-                        10.3837966918946
-                    ],
-                    [
-                        107.081245422363,
-                        10.3825025558472
-                    ],
-                    [
-                        107.080596923828,
-                        10.3816413879396
-                    ],
-                    [
-                        107.080917358398,
-                        10.3802871704102
-                    ],
-                    [
-                        107.079345703125,
-                        10.379177093506
-                    ],
-                    [
-                        107.081954956055,
-                        10.3782739639283
-                    ],
-                    [
-                        107.080810546875,
-                        10.3766183853151
-                    ],
-                    [
-                        107.084274291992,
-                        10.3691415786744
-                    ],
-                    [
-                        107.083473205566,
-                        10.3686180114747
-                    ],
-                    [
-                        107.08056640625,
-                        10.3700094223023
-                    ],
-                    [
-                        107.076667785645,
-                        10.3702421188354
-                    ],
-                    [
-                        107.075492858887,
-                        10.3619060516357
-                    ],
-                    [
-                        107.075401306152,
-                        10.3612327575685
-                    ],
-                    [
-                        107.074607849121,
-                        10.3613109588624
-                    ],
-                    [
-                        107.073051452637,
-                        10.3561944961549
-                    ],
-                    [
-                        107.067306518555,
-                        10.3597612380983
-                    ],
-                    [
-                        107.068893432617,
-                        10.3620090484619
-                    ],
-                    [
-                        107.068649291992,
-                        10.3629627227783
-                    ],
-                    [
-                        107.067909240723,
-                        10.3620023727418
-                    ],
-                    [
-                        107.068435668945,
-                        10.3640737533569
-                    ],
-                    [
-                        107.067581176758,
-                        10.363917350769
-                    ],
-                    [
-                        107.066352844238,
-                        10.3680658340454
-                    ],
-                    [
-                        107.066627502441,
-                        10.3703689575195
-                    ],
-                    [
-                        107.072708129883,
-                        10.3740720748901
-                    ],
-                    [
-                        107.07292175293,
-                        10.3789329528809
-                    ],
-                    [
-                        107.07682800293,
-                        10.3808717727662
-                    ],
-                    [
-                        107.07625579834,
-                        10.3834571838379
-                    ],
-                    [
-                        107.076683044434,
-                        10.3845729827882
-                    ]
-                ]
-            ]
-        },
-        {
-            "WandID": 26530,
-            "WandName": "9",
             "polygon": [
                 [
                     [
@@ -4920,11 +4084,331 @@
                         13.121767385391445
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26530,
+            "WandName": "9"
         },
         {
-            "WandID": 26539,
-            "WandName": "11",
+            "polygon": [
+                [
+                    [
+                        107.099464416504,
+                        10.4015254974366
+                    ],
+                    [
+                        107.09912109375,
+                        10.3972787857056
+                    ],
+                    [
+                        107.098052978516,
+                        10.3967380523682
+                    ],
+                    [
+                        107.09871673584,
+                        10.396243095398
+                    ],
+                    [
+                        107.097114562988,
+                        10.394082069397
+                    ],
+                    [
+                        107.096687316895,
+                        10.3947715759278
+                    ],
+                    [
+                        107.096458435059,
+                        10.3937320709229
+                    ],
+                    [
+                        107.096054077148,
+                        10.3944425582885
+                    ],
+                    [
+                        107.095329284668,
+                        10.3935070037843
+                    ],
+                    [
+                        107.090225219727,
+                        10.3943662643433
+                    ],
+                    [
+                        107.089805603027,
+                        10.3951282501222
+                    ],
+                    [
+                        107.090354919434,
+                        10.3965787887573
+                    ],
+                    [
+                        107.091979980469,
+                        10.398678779602
+                    ],
+                    [
+                        107.093994140625,
+                        10.3998680114746
+                    ],
+                    [
+                        107.095962524414,
+                        10.4037456512452
+                    ],
+                    [
+                        107.097999572754,
+                        10.4028816223145
+                    ],
+                    [
+                        107.099464416504,
+                        10.4015254974366
+                    ]
+                ]
+            ],
+            "WandID": 26533,
+            "WandName": "Thắng Nhất"
+        },
+        {
+            "polygon": [
+                [
+                    [
+                        107.11873626709,
+                        10.3960447311402
+                    ],
+                    [
+                        107.117424011231,
+                        10.3957891464234
+                    ],
+                    [
+                        107.117668151856,
+                        10.3948612213135
+                    ],
+                    [
+                        107.113327026367,
+                        10.3928327560425
+                    ],
+                    [
+                        107.109169006348,
+                        10.3893537521362
+                    ],
+                    [
+                        107.106559753418,
+                        10.3929004669189
+                    ],
+                    [
+                        107.104927062988,
+                        10.3928127288818
+                    ],
+                    [
+                        107.103408813477,
+                        10.3962392807008
+                    ],
+                    [
+                        107.104499816895,
+                        10.4016590118408
+                    ],
+                    [
+                        107.105171203613,
+                        10.4019222259523
+                    ],
+                    [
+                        107.104988098145,
+                        10.403184890747
+                    ],
+                    [
+                        107.107406616211,
+                        10.4075040817261
+                    ],
+                    [
+                        107.109199523926,
+                        10.4090929031373
+                    ],
+                    [
+                        107.114540100098,
+                        10.4111394882202
+                    ],
+                    [
+                        107.116744995117,
+                        10.4145069122314
+                    ],
+                    [
+                        107.120300292969,
+                        10.4136800765991
+                    ],
+                    [
+                        107.121208190918,
+                        10.4079351425171
+                    ],
+                    [
+                        107.120140075684,
+                        10.4040851593018
+                    ],
+                    [
+                        107.121681213379,
+                        10.402123451233
+                    ],
+                    [
+                        107.122314453125,
+                        10.3999309539795
+                    ],
+                    [
+                        107.120765686035,
+                        10.3993358612061
+                    ],
+                    [
+                        107.121650695801,
+                        10.39830493927
+                    ],
+                    [
+                        107.121482849121,
+                        10.3974723815919
+                    ],
+                    [
+                        107.119964599609,
+                        10.3974199295044
+                    ],
+                    [
+                        107.11873626709,
+                        10.3960447311402
+                    ]
+                ]
+            ],
+            "WandID": 26535,
+            "WandName": "Rạch Dừa"
+        },
+        {
+            "polygon": [
+                [
+                    [
+                        106.65096880709551,
+                        10.784743152074112
+                    ],
+                    [
+                        106.65091617361998,
+                        10.784279118585953
+                    ],
+                    [
+                        106.65074451491996,
+                        10.78353524312203
+                    ],
+                    [
+                        106.65050191236172,
+                        10.78281380022628
+                    ],
+                    [
+                        106.6501070262753,
+                        10.782108239257079
+                    ],
+                    [
+                        106.64989811743925,
+                        10.779775776704977
+                    ],
+                    [
+                        106.64982713713306,
+                        10.777486645447492
+                    ],
+                    [
+                        106.64975919309883,
+                        10.777149191126432
+                    ],
+                    [
+                        106.64970281769276,
+                        10.777025097564458
+                    ],
+                    [
+                        106.64903644249996,
+                        10.776185592872473
+                    ],
+                    [
+                        106.64802325291693,
+                        10.774791343591204
+                    ],
+                    [
+                        106.64705226305351,
+                        10.776076644168546
+                    ],
+                    [
+                        106.64568570227281,
+                        10.777978802013532
+                    ],
+                    [
+                        106.64329649699914,
+                        10.7814625137808
+                    ],
+                    [
+                        106.64287368713462,
+                        10.782417785517387
+                    ],
+                    [
+                        106.64206473570033,
+                        10.784875781315431
+                    ],
+                    [
+                        106.6416182489805,
+                        10.785974495199861
+                    ],
+                    [
+                        106.64315626619933,
+                        10.786592454730894
+                    ],
+                    [
+                        106.64519936174693,
+                        10.787608159903582
+                    ],
+                    [
+                        106.64589763263373,
+                        10.787903396252057
+                    ],
+                    [
+                        106.64617475669071,
+                        10.787990439324396
+                    ],
+                    [
+                        106.64645067522088,
+                        10.788008000304163
+                    ],
+                    [
+                        106.64649603013132,
+                        10.787972820519396
+                    ],
+                    [
+                        106.64650272747893,
+                        10.78787611865702
+                    ],
+                    [
+                        106.64800185758477,
+                        10.7868247552325
+                    ],
+                    [
+                        106.6483113545237,
+                        10.786678319472836
+                    ],
+                    [
+                        106.64870668878032,
+                        10.78631900102356
+                    ],
+                    [
+                        106.64938712459592,
+                        10.785827653398767
+                    ],
+                    [
+                        106.64949795241765,
+                        10.785710733336881
+                    ],
+                    [
+                        106.64944823137691,
+                        10.785541635508933
+                    ],
+                    [
+                        106.65079005615932,
+                        10.784788011154241
+                    ],
+                    [
+                        106.65096880709551,
+                        10.784743152074112
+                    ]
+                ]
+            ],
+            "WandID": 26536,
+            "WandName": "10"
+        },
+        {
             "polygon": [
                 [
                     [
@@ -5116,11 +4600,11 @@
                         10.792888523769324
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26539,
+            "WandName": "11"
         },
         {
-            "WandID": 26542,
-            "WandName": "12",
             "polygon": [
                 [
                     [
@@ -5316,11 +4800,11 @@
                         10.801361746935745
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26542,
+            "WandName": "12"
         },
         {
-            "WandID": 26545,
-            "WandName": "Long Sơn",
             "polygon": [
                 [
                     [
@@ -5644,11 +5128,167 @@
                         10.4145069122314
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26545,
+            "WandName": "Long Sơn"
         },
         {
-            "WandID": 26554,
-            "WandName": "Phước Nguyên",
+            "polygon": [
+                [
+                    [
+                        107.171653747559,
+                        10.5113353729249
+                    ],
+                    [
+                        107.172355651856,
+                        10.5120267868043
+                    ],
+                    [
+                        107.171913146973,
+                        10.5130729675294
+                    ],
+                    [
+                        107.170745849609,
+                        10.5131225585938
+                    ],
+                    [
+                        107.171585083008,
+                        10.51353931427
+                    ],
+                    [
+                        107.171195983887,
+                        10.5148200988769
+                    ],
+                    [
+                        107.172004699707,
+                        10.5146474838258
+                    ],
+                    [
+                        107.172462463379,
+                        10.5161781311035
+                    ],
+                    [
+                        107.174102783203,
+                        10.5164155960083
+                    ],
+                    [
+                        107.173759460449,
+                        10.5171117782593
+                    ],
+                    [
+                        107.174392700195,
+                        10.5178642272949
+                    ],
+                    [
+                        107.175506591797,
+                        10.5176763534546
+                    ],
+                    [
+                        107.17635345459,
+                        10.519157409668
+                    ],
+                    [
+                        107.177185058594,
+                        10.5191736221313
+                    ],
+                    [
+                        107.177871704102,
+                        10.5211753845215
+                    ],
+                    [
+                        107.178817749023,
+                        10.5210065841675
+                    ],
+                    [
+                        107.178581237793,
+                        10.5226068496704
+                    ],
+                    [
+                        107.180244445801,
+                        10.5242738723755
+                    ],
+                    [
+                        107.179763793945,
+                        10.5251560211182
+                    ],
+                    [
+                        107.180725097656,
+                        10.5256338119507
+                    ],
+                    [
+                        107.181571960449,
+                        10.5246391296387
+                    ],
+                    [
+                        107.182640075684,
+                        10.5271015167237
+                    ],
+                    [
+                        107.18595123291,
+                        10.5248937606812
+                    ],
+                    [
+                        107.187835693359,
+                        10.5177545547486
+                    ],
+                    [
+                        107.189605712891,
+                        10.5156574249268
+                    ],
+                    [
+                        107.181411743164,
+                        10.5089502334595
+                    ],
+                    [
+                        107.174652099609,
+                        10.5032024383546
+                    ],
+                    [
+                        107.173698425293,
+                        10.5008211135865
+                    ],
+                    [
+                        107.168807983399,
+                        10.5028324127198
+                    ],
+                    [
+                        107.169242858887,
+                        10.5058698654175
+                    ],
+                    [
+                        107.170776367188,
+                        10.5053901672364
+                    ],
+                    [
+                        107.170768737793,
+                        10.5075931549072
+                    ],
+                    [
+                        107.171760559082,
+                        10.5077905654908
+                    ],
+                    [
+                        107.173225402832,
+                        10.5096683502197
+                    ],
+                    [
+                        107.171844482422,
+                        10.5103158950807
+                    ],
+                    [
+                        107.172309875488,
+                        10.5109329223633
+                    ],
+                    [
+                        107.171653747559,
+                        10.5113353729249
+                    ]
+                ]
+            ],
+            "WandID": 26548,
+            "WandName": "Phước Hưng"
+        },
+        {
             "polygon": [
                 [
                     [
@@ -5700,11 +5340,11 @@
                         10.4890375137329
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26554,
+            "WandName": "Phước Nguyên"
         },
         {
-            "WandID": 26557,
-            "WandName": "Long Toàn",
             "polygon": [
                 [
                     [
@@ -5800,11 +5440,11 @@
                         10.4969673156739
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26557,
+            "WandName": "Long Toàn"
         },
         {
-            "WandID": 26558,
-            "WandName": "Long Tâm",
             "polygon": [
                 [
                     [
@@ -5848,11 +5488,11 @@
                         10.4969673156739
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26558,
+            "WandName": "Long Tâm"
         },
         {
-            "WandID": 26560,
-            "WandName": "Phước Trung",
             "polygon": [
                 [
                     [
@@ -5996,11 +5636,11 @@
                         10.4905786514282
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26560,
+            "WandName": "Phước Trung"
         },
         {
-            "WandID": 26563,
-            "WandName": "Long Hương",
             "polygon": [
                 [
                     [
@@ -6300,11 +5940,11 @@
                         10.5311126708986
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26563,
+            "WandName": "Long Hương"
         },
         {
-            "WandID": 26566,
-            "WandName": "Kim Dinh",
             "polygon": [
                 [
                     [
@@ -6576,11 +6216,11 @@
                         10.4664144515992
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26566,
+            "WandName": "Kim Dinh"
         },
         {
-            "WandID": 26567,
-            "WandName": "Tân Hưng",
             "polygon": [
                 [
                     [
@@ -6924,11 +6564,11 @@
                         10.5113353729249
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26567,
+            "WandName": "Tân Hưng"
         },
         {
-            "WandID": 26569,
-            "WandName": "Long Phước",
             "polygon": [
                 [
                     [
@@ -7212,11 +6852,11 @@
                         10.5540170669557
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26569,
+            "WandName": "Long Phước"
         },
         {
-            "WandID": 26572,
-            "WandName": "Hoà Long",
             "polygon": [
                 [
                     [
@@ -7496,11 +7136,11 @@
                         10.5540170669557
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26572,
+            "WandName": "Hoà Long"
         },
         {
-            "WandID": 26574,
-            "WandName": "Bàu Chinh",
             "polygon": [
                 [
                     [
@@ -7768,11 +7408,11 @@
                         10.6635427474976
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26574,
+            "WandName": "Bàu Chinh"
         },
         {
-            "WandID": 26575,
-            "WandName": "Ngãi Giao",
             "polygon": [
                 [
                     [
@@ -7932,11 +7572,11 @@
                         10.631007194519
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26575,
+            "WandName": "Ngãi Giao"
         },
         {
-            "WandID": 26578,
-            "WandName": "Bình Ba",
             "polygon": [
                 [
                     [
@@ -8220,11 +7860,11 @@
                         10.58420753479
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26578,
+            "WandName": "Bình Ba"
         },
         {
-            "WandID": 26581,
-            "WandName": "Suối Nghệ",
             "polygon": [
                 [
                     [
@@ -8592,11 +8232,11 @@
                         10.5817565917969
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26581,
+            "WandName": "Suối Nghệ"
         },
         {
-            "WandID": 26584,
-            "WandName": "Xuân Sơn",
             "polygon": [
                 [
                     [
@@ -8868,11 +8508,11 @@
                         10.612590789795
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26584,
+            "WandName": "Xuân Sơn"
         },
         {
-            "WandID": 26587,
-            "WandName": "Sơn Bình",
             "polygon": [
                 [
                     [
@@ -9256,11 +8896,11 @@
                         10.6194334030152
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26587,
+            "WandName": "Sơn Bình"
         },
         {
-            "WandID": 26590,
-            "WandName": "Bình Giã",
             "polygon": [
                 [
                     [
@@ -9536,11 +9176,11 @@
                         10.631007194519
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26590,
+            "WandName": "Bình Giã"
         },
         {
-            "WandID": 26593,
-            "WandName": "Bình Trung",
             "polygon": [
                 [
                     [
@@ -9864,11 +9504,11 @@
                         10.6711263656616
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26593,
+            "WandName": "Bình Trung"
         },
         {
-            "WandID": 26596,
-            "WandName": "Xà Bang",
             "polygon": [
                 [
                     [
@@ -10284,11 +9924,583 @@
                         10.7526731491089
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26596,
+            "WandName": "Xà Bang"
         },
         {
-            "WandID": 26602,
-            "WandName": "Láng Lớn",
+            "polygon": [
+                [
+                    [
+                        107.21354675293,
+                        10.7526731491089
+                    ],
+                    [
+                        107.21102142334,
+                        10.7501125335693
+                    ],
+                    [
+                        107.212028503418,
+                        10.7437191009523
+                    ],
+                    [
+                        107.216102600098,
+                        10.745327949524
+                    ],
+                    [
+                        107.216857910156,
+                        10.7406301498414
+                    ],
+                    [
+                        107.217834472656,
+                        10.7409887313843
+                    ],
+                    [
+                        107.217826843262,
+                        10.7334547042847
+                    ],
+                    [
+                        107.215667724609,
+                        10.7330675125122
+                    ],
+                    [
+                        107.214973449707,
+                        10.7312326431274
+                    ],
+                    [
+                        107.215202331543,
+                        10.7291221618653
+                    ],
+                    [
+                        107.214492797852,
+                        10.7281789779663
+                    ],
+                    [
+                        107.209465026855,
+                        10.730661392212
+                    ],
+                    [
+                        107.206413269043,
+                        10.7296781539918
+                    ],
+                    [
+                        107.206588745117,
+                        10.7226037979127
+                    ],
+                    [
+                        107.203277587891,
+                        10.7189731597901
+                    ],
+                    [
+                        107.203605651855,
+                        10.718041419983
+                    ],
+                    [
+                        107.201759338379,
+                        10.7144203186036
+                    ],
+                    [
+                        107.197898864746,
+                        10.7128505706787
+                    ],
+                    [
+                        107.19654083252,
+                        10.7135314941406
+                    ],
+                    [
+                        107.1904296875,
+                        10.7100944519044
+                    ],
+                    [
+                        107.187767028809,
+                        10.7101955413818
+                    ],
+                    [
+                        107.185256958008,
+                        10.707091331482
+                    ],
+                    [
+                        107.18359375,
+                        10.7069950103761
+                    ],
+                    [
+                        107.183891296387,
+                        10.7060298919678
+                    ],
+                    [
+                        107.182914733887,
+                        10.7055749893189
+                    ],
+                    [
+                        107.18278503418,
+                        10.7042875289918
+                    ],
+                    [
+                        107.182144165039,
+                        10.7043170928956
+                    ],
+                    [
+                        107.181503295898,
+                        10.7011938095094
+                    ],
+                    [
+                        107.182159423828,
+                        10.7005624771118
+                    ],
+                    [
+                        107.182189941406,
+                        10.6964635848998
+                    ],
+                    [
+                        107.183052062988,
+                        10.6962633132935
+                    ],
+                    [
+                        107.183258056641,
+                        10.6968431472778
+                    ],
+                    [
+                        107.184158325195,
+                        10.6953344345092
+                    ],
+                    [
+                        107.183204650879,
+                        10.6941394805909
+                    ],
+                    [
+                        107.183319091797,
+                        10.6916589736939
+                    ],
+                    [
+                        107.182754516602,
+                        10.6913290023803
+                    ],
+                    [
+                        107.181411743164,
+                        10.689082145691
+                    ],
+                    [
+                        107.18189239502,
+                        10.6884813308716
+                    ],
+                    [
+                        107.181213378906,
+                        10.6883001327515
+                    ],
+                    [
+                        107.180969238281,
+                        10.6861553192138
+                    ],
+                    [
+                        107.178718566895,
+                        10.6853303909303
+                    ],
+                    [
+                        107.178436279297,
+                        10.6839790344239
+                    ],
+                    [
+                        107.174812316895,
+                        10.6826639175415
+                    ],
+                    [
+                        107.17448425293,
+                        10.6818008422851
+                    ],
+                    [
+                        107.17024230957,
+                        10.6807699203492
+                    ],
+                    [
+                        107.169052124023,
+                        10.6815671920776
+                    ],
+                    [
+                        107.169502258301,
+                        10.6820383071899
+                    ],
+                    [
+                        107.167793273926,
+                        10.6836528778077
+                    ],
+                    [
+                        107.167488098145,
+                        10.6850061416627
+                    ],
+                    [
+                        107.16529083252,
+                        10.6851835250854
+                    ],
+                    [
+                        107.166511535645,
+                        10.6875286102295
+                    ],
+                    [
+                        107.166633605957,
+                        10.6909303665161
+                    ],
+                    [
+                        107.165733337402,
+                        10.6918087005616
+                    ],
+                    [
+                        107.165458679199,
+                        10.6985149383546
+                    ],
+                    [
+                        107.164657592773,
+                        10.7001953125001
+                    ],
+                    [
+                        107.166458129883,
+                        10.7071886062623
+                    ],
+                    [
+                        107.163421630859,
+                        10.7096738815309
+                    ],
+                    [
+                        107.165298461914,
+                        10.7136459350587
+                    ],
+                    [
+                        107.165489196777,
+                        10.715931892395
+                    ],
+                    [
+                        107.162872314453,
+                        10.7148160934449
+                    ],
+                    [
+                        107.159622192383,
+                        10.7103490829469
+                    ],
+                    [
+                        107.13948059082,
+                        10.7095603942871
+                    ],
+                    [
+                        107.139556884766,
+                        10.7182598114014
+                    ],
+                    [
+                        107.140731811523,
+                        10.7186965942383
+                    ],
+                    [
+                        107.140670776367,
+                        10.7196636199952
+                    ],
+                    [
+                        107.139526367188,
+                        10.7203578948975
+                    ],
+                    [
+                        107.139183044434,
+                        10.7278385162354
+                    ],
+                    [
+                        107.140449523926,
+                        10.7272462844849
+                    ],
+                    [
+                        107.142433166504,
+                        10.7237358093262
+                    ],
+                    [
+                        107.143577575684,
+                        10.7237462997436
+                    ],
+                    [
+                        107.1455078125,
+                        10.7251033782959
+                    ],
+                    [
+                        107.145538330078,
+                        10.726408958435
+                    ],
+                    [
+                        107.143463134766,
+                        10.7281379699708
+                    ],
+                    [
+                        107.143455505371,
+                        10.729160308838
+                    ],
+                    [
+                        107.144882202148,
+                        10.7301645278931
+                    ],
+                    [
+                        107.146270751953,
+                        10.7298717498779
+                    ],
+                    [
+                        107.146240234375,
+                        10.7311210632324
+                    ],
+                    [
+                        107.144203186035,
+                        10.7325897216797
+                    ],
+                    [
+                        107.138900756836,
+                        10.732500076294
+                    ],
+                    [
+                        107.139007568359,
+                        10.7414712905884
+                    ],
+                    [
+                        107.136672973633,
+                        10.7439155578613
+                    ],
+                    [
+                        107.138252258301,
+                        10.7448959350587
+                    ],
+                    [
+                        107.138862609863,
+                        10.7435836791993
+                    ],
+                    [
+                        107.139808654785,
+                        10.7449169158936
+                    ],
+                    [
+                        107.141708374024,
+                        10.7444210052491
+                    ],
+                    [
+                        107.142364501953,
+                        10.745394706726
+                    ],
+                    [
+                        107.142372131348,
+                        10.7444524765015
+                    ],
+                    [
+                        107.143592834473,
+                        10.7452383041382
+                    ],
+                    [
+                        107.145378112793,
+                        10.743914604187
+                    ],
+                    [
+                        107.147254943848,
+                        10.7447147369385
+                    ],
+                    [
+                        107.1474609375,
+                        10.7440004348755
+                    ],
+                    [
+                        107.148002624512,
+                        10.7447376251221
+                    ],
+                    [
+                        107.14949798584,
+                        10.7439622879028
+                    ],
+                    [
+                        107.149520874024,
+                        10.744574546814
+                    ],
+                    [
+                        107.151473999023,
+                        10.7439336776735
+                    ],
+                    [
+                        107.152275085449,
+                        10.7445802688599
+                    ],
+                    [
+                        107.153038024902,
+                        10.7436981201172
+                    ],
+                    [
+                        107.152763366699,
+                        10.7445764541625
+                    ],
+                    [
+                        107.154457092285,
+                        10.7442712783813
+                    ],
+                    [
+                        107.156105041504,
+                        10.7461948394775
+                    ],
+                    [
+                        107.15731048584,
+                        10.7457971572876
+                    ],
+                    [
+                        107.157165527344,
+                        10.7469596862793
+                    ],
+                    [
+                        107.158805847168,
+                        10.7482843399048
+                    ],
+                    [
+                        107.160308837891,
+                        10.7481870651246
+                    ],
+                    [
+                        107.160629272461,
+                        10.7492828369142
+                    ],
+                    [
+                        107.161651611328,
+                        10.7497453689576
+                    ],
+                    [
+                        107.163597106934,
+                        10.7496299743652
+                    ],
+                    [
+                        107.166519165039,
+                        10.7540683746338
+                    ],
+                    [
+                        107.166725158692,
+                        10.7527542114257
+                    ],
+                    [
+                        107.167419433594,
+                        10.7533206939698
+                    ],
+                    [
+                        107.168235778809,
+                        10.7527894973755
+                    ],
+                    [
+                        107.169471740723,
+                        10.7537546157837
+                    ],
+                    [
+                        107.171478271484,
+                        10.7558603286743
+                    ],
+                    [
+                        107.171043395996,
+                        10.7565279006958
+                    ],
+                    [
+                        107.171745300293,
+                        10.7580385208129
+                    ],
+                    [
+                        107.17366027832,
+                        10.7592439651489
+                    ],
+                    [
+                        107.17399597168,
+                        10.7605266571044
+                    ],
+                    [
+                        107.179244995117,
+                        10.762246131897
+                    ],
+                    [
+                        107.179740905762,
+                        10.7645912170411
+                    ],
+                    [
+                        107.18083190918,
+                        10.7649784088136
+                    ],
+                    [
+                        107.180778503418,
+                        10.7671175003052
+                    ],
+                    [
+                        107.182273864746,
+                        10.7676639556886
+                    ],
+                    [
+                        107.182266235352,
+                        10.7682218551636
+                    ],
+                    [
+                        107.185020446777,
+                        10.7685489654542
+                    ],
+                    [
+                        107.18733215332,
+                        10.7701969146729
+                    ],
+                    [
+                        107.187187194824,
+                        10.7709827423096
+                    ],
+                    [
+                        107.189346313477,
+                        10.7720327377319
+                    ],
+                    [
+                        107.19026184082,
+                        10.7712841033936
+                    ],
+                    [
+                        107.191429138184,
+                        10.771399497986
+                    ],
+                    [
+                        107.191261291504,
+                        10.772297859192
+                    ],
+                    [
+                        107.191787719727,
+                        10.7715253829955
+                    ],
+                    [
+                        107.193405151367,
+                        10.7718772888185
+                    ],
+                    [
+                        107.193893432617,
+                        10.7713928222657
+                    ],
+                    [
+                        107.197807312012,
+                        10.7716751098633
+                    ],
+                    [
+                        107.203483581543,
+                        10.7743978500367
+                    ],
+                    [
+                        107.206840515137,
+                        10.7746191024781
+                    ],
+                    [
+                        107.206512451172,
+                        10.7580566406251
+                    ],
+                    [
+                        107.207427978516,
+                        10.7588310241699
+                    ],
+                    [
+                        107.210990905762,
+                        10.7584733963013
+                    ],
+                    [
+                        107.210945129395,
+                        10.7525873184204
+                    ],
+                    [
+                        107.21354675293,
+                        10.7526731491089
+                    ]
+                ]
+            ],
+            "WandID": 26599,
+            "WandName": "Cù Bị"
+        },
+        {
             "polygon": [
                 [
                     [
@@ -10680,11 +10892,11 @@
                         10.6281213760377
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26602,
+            "WandName": "Láng Lớn"
         },
         {
-            "WandID": 26605,
-            "WandName": "Quảng Thành",
             "polygon": [
                 [
                     [
@@ -11184,11 +11396,283 @@
                         10.735951423645
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26605,
+            "WandName": "Quảng Thành"
         },
         {
-            "WandID": 26611,
-            "WandName": "Suối Rao",
+            "polygon": [
+                [
+                    [
+                        107.19270324707,
+                        10.6884307861329
+                    ],
+                    [
+                        107.191848754883,
+                        10.6893320083618
+                    ],
+                    [
+                        107.187393188477,
+                        10.6893711090088
+                    ],
+                    [
+                        107.187110900879,
+                        10.6900358200074
+                    ],
+                    [
+                        107.188102722168,
+                        10.6915740966797
+                    ],
+                    [
+                        107.189933776856,
+                        10.6915502548218
+                    ],
+                    [
+                        107.19075012207,
+                        10.6933870315552
+                    ],
+                    [
+                        107.191856384277,
+                        10.6931600570679
+                    ],
+                    [
+                        107.192100524902,
+                        10.6939277648925
+                    ],
+                    [
+                        107.194938659668,
+                        10.694896697998
+                    ],
+                    [
+                        107.194847106934,
+                        10.696743965149
+                    ],
+                    [
+                        107.196487426758,
+                        10.6986579895021
+                    ],
+                    [
+                        107.196975708008,
+                        10.7004823684692
+                    ],
+                    [
+                        107.206008911133,
+                        10.7051553726196
+                    ],
+                    [
+                        107.205352783203,
+                        10.7086896896363
+                    ],
+                    [
+                        107.204261779785,
+                        10.709511756897
+                    ],
+                    [
+                        107.204360961914,
+                        10.7110109329224
+                    ],
+                    [
+                        107.207344055176,
+                        10.7158222198486
+                    ],
+                    [
+                        107.207458496094,
+                        10.7175655364991
+                    ],
+                    [
+                        107.214256286621,
+                        10.7182788848876
+                    ],
+                    [
+                        107.216842651367,
+                        10.7196550369264
+                    ],
+                    [
+                        107.218208312988,
+                        10.719617843628
+                    ],
+                    [
+                        107.220397949219,
+                        10.7212810516357
+                    ],
+                    [
+                        107.224388122559,
+                        10.7213888168336
+                    ],
+                    [
+                        107.227043151855,
+                        10.7237815856934
+                    ],
+                    [
+                        107.228904724121,
+                        10.7238540649415
+                    ],
+                    [
+                        107.239631652832,
+                        10.7228393554688
+                    ],
+                    [
+                        107.240913391113,
+                        10.7166404724121
+                    ],
+                    [
+                        107.249633789063,
+                        10.7184982299805
+                    ],
+                    [
+                        107.25138092041,
+                        10.7107906341553
+                    ],
+                    [
+                        107.253562927246,
+                        10.7112855911256
+                    ],
+                    [
+                        107.256271362305,
+                        10.7088985443115
+                    ],
+                    [
+                        107.258422851563,
+                        10.7084007263185
+                    ],
+                    [
+                        107.260917663574,
+                        10.7051010131836
+                    ],
+                    [
+                        107.260810852051,
+                        10.7025871276856
+                    ],
+                    [
+                        107.259979248047,
+                        10.7014255523682
+                    ],
+                    [
+                        107.260772705078,
+                        10.6993770599365
+                    ],
+                    [
+                        107.261413574219,
+                        10.6985368728638
+                    ],
+                    [
+                        107.265029907227,
+                        10.6980991363525
+                    ],
+                    [
+                        107.267852783203,
+                        10.6955251693725
+                    ],
+                    [
+                        107.266082763672,
+                        10.6947784423828
+                    ],
+                    [
+                        107.260322570801,
+                        10.6945371627808
+                    ],
+                    [
+                        107.257797241211,
+                        10.6955575942993
+                    ],
+                    [
+                        107.255393981934,
+                        10.6954813003541
+                    ],
+                    [
+                        107.255752563477,
+                        10.6936149597169
+                    ],
+                    [
+                        107.256469726563,
+                        10.6936798095703
+                    ],
+                    [
+                        107.257446289063,
+                        10.6923532485962
+                    ],
+                    [
+                        107.257186889648,
+                        10.6889305114747
+                    ],
+                    [
+                        107.246925354004,
+                        10.686731338501
+                    ],
+                    [
+                        107.246620178223,
+                        10.6893482208252
+                    ],
+                    [
+                        107.241813659668,
+                        10.6893291473389
+                    ],
+                    [
+                        107.241813659668,
+                        10.6912851333619
+                    ],
+                    [
+                        107.235038757324,
+                        10.6908960342408
+                    ],
+                    [
+                        107.234764099121,
+                        10.6883840560914
+                    ],
+                    [
+                        107.234344482422,
+                        10.6874055862428
+                    ],
+                    [
+                        107.23314666748,
+                        10.6873302459717
+                    ],
+                    [
+                        107.233222961426,
+                        10.6862058639527
+                    ],
+                    [
+                        107.227989196777,
+                        10.6857872009277
+                    ],
+                    [
+                        107.224174499512,
+                        10.6844234466552
+                    ],
+                    [
+                        107.224243164063,
+                        10.6837987899781
+                    ],
+                    [
+                        107.221809387207,
+                        10.6839685440063
+                    ],
+                    [
+                        107.220344543457,
+                        10.6854753494263
+                    ],
+                    [
+                        107.213180541992,
+                        10.6857566833496
+                    ],
+                    [
+                        107.213348388672,
+                        10.6904497146607
+                    ],
+                    [
+                        107.195449829102,
+                        10.6894197463989
+                    ],
+                    [
+                        107.19270324707,
+                        10.6884307861329
+                    ]
+                ]
+            ],
+            "WandID": 26608,
+            "WandName": "Kim Long"
+        },
+        {
             "polygon": [
                 [
                     [
@@ -11716,11 +12200,11 @@
                         10.612590789795
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26611,
+            "WandName": "Suối Rao"
         },
         {
-            "WandID": 26614,
-            "WandName": "Đá Bạc",
             "polygon": [
                 [
                     [
@@ -12364,11 +12848,11 @@
                         10.612590789795
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26614,
+            "WandName": "Đá Bạc"
         },
         {
-            "WandID": 26617,
-            "WandName": "Nghĩa Thành",
             "polygon": [
                 [
                     [
@@ -12760,11 +13244,11 @@
                         10.5540170669557
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26617,
+            "WandName": "Nghĩa Thành"
         },
         {
-            "WandID": 26620,
-            "WandName": "Phước Bửu",
             "polygon": [
                 [
                     [
@@ -12920,11 +13404,11 @@
                         10.524959564209
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26620,
+            "WandName": "Phước Bửu"
         },
         {
-            "WandID": 26623,
-            "WandName": "Phước Thuận",
             "polygon": [
                 [
                     [
@@ -13280,11 +13764,11 @@
                         10.4850969314575
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26623,
+            "WandName": "Phước Thuận"
         },
         {
-            "WandID": 26626,
-            "WandName": "Phước Tân",
             "polygon": [
                 [
                     [
@@ -13704,11 +14188,11 @@
                         10.5342035293579
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26626,
+            "WandName": "Phước Tân"
         },
         {
-            "WandID": 26629,
-            "WandName": "Xuyên Mộc",
             "polygon": [
                 [
                     [
@@ -14120,11 +14604,11 @@
                         10.524959564209
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26629,
+            "WandName": "Xuyên Mộc"
         },
         {
-            "WandID": 26632,
-            "WandName": "Bông Trang",
             "polygon": [
                 [
                     [
@@ -14488,11 +14972,11 @@
                         10.4926414489747
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26632,
+            "WandName": "Bông Trang"
         },
         {
-            "WandID": 26635,
-            "WandName": "Tân Lâm",
             "polygon": [
                 [
                     [
@@ -15084,11 +15568,11 @@
                         10.7197284698487
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26635,
+            "WandName": "Tân Lâm"
         },
         {
-            "WandID": 26638,
-            "WandName": "Bàu Lâm",
             "polygon": [
                 [
                     [
@@ -15424,11 +15908,11 @@
                         10.6782388687134
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26638,
+            "WandName": "Bàu Lâm"
         },
         {
-            "WandID": 26641,
-            "WandName": "Hòa Bình",
             "polygon": [
                 [
                     [
@@ -15652,11 +16136,11 @@
                         10.6118249893188
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26641,
+            "WandName": "Hòa Bình"
         },
         {
-            "WandID": 26644,
-            "WandName": "Hòa Hưng",
             "polygon": [
                 [
                     [
@@ -15892,11 +16376,11 @@
                         10.6722221374512
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26644,
+            "WandName": "Hòa Hưng"
         },
         {
-            "WandID": 26647,
-            "WandName": "Hòa Hiệp",
             "polygon": [
                 [
                     [
@@ -16540,11 +17024,11 @@
                         10.6428995132447
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26647,
+            "WandName": "Hòa Hiệp"
         },
         {
-            "WandID": 26650,
-            "WandName": "Hòa Hội",
             "polygon": [
                 [
                     [
@@ -16888,11 +17372,11 @@
                         10.5891475677491
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26650,
+            "WandName": "Hòa Hội"
         },
         {
-            "WandID": 26653,
-            "WandName": "Bưng Riềng",
             "polygon": [
                 [
                     [
@@ -17168,11 +17652,11 @@
                         10.5013074874878
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26653,
+            "WandName": "Bưng Riềng"
         },
         {
-            "WandID": 26656,
-            "WandName": "Bình Châu",
             "polygon": [
                 [
                     [
@@ -17668,11 +18152,11 @@
                         10.5013074874878
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26656,
+            "WandName": "Bình Châu"
         },
         {
-            "WandID": 26704,
-            "WandName": "Phú Mỹ",
             "polygon": [
                 [
                     [
@@ -28210,11 +28694,11 @@
                         ]
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26704,
+            "WandName": "Phú Mỹ"
         },
         {
-            "WandID": 26707,
-            "WandName": "Tân Hoà",
             "polygon": [
                 [
                     [
@@ -30626,11 +31110,11 @@
                         17.813533000535003
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26707,
+            "WandName": "Tân Hoà"
         },
         {
-            "WandID": 26710,
-            "WandName": "Tân Hải",
             "polygon": [
                 [
                     [
@@ -34222,11 +34706,11 @@
                         10.77545979793456
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26710,
+            "WandName": "Tân Hải"
         },
         {
-            "WandID": 26713,
-            "WandName": "Phước Hoà",
             "polygon": [
                 [
                     [
@@ -34406,11 +34890,11 @@
                         12.238554013387448
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26713,
+            "WandName": "Phước Hoà"
         },
         {
-            "WandID": 26716,
-            "WandName": "Tân Phước",
             "polygon": [
                 [
                     [
@@ -36410,11 +36894,11 @@
                         10.496958885740426
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26716,
+            "WandName": "Tân Phước"
         },
         {
-            "WandID": 26719,
-            "WandName": "Mỹ Xuân",
             "polygon": [
                 [
                     [
@@ -38254,11 +38738,11 @@
                         10.656863454076019
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26719,
+            "WandName": "Mỹ Xuân"
         },
         {
-            "WandID": 26722,
-            "WandName": "Sông Xoài",
             "polygon": [
                 [
                     [
@@ -42738,11 +43222,11 @@
                         10.71522364717465
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26722,
+            "WandName": "Sông Xoài"
         },
         {
-            "WandID": 26725,
-            "WandName": "Hắc Dịch",
             "polygon": [
                 [
                     [
@@ -46574,11 +47058,11 @@
                         10.686916909899255
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26725,
+            "WandName": "Hắc Dịch"
         },
         {
-            "WandID": 26728,
-            "WandName": "Châu Pha",
             "polygon": [
                 [
                     [
@@ -49610,11 +50094,11 @@
                         10.620067629882307
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26728,
+            "WandName": "Châu Pha"
         },
         {
-            "WandID": 26731,
-            "WandName": "Tóc Tiên",
             "polygon": [
                 [
                     [
@@ -52302,7 +52786,10 @@
                         10.62837666120672
                     ]
                 ]
-            ]
+            ],
+            "WandID": 26731,
+            "WandName": "Tóc Tiên"
         }
-    ]
+    ],
+    "tentinh": "Bà Rịa - Vũng Tàu"
 }
