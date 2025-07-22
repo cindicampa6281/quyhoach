@@ -1,35 +1,48 @@
-[
-    {
-        "WandID": 1282.0,
-        "type": "Shophouse",
-        "Thời gian theo tháng - năm": "07-2025",
-        "Giá min (theo m²)": 33333333.333333332,
-        "Giá max (theo m²)": 33333333.333333332,
-        "Giá trung bình (theo m²)": 33333333.333333332,
-        "id quận huyện": 42.0,
-        "id tỉnh": 13.0,
-        "tên xã phường": " Phường Đề Thám"
-    },
-    {
-        "WandID": 1282.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "05-2025",
-        "Giá min (theo m²)": 6306306.306306306,
-        "Giá max (theo m²)": 32000000.0,
-        "Giá trung bình (theo m²)": 21410744.077410743,
-        "id quận huyện": 42.0,
-        "id tỉnh": 13.0,
-        "tên xã phường": "Đề Thám"
-    },
-    {
-        "WandID": 1831.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "05-2025",
-        "Giá min (theo m²)": 636363.6363636364,
-        "Giá max (theo m²)": 636363.6363636364,
-        "Giá trung bình (theo m²)": 636363.6363636364,
-        "id quận huyện": 51.0,
-        "id tỉnh": 13.0,
-        "tên xã phường": "Phường Hợp Giang"
-    }
-]
+{
+    "shophouse": [
+        {
+            "xaphuong_id": 1282.0,
+            "name_xaphuong": " Phường Đề Thám",
+            "price": 33333333.333333332,
+            "type": "Shophouse",
+            "max": 33333333.333333332,
+            "avg": 33333333.333333332,
+            "min": 33333333.333333332,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        }
+    ],
+    "dat_dau_gia_dat_tho_cu": [
+        {
+            "xaphuong_id": 1282.0,
+            "name_xaphuong": "Đề Thám",
+            "price": 21410744.077410743,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 32000000.0,
+            "avg": 21410744.077410743,
+            "min": 6306306.306306306,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 1831.0,
+            "name_xaphuong": "Phường Hợp Giang",
+            "price": 636363.6363636364,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 636363.6363636364,
+            "avg": 636363.6363636364,
+            "min": 636363.6363636364,
+            "color": {
+                "red": 191.25,
+                "green": 63.75,
+                "blue": 2
+            }
+        }
+    ]
+}

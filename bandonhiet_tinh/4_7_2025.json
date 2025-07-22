@@ -1,24 +1,33 @@
-[
-    {
-        "WandID": 2020.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "07-2025",
-        "Giá min (theo m²)": 20000000.0,
-        "Giá max (theo m²)": 20000000.0,
-        "Giá trung bình (theo m²)": 20000000.0,
-        "id quận huyện": 57.0,
-        "id tỉnh": 4.0,
-        "tên xã phường": "Thị trấn Bằng Lũng"
-    },
-    {
-        "WandID": 2101.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "06-2025",
-        "Giá min (theo m²)": 36000000.0,
-        "Giá max (theo m²)": 36000000.0,
-        "Giá trung bình (theo m²)": 36000000.0,
-        "id quận huyện": 58.0,
-        "id tỉnh": 4.0,
-        "tên xã phường": "Xã Thanh Mai"
-    }
-]
+{
+    "shophouse": [],
+    "dat_dau_gia_dat_tho_cu": [
+        {
+            "xaphuong_id": 2020.0,
+            "name_xaphuong": "Thị trấn Bằng Lũng",
+            "price": 20000000.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20000000.0,
+            "avg": 20000000.0,
+            "min": 20000000.0,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 2101.0,
+            "name_xaphuong": "Xã Thanh Mai",
+            "price": 36000000.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 36000000.0,
+            "avg": 36000000.0,
+            "min": 36000000.0,
+            "color": {
+                "red": 191.25,
+                "green": 63.75,
+                "blue": 2
+            }
+        }
+    ]
+}

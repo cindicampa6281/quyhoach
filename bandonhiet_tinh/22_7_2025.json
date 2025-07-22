@@ -1,13 +1,19 @@
-[
-    {
-        "WandID": 871.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "04-2025",
-        "Giá min (theo m²)": 450000000.0,
-        "Giá max (theo m²)": 450000000.0,
-        "Giá trung bình (theo m²)": 450000000.0,
-        "id quận huyện": 34.0,
-        "id tỉnh": 22.0,
-        "tên xã phường": "Du Già"
-    }
-]
+{
+    "shophouse": [],
+    "dat_dau_gia_dat_tho_cu": [
+        {
+            "xaphuong_id": 871.0,
+            "name_xaphuong": "Du Già",
+            "price": 450000000.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 450000000.0,
+            "avg": 450000000.0,
+            "min": 450000000.0,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        }
+    ]
+}

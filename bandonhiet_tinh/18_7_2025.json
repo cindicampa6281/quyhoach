@@ -1,57 +1,76 @@
-[
-    {
-        "WandID": 3124.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "06-2025",
-        "Giá min (theo m²)": 27000000.0,
-        "Giá max (theo m²)": 30000000.0,
-        "Giá trung bình (theo m²)": 28500000.0,
-        "id quận huyện": 76.0,
-        "id tỉnh": 18.0,
-        "tên xã phường": " Phường Noong Bua"
-    },
-    {
-        "WandID": 3127.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "06-2025",
-        "Giá min (theo m²)": 11516314.779270632,
-        "Giá max (theo m²)": 18032786.8852459,
-        "Giá trung bình (theo m²)": 15520298.063979665,
-        "id quận huyện": 76.0,
-        "id tỉnh": 18.0,
-        "tên xã phường": "Phường Him Lam"
-    },
-    {
-        "WandID": 3136.0,
-        "type": "Shophouse",
-        "Thời gian theo tháng - năm": "04-2025",
-        "Giá min (theo m²)": 75000000.0,
-        "Giá max (theo m²)": 180000000.0,
-        "Giá trung bình (theo m²)": 127500000.0,
-        "id quận huyện": 76.0,
-        "id tỉnh": 18.0,
-        "tên xã phường": " Mường Thanh"
-    },
-    {
-        "WandID": 3136.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "06-2025",
-        "Giá min (theo m²)": 11000000.0,
-        "Giá max (theo m²)": 69416666.66666667,
-        "Giá trung bình (theo m²)": 26483333.333333336,
-        "id quận huyện": 76.0,
-        "id tỉnh": 18.0,
-        "tên xã phường": " Phường Mường Thanh"
-    },
-    {
-        "WandID": 3148.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "06-2025",
-        "Giá min (theo m²)": 11538461.538461538,
-        "Giá max (theo m²)": 17142857.14285714,
-        "Giá trung bình (theo m²)": 13406593.406593405,
-        "id quận huyện": 77.0,
-        "id tỉnh": 18.0,
-        "tên xã phường": "Him Lam"
-    }
-]
+{
+    "shophouse": [
+        {
+            "xaphuong_id": 3136.0,
+            "name_xaphuong": " Mường Thanh",
+            "price": 127500000.0,
+            "type": "Shophouse",
+            "max": 180000000.0,
+            "avg": 127500000.0,
+            "min": 75000000.0,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        }
+    ],
+    "dat_dau_gia_dat_tho_cu": [
+        {
+            "xaphuong_id": 3124.0,
+            "name_xaphuong": " Phường Noong Bua",
+            "price": 28500000.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 30000000.0,
+            "avg": 28500000.0,
+            "min": 27000000.0,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 3127.0,
+            "name_xaphuong": "Phường Him Lam",
+            "price": 15520298.063979665,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 18032786.8852459,
+            "avg": 15520298.063979665,
+            "min": 11516314.779270632,
+            "color": {
+                "red": 212.5,
+                "green": 42.5,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 3136.0,
+            "name_xaphuong": " Phường Mường Thanh",
+            "price": 26483333.333333336,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 69416666.66666667,
+            "avg": 26483333.333333336,
+            "min": 11000000.0,
+            "color": {
+                "red": 170.0,
+                "green": 85.0,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 3148.0,
+            "name_xaphuong": "Him Lam",
+            "price": 13406593.406593405,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 17142857.14285714,
+            "avg": 13406593.406593405,
+            "min": 11538461.538461538,
+            "color": {
+                "red": 127.5,
+                "green": 127.5,
+                "blue": 6
+            }
+        }
+    ]
+}

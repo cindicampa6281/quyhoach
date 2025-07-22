@@ -1,46 +1,62 @@
-[
-    {
-        "WandID": 3386.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "07-2025",
-        "Giá min (theo m²)": 13636363.636363637,
-        "Giá max (theo m²)": 20000000.0,
-        "Giá trung bình (theo m²)": 16380079.868451962,
-        "id quận huyện": 86.0,
-        "id tỉnh": 35.0,
-        "tên xã phường": " Phường Quyết Thắng"
-    },
-    {
-        "WandID": 3387.0,
-        "type": "Shophouse",
-        "Thời gian theo tháng - năm": "07-2025",
-        "Giá min (theo m²)": 43148148.14814815,
-        "Giá max (theo m²)": 43148148.14814815,
-        "Giá trung bình (theo m²)": 43148148.14814815,
-        "id quận huyện": 86.0,
-        "id tỉnh": 35.0,
-        "tên xã phường": " Phường Tân Phong"
-    },
-    {
-        "WandID": 3389.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "07-2025",
-        "Giá min (theo m²)": 20000000.0,
-        "Giá max (theo m²)": 20000000.0,
-        "Giá trung bình (theo m²)": 20000000.0,
-        "id quận huyện": 86.0,
-        "id tỉnh": 35.0,
-        "tên xã phường": " Phường Đoàn Kết"
-    },
-    {
-        "WandID": 3390.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "07-2025",
-        "Giá min (theo m²)": 12755102.040816326,
-        "Giá max (theo m²)": 13385826.771653544,
-        "Giá trung bình (theo m²)": 13070464.406234935,
-        "id quận huyện": 87.0,
-        "id tỉnh": 35.0,
-        "tên xã phường": " Thị trấn Tam Đường"
-    }
-]
+{
+    "shophouse": [
+        {
+            "xaphuong_id": 3387.0,
+            "name_xaphuong": " Phường Tân Phong",
+            "price": 43148148.14814815,
+            "type": "Shophouse",
+            "max": 43148148.14814815,
+            "avg": 43148148.14814815,
+            "min": 43148148.14814815,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        }
+    ],
+    "dat_dau_gia_dat_tho_cu": [
+        {
+            "xaphuong_id": 3386.0,
+            "name_xaphuong": " Phường Quyết Thắng",
+            "price": 16380079.868451962,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20000000.0,
+            "avg": 16380079.868451962,
+            "min": 13636363.636363637,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 3389.0,
+            "name_xaphuong": " Phường Đoàn Kết",
+            "price": 20000000.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20000000.0,
+            "avg": 20000000.0,
+            "min": 20000000.0,
+            "color": {
+                "red": 204.0,
+                "green": 51.0,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 3390.0,
+            "name_xaphuong": " Thị trấn Tam Đường",
+            "price": 13070464.406234935,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 13385826.771653544,
+            "avg": 13070464.406234935,
+            "min": 12755102.040816326,
+            "color": {
+                "red": 153.0,
+                "green": 102.0,
+                "blue": 4
+            }
+        }
+    ]
+}

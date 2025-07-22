@@ -1,68 +1,89 @@
-[
-    {
-        "WandID": 2206.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "06-2025",
-        "Giá min (theo m²)": 60869565.217391305,
-        "Giá max (theo m²)": 60869565.217391305,
-        "Giá trung bình (theo m²)": 60869565.217391305,
-        "id quận huyện": 60.0,
-        "id tỉnh": 60.0,
-        "tên xã phường": " Phường Tân Quang"
-    },
-    {
-        "WandID": 2302.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "06-2025",
-        "Giá min (theo m²)": 370.78235076010384,
-        "Giá max (theo m²)": 370.78235076010384,
-        "Giá trung bình (theo m²)": 370.78235076010384,
-        "id quận huyện": 61.0,
-        "id tỉnh": 60.0,
-        "tên xã phường": "Xã Minh Quang"
-    },
-    {
-        "WandID": 2464.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "04-2025",
-        "Giá min (theo m²)": 17479674.796747968,
-        "Giá max (theo m²)": 17479674.796747968,
-        "Giá trung bình (theo m²)": 17479674.796747968,
-        "id quận huyện": 65.0,
-        "id tỉnh": 60.0,
-        "tên xã phường": "Xã Tứ Quận"
-    },
-    {
-        "WandID": 2479.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "07-2025",
-        "Giá min (theo m²)": 13736000.0,
-        "Giá max (theo m²)": 13736000.0,
-        "Giá trung bình (theo m²)": 13736000.0,
-        "id quận huyện": 65.0,
-        "id tỉnh": 60.0,
-        "tên xã phường": " Xã Lang Quán"
-    },
-    {
-        "WandID": 2497.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "06-2025",
-        "Giá min (theo m²)": 3537735.849056604,
-        "Giá max (theo m²)": 3537735.849056604,
-        "Giá trung bình (theo m²)": 3537735.849056604,
-        "id quận huyện": 60.0,
-        "id tỉnh": 60.0,
-        "tên xã phường": "Xã Kim Phú"
-    },
-    {
-        "WandID": 2512.0,
-        "type": "Đất đấu giá/Đất thổ cư",
-        "Thời gian theo tháng - năm": "05-2025",
-        "Giá min (theo m²)": 15131578.94736842,
-        "Giá max (theo m²)": 25252525.25252525,
-        "Giá trung bình (theo m²)": 20192052.099946834,
-        "id quận huyện": 60.0,
-        "id tỉnh": 60.0,
-        "tên xã phường": " Phường An Tường"
-    }
-]
+{
+    "shophouse": [],
+    "dat_dau_gia_dat_tho_cu": [
+        {
+            "xaphuong_id": 2206.0,
+            "name_xaphuong": " Phường Tân Quang",
+            "price": 60869565.217391305,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 60869565.217391305,
+            "avg": 60869565.217391305,
+            "min": 60869565.217391305,
+            "color": {
+                "red": 255.0,
+                "green": 0.0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 2302.0,
+            "name_xaphuong": "Xã Minh Quang",
+            "price": 370.78235076010384,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 370.78235076010384,
+            "avg": 370.78235076010384,
+            "min": 370.78235076010384,
+            "color": {
+                "red": 223.125,
+                "green": 31.875,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 2464.0,
+            "name_xaphuong": "Xã Tứ Quận",
+            "price": 17479674.796747968,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 17479674.796747968,
+            "avg": 17479674.796747968,
+            "min": 17479674.796747968,
+            "color": {
+                "red": 191.25,
+                "green": 63.75,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 2479.0,
+            "name_xaphuong": " Xã Lang Quán",
+            "price": 13736000.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 13736000.0,
+            "avg": 13736000.0,
+            "min": 13736000.0,
+            "color": {
+                "red": 159.375,
+                "green": 95.625,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 2497.0,
+            "name_xaphuong": "Xã Kim Phú",
+            "price": 3537735.849056604,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3537735.849056604,
+            "avg": 3537735.849056604,
+            "min": 3537735.849056604,
+            "color": {
+                "red": 127.5,
+                "green": 127.5,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 2512.0,
+            "name_xaphuong": " Phường An Tường",
+            "price": 20192052.099946834,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 25252525.25252525,
+            "avg": 20192052.099946834,
+            "min": 15131578.94736842,
+            "color": {
+                "red": 95.625,
+                "green": 159.375,
+                "blue": 10
+            }
+        }
+    ]
+}
