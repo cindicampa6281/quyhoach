@@ -2,7 +2,36 @@
     "shophouse": [],
     "chungcu": [],
     "bietthu": [],
-    "thocu": [],
+    "thocu": [
+        {
+            "xaphuong_id": 2020,
+            "name_xaphuong": "Thị trấn Bằng Lũng",
+            "price": 20000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20000000,
+            "avg": 20000000,
+            "min": 20000000,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 2101,
+            "name_xaphuong": "Xã Thanh Mai",
+            "price": 36000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 36000000,
+            "avg": 36000000,
+            "min": 36000000,
+            "color": {
+                "red": 191,
+                "green": 63,
+                "blue": 2
+            }
+        }
+    ],
     "polygon": [
         {
             "polygon": [

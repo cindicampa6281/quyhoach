@@ -1,8 +1,80 @@
 {
-    "shophouse": [],
+    "shophouse": [
+        {
+            "xaphuong_id": 3136,
+            "name_xaphuong": " Mường Thanh",
+            "price": 127500000,
+            "type": "Shophouse",
+            "max": 180000000,
+            "avg": 127500000,
+            "min": 75000000,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        }
+    ],
     "chungcu": [],
     "bietthu": [],
-    "thocu": [],
+    "thocu": [
+        {
+            "xaphuong_id": 3124,
+            "name_xaphuong": " Phường Noong Bua",
+            "price": 28500000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 30000000,
+            "avg": 28500000,
+            "min": 27000000,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 3127,
+            "name_xaphuong": "Phường Him Lam",
+            "price": 15520298,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 18032786,
+            "avg": 15520298,
+            "min": 11516314,
+            "color": {
+                "red": 212,
+                "green": 42,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 3136,
+            "name_xaphuong": " Phường Mường Thanh",
+            "price": 26483333,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 69416666,
+            "avg": 26483333,
+            "min": 11000000,
+            "color": {
+                "red": 170,
+                "green": 85,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 3148,
+            "name_xaphuong": "Him Lam",
+            "price": 13406593,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 17142857,
+            "avg": 13406593,
+            "min": 11538461,
+            "color": {
+                "red": 127,
+                "green": 127,
+                "blue": 6
+            }
+        }
+    ],
     "polygon": [
         {
             "polygon": [

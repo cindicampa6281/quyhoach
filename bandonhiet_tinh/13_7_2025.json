@@ -1,8 +1,52 @@
 {
-    "shophouse": [],
+    "shophouse": [
+        {
+            "xaphuong_id": 1282,
+            "name_xaphuong": " Phường Đề Thám",
+            "price": 33333333,
+            "type": "Shophouse",
+            "max": 33333333,
+            "avg": 33333333,
+            "min": 33333333,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        }
+    ],
     "chungcu": [],
     "bietthu": [],
-    "thocu": [],
+    "thocu": [
+        {
+            "xaphuong_id": 1282,
+            "name_xaphuong": "Đề Thám",
+            "price": 21410744,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 32000000,
+            "avg": 21410744,
+            "min": 6306306,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 1831,
+            "name_xaphuong": "Phường Hợp Giang",
+            "price": 636363,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 636363,
+            "avg": 636363,
+            "min": 636363,
+            "color": {
+                "red": 191,
+                "green": 63,
+                "blue": 2
+            }
+        }
+    ],
     "polygon": [
         {
             "polygon": [

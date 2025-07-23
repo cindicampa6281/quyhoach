@@ -1,8 +1,164 @@
 {
-    "shophouse": [],
+    "shophouse": [
+        {
+            "xaphuong_id": 5971,
+            "name_xaphuong": " Phường Hoàng Văn Thụ",
+            "price": 140000000,
+            "type": "Shophouse",
+            "max": 140000000,
+            "avg": 140000000,
+            "min": 140000000,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 5977,
+            "name_xaphuong": " Phường Vĩnh Trại",
+            "price": 39950000,
+            "type": "Shophouse",
+            "max": 39950000,
+            "avg": 39950000,
+            "min": 39950000,
+            "color": {
+                "red": 212,
+                "green": 42,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 5992,
+            "name_xaphuong": " Xã Mai Pha",
+            "price": 53960685,
+            "type": "Shophouse",
+            "max": 54430379,
+            "avg": 53960685,
+            "min": 53490990,
+            "color": {
+                "red": 170,
+                "green": 85,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 6385,
+            "name_xaphuong": " Thị trấn Hữu Lũng",
+            "price": 266666666,
+            "type": "Shophouse",
+            "max": 266666666,
+            "avg": 266666666,
+            "min": 266666666,
+            "color": {
+                "red": 127,
+                "green": 127,
+                "blue": 6
+            }
+        }
+    ],
     "chungcu": [],
     "bietthu": [],
-    "thocu": [],
+    "thocu": [
+        {
+            "xaphuong_id": 5977,
+            "name_xaphuong": " Phường Vĩnh Trại",
+            "price": 41917475,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 45000000,
+            "avg": 41917475,
+            "min": 38834951,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 5986,
+            "name_xaphuong": "Xã Hoàng Đồng",
+            "price": 39857142,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 39857142,
+            "avg": 39857142,
+            "min": 39857142,
+            "color": {
+                "red": 226,
+                "green": 28,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 5992,
+            "name_xaphuong": " Xã Mai Pha",
+            "price": 11921568,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 13676470,
+            "avg": 11921568,
+            "min": 10166666,
+            "color": {
+                "red": 198,
+                "green": 56,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 5998,
+            "name_xaphuong": "Đông Kinh",
+            "price": 80000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 80000000,
+            "avg": 80000000,
+            "min": 80000000,
+            "color": {
+                "red": 170,
+                "green": 85,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 6106,
+            "name_xaphuong": "Xã Mông Ân",
+            "price": 27384615,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 30769230,
+            "avg": 27384615,
+            "min": 24000000,
+            "color": {
+                "red": 141,
+                "green": 113,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 6184,
+            "name_xaphuong": "Thị trấn Đồng Đăng",
+            "price": 277520814,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 277520814,
+            "avg": 277520814,
+            "min": 277520814,
+            "color": {
+                "red": 113,
+                "green": 141,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 6385,
+            "name_xaphuong": " Thị trấn Hữu Lũng",
+            "price": 4621613,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9900000,
+            "avg": 4621613,
+            "min": 1384839,
+            "color": {
+                "red": 85,
+                "green": 170,
+                "blue": 12
+            }
+        }
+    ],
     "polygon": [
         {
             "polygon": [

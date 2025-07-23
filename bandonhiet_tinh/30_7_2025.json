@@ -1,5 +1,20 @@
 {
-    "shophouse": [],
+    "shophouse": [
+        {
+            "xaphuong_id": 31341,
+            "name_xaphuong": " Phường Lái Hiếu",
+            "price": 53278688,
+            "type": "Shophouse",
+            "max": 53278688,
+            "avg": 53278688,
+            "min": 53278688,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        }
+    ],
     "chungcu": [],
     "bietthu": [
         {
@@ -17,7 +32,162 @@
             }
         }
     ],
-    "thocu": [],
+    "thocu": [
+        {
+            "xaphuong_id": 31340,
+            "name_xaphuong": " Phường Ngã Bảy",
+            "price": 5052083,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 6250000,
+            "avg": 5052083,
+            "min": 4583333,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 31341,
+            "name_xaphuong": " Phường Lái Hiếu",
+            "price": 4583333,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 4583333,
+            "avg": 4583333,
+            "min": 4583333,
+            "color": {
+                "red": 235,
+                "green": 19,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 31343,
+            "name_xaphuong": " Phường Hiệp Thành",
+            "price": 4479166,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 4583333,
+            "avg": 4479166,
+            "min": 4166666,
+            "color": {
+                "red": 215,
+                "green": 39,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 31344,
+            "name_xaphuong": "Xã Hiệp Lợi",
+            "price": 3222222,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3333333,
+            "avg": 3222222,
+            "min": 3111111,
+            "color": {
+                "red": 196,
+                "green": 58,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 31345,
+            "name_xaphuong": " Xã Tân Hòa",
+            "price": 703125000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 703125000,
+            "avg": 703125000,
+            "min": 703125000,
+            "color": {
+                "red": 176,
+                "green": 78,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 31346,
+            "name_xaphuong": " Thị trấn Bảy Ngàn",
+            "price": 6588235,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 6588235,
+            "avg": 6588235,
+            "min": 6588235,
+            "color": {
+                "red": 156,
+                "green": 98,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 31362,
+            "name_xaphuong": "Cái Tắc",
+            "price": 12480829,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 32941176,
+            "avg": 12480829,
+            "min": 2232142,
+            "color": {
+                "red": 137,
+                "green": 117,
+                "blue": 12
+            }
+        },
+        {
+            "xaphuong_id": 31363,
+            "name_xaphuong": " Xã Tân Phú Thạnh",
+            "price": 7135667,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 11224489,
+            "avg": 7135667,
+            "min": 5000000,
+            "color": {
+                "red": 117,
+                "green": 137,
+                "blue": 14
+            }
+        },
+        {
+            "xaphuong_id": 31369,
+            "name_xaphuong": "Đông Thạnh",
+            "price": 3233333333,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3233333333,
+            "avg": 3233333333,
+            "min": 3233333333,
+            "color": {
+                "red": 98,
+                "green": 156,
+                "blue": 16
+            }
+        },
+        {
+            "xaphuong_id": 31381,
+            "name_xaphuong": "Mái Dầm",
+            "price": 8750000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 8750000,
+            "avg": 8750000,
+            "min": 8750000,
+            "color": {
+                "red": 78,
+                "green": 176,
+                "blue": 18
+            }
+        },
+        {
+            "xaphuong_id": 31408,
+            "name_xaphuong": " Xã Long Thạnh",
+            "price": 4364715,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 7684426,
+            "avg": 4364715,
+            "min": 1045004,
+            "color": {
+                "red": 58,
+                "green": 196,
+                "blue": 20
+            }
+        }
+    ],
     "polygon": [
         {
             "polygon": [

@@ -1,8 +1,66 @@
 {
-    "shophouse": [],
+    "shophouse": [
+        {
+            "xaphuong_id": 3387,
+            "name_xaphuong": " Phường Tân Phong",
+            "price": 43148148,
+            "type": "Shophouse",
+            "max": 43148148,
+            "avg": 43148148,
+            "min": 43148148,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        }
+    ],
     "chungcu": [],
     "bietthu": [],
-    "thocu": [],
+    "thocu": [
+        {
+            "xaphuong_id": 3386,
+            "name_xaphuong": " Phường Quyết Thắng",
+            "price": 16380079,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20000000,
+            "avg": 16380079,
+            "min": 13636363,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 3389,
+            "name_xaphuong": " Phường Đoàn Kết",
+            "price": 20000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20000000,
+            "avg": 20000000,
+            "min": 20000000,
+            "color": {
+                "red": 204,
+                "green": 51,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 3390,
+            "name_xaphuong": " Thị trấn Tam Đường",
+            "price": 13070464,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 13385826,
+            "avg": 13070464,
+            "min": 12755102,
+            "color": {
+                "red": 153,
+                "green": 102,
+                "blue": 4
+            }
+        }
+    ],
     "polygon": [
         {
             "polygon": [

@@ -1,5 +1,62 @@
 {
-    "shophouse": [],
+    "shophouse": [
+        {
+            "xaphuong_id": 13657,
+            "name_xaphuong": " Phường Trường Thi",
+            "price": 53661213,
+            "type": "Shophouse",
+            "max": 75000000,
+            "avg": 53661213,
+            "min": 32322426,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 13681,
+            "name_xaphuong": " Phường Quang Trung",
+            "price": 144892812,
+            "type": "Shophouse",
+            "max": 230769230,
+            "avg": 144892812,
+            "min": 59016393,
+            "color": {
+                "red": 212,
+                "green": 42,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 13687,
+            "name_xaphuong": " Phường Lộc Vượng",
+            "price": 41237337,
+            "type": "Shophouse",
+            "max": 47058823,
+            "avg": 41237337,
+            "min": 34986522,
+            "color": {
+                "red": 170,
+                "green": 85,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 13693,
+            "name_xaphuong": " Phường Lộc Hòa",
+            "price": 32507692,
+            "type": "Shophouse",
+            "max": 64615384,
+            "avg": 32507692,
+            "min": 400000,
+            "color": {
+                "red": 127,
+                "green": 127,
+                "blue": 6
+            }
+        }
+    ],
     "chungcu": [],
     "bietthu": [],
     "thocu": [
@@ -29,6 +86,412 @@
                 "red": 191.25,
                 "green": 63.75,
                 "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 13657,
+            "name_xaphuong": " Phường Trường Thi",
+            "price": 54026859,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 100000000,
+            "avg": 54026859,
+            "min": 25839793,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 13669,
+            "name_xaphuong": " Phường Cửa Bắc",
+            "price": 20833333,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20833333,
+            "avg": 20833333,
+            "min": 20833333,
+            "color": {
+                "red": 247,
+                "green": 7,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 13684,
+            "name_xaphuong": " Phường Lộc Hạ",
+            "price": 43420557,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 48717948,
+            "avg": 43420557,
+            "min": 38123167,
+            "color": {
+                "red": 239,
+                "green": 15,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 13687,
+            "name_xaphuong": " Phường Lộc Vượng",
+            "price": 41161119,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 67142857,
+            "avg": 41161119,
+            "min": 13761467,
+            "color": {
+                "red": 231,
+                "green": 23,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 13690,
+            "name_xaphuong": "Phường Cửa Nam",
+            "price": 15936254,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 15936254,
+            "avg": 15936254,
+            "min": 15936254,
+            "color": {
+                "red": 224,
+                "green": 30,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 13693,
+            "name_xaphuong": "Phường Lộc Hòa",
+            "price": 29596385,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 48192771,
+            "avg": 29596385,
+            "min": 11000000,
+            "color": {
+                "red": 216,
+                "green": 38,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 13735,
+            "name_xaphuong": "Mỹ Lộc",
+            "price": 2000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2000000,
+            "avg": 2000000,
+            "min": 2000000,
+            "color": {
+                "red": 208,
+                "green": 46,
+                "blue": 12
+            }
+        },
+        {
+            "xaphuong_id": 13753,
+            "name_xaphuong": "Xã Hợp Hưng",
+            "price": 15454545,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 15454545,
+            "avg": 15454545,
+            "min": 15454545,
+            "color": {
+                "red": 200,
+                "green": 54,
+                "blue": 14
+            }
+        },
+        {
+            "xaphuong_id": 13756,
+            "name_xaphuong": " Xã Đại An",
+            "price": 25000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 25000000,
+            "avg": 25000000,
+            "min": 25000000,
+            "color": {
+                "red": 193,
+                "green": 61,
+                "blue": 16
+            }
+        },
+        {
+            "xaphuong_id": 13780,
+            "name_xaphuong": " Xã Kim Thái",
+            "price": 194390982,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2600000000,
+            "avg": 194390982,
+            "min": 25257142,
+            "color": {
+                "red": 185,
+                "green": 69,
+                "blue": 18
+            }
+        },
+        {
+            "xaphuong_id": 13795,
+            "name_xaphuong": "Thị trấn Quất Lâm",
+            "price": 0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 0,
+            "avg": 0,
+            "min": 0,
+            "color": {
+                "red": 177,
+                "green": 77,
+                "blue": 20
+            }
+        },
+        {
+            "xaphuong_id": 13870,
+            "name_xaphuong": "Xã Yên Cường",
+            "price": 18333333,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 18333333,
+            "avg": 18333333,
+            "min": 18333333,
+            "color": {
+                "red": 170,
+                "green": 85,
+                "blue": 22
+            }
+        },
+        {
+            "xaphuong_id": 13894,
+            "name_xaphuong": "Thị trấn Rạng Đông",
+            "price": 21250000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 35000000,
+            "avg": 21250000,
+            "min": 7500000,
+            "color": {
+                "red": 162,
+                "green": 92,
+                "blue": 24
+            }
+        },
+        {
+            "xaphuong_id": 14008,
+            "name_xaphuong": "Xã Nam Lợi",
+            "price": 8775000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 16250000,
+            "avg": 8775000,
+            "min": 1300000,
+            "color": {
+                "red": 154,
+                "green": 100,
+                "blue": 26
+            }
+        },
+        {
+            "xaphuong_id": 14023,
+            "name_xaphuong": "Xã Nam Thái",
+            "price": 14380952,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 14476190,
+            "avg": 14380952,
+            "min": 14285714,
+            "color": {
+                "red": 146,
+                "green": 108,
+                "blue": 28
+            }
+        },
+        {
+            "xaphuong_id": 14050,
+            "name_xaphuong": "Xã Trực Hùng",
+            "price": 9733333,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9733333,
+            "avg": 9733333,
+            "min": 9733333,
+            "color": {
+                "red": 139,
+                "green": 115,
+                "blue": 30
+            }
+        },
+        {
+            "xaphuong_id": 14077,
+            "name_xaphuong": "Ninh Cường",
+            "price": 13870967,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 15000000,
+            "avg": 13870967,
+            "min": 10483870,
+            "color": {
+                "red": 131,
+                "green": 123,
+                "blue": 32
+            }
+        },
+        {
+            "xaphuong_id": 14128,
+            "name_xaphuong": "Xã Xuân Phú",
+            "price": 22000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 22000000,
+            "avg": 22000000,
+            "min": 22000000,
+            "color": {
+                "red": 123,
+                "green": 131,
+                "blue": 34
+            }
+        },
+        {
+            "xaphuong_id": 14155,
+            "name_xaphuong": "Xã Giao Hương",
+            "price": 17400000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 17500000,
+            "avg": 17400000,
+            "min": 17300000,
+            "color": {
+                "red": 108,
+                "green": 146,
+                "blue": 38
+            }
+        },
+        {
+            "xaphuong_id": 14167,
+            "name_xaphuong": "Giao Thủy",
+            "price": 12416666,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 16000000,
+            "avg": 12416666,
+            "min": 10000000,
+            "color": {
+                "red": 100,
+                "green": 154,
+                "blue": 40
+            }
+        },
+        {
+            "xaphuong_id": 14188,
+            "name_xaphuong": "Giao Châu",
+            "price": 7524828,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 8556149,
+            "avg": 7524828,
+            "min": 6493506,
+            "color": {
+                "red": 92,
+                "green": 162,
+                "blue": 42
+            }
+        },
+        {
+            "xaphuong_id": 14194,
+            "name_xaphuong": "Xã Giao Yến",
+            "price": 11869543,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 19166666,
+            "avg": 11869543,
+            "min": 1300000,
+            "color": {
+                "red": 85,
+                "green": 170,
+                "blue": 44
+            }
+        },
+        {
+            "xaphuong_id": 14200,
+            "name_xaphuong": " Xã Giao Thịnh",
+            "price": 16280606,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20370370,
+            "avg": 16280606,
+            "min": 14634146,
+            "color": {
+                "red": 77,
+                "green": 177,
+                "blue": 46
+            }
+        },
+        {
+            "xaphuong_id": 14206,
+            "name_xaphuong": "Xã Bạch Long",
+            "price": 12375849,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 17085427,
+            "avg": 12375849,
+            "min": 2777777,
+            "color": {
+                "red": 69,
+                "green": 185,
+                "blue": 48
+            }
+        },
+        {
+            "xaphuong_id": 14209,
+            "name_xaphuong": "Giao Long",
+            "price": 11964439,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 15053763,
+            "avg": 11964439,
+            "min": 9523809,
+            "color": {
+                "red": 61,
+                "green": 193,
+                "blue": 50
+            }
+        },
+        {
+            "xaphuong_id": 14221,
+            "name_xaphuong": "Thịnh Long",
+            "price": 12423481,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 17441860,
+            "avg": 12423481,
+            "min": 6849315,
+            "color": {
+                "red": 46,
+                "green": 208,
+                "blue": 54
+            }
+        },
+        {
+            "xaphuong_id": 14266,
+            "name_xaphuong": " Xã Hải Quang",
+            "price": 13705555,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 14900000,
+            "avg": 13705555,
+            "min": 12000000,
+            "color": {
+                "red": 38,
+                "green": 216,
+                "blue": 56
+            }
+        },
+        {
+            "xaphuong_id": 14302,
+            "name_xaphuong": "Xã Hải Ninh",
+            "price": 11625000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 15000000,
+            "avg": 11625000,
+            "min": 6000000,
+            "color": {
+                "red": 30,
+                "green": 224,
+                "blue": 58
+            }
+        },
+        {
+            "xaphuong_id": 14317,
+            "name_xaphuong": "Xã Hải Hòa",
+            "price": 13327911,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 20090000,
+            "avg": 13327911,
+            "min": 7228915,
+            "color": {
+                "red": 23,
+                "green": 231,
+                "blue": 60
             }
         }
     ],

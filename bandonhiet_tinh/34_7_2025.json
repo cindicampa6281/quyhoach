@@ -1,5 +1,34 @@
 {
-    "shophouse": [],
+    "shophouse": [
+        {
+            "xaphuong_id": 23473,
+            "name_xaphuong": "Thị trấn Măng Đen",
+            "price": 339953517,
+            "type": "Shophouse",
+            "max": 985507246,
+            "avg": 339953517,
+            "min": 13235294,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 23500,
+            "name_xaphuong": " Thị trấn Đắk Hà",
+            "price": 6666666,
+            "type": "Shophouse",
+            "max": 6666666,
+            "avg": 6666666,
+            "min": 6666666,
+            "color": {
+                "red": 191,
+                "green": 63,
+                "blue": 2
+            }
+        }
+    ],
     "chungcu": [],
     "bietthu": [],
     "thocu": [
@@ -29,6 +58,132 @@
                 "red": 191.25,
                 "green": 63.75,
                 "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 23284,
+            "name_xaphuong": "Duy Tân",
+            "price": 19600000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 19600000,
+            "avg": 19600000,
+            "min": 19600000,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 23323,
+            "name_xaphuong": null,
+            "price": 602409,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 602409,
+            "avg": 602409,
+            "min": 602409,
+            "color": {
+                "red": 235,
+                "green": 19,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 23341,
+            "name_xaphuong": "Đăk Glei",
+            "price": 17000000,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 17444444,
+            "avg": 17000000,
+            "min": 16555555,
+            "color": {
+                "red": 215,
+                "green": 39,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 23377,
+            "name_xaphuong": "Plei Kần",
+            "price": 4296714,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5000000,
+            "avg": 4296714,
+            "min": 3593429,
+            "color": {
+                "red": 196,
+                "green": 58,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 23470,
+            "name_xaphuong": "Xã Măng Cành",
+            "price": 509157706,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 1090909090,
+            "avg": 509157706,
+            "min": 57692307,
+            "color": {
+                "red": 176,
+                "green": 78,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 23476,
+            "name_xaphuong": " Xã Hiếu",
+            "price": 309016666,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 800000000,
+            "avg": 309016666,
+            "min": 1750000,
+            "color": {
+                "red": 137,
+                "green": 117,
+                "blue": 12
+            }
+        },
+        {
+            "xaphuong_id": 23512,
+            "name_xaphuong": "Xã Đăk Mar",
+            "price": 574666510,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3600000000,
+            "avg": 574666510,
+            "min": 55625000,
+            "color": {
+                "red": 98,
+                "green": 156,
+                "blue": 16
+            }
+        },
+        {
+            "xaphuong_id": 23521,
+            "name_xaphuong": " Xã Hà Mòn",
+            "price": 41528247,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 199200000,
+            "avg": 41528247,
+            "min": 1838461,
+            "color": {
+                "red": 78,
+                "green": 176,
+                "blue": 18
+            }
+        },
+        {
+            "xaphuong_id": 23527,
+            "name_xaphuong": "Sa Thầy",
+            "price": 4761904,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 4761904,
+            "avg": 4761904,
+            "min": 4761904,
+            "color": {
+                "red": 58,
+                "green": 196,
+                "blue": 20
             }
         }
     ],
