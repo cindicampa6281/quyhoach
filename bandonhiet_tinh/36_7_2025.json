@@ -17,11 +17,11 @@
         {
             "xaphuong_id": 2635,
             "name_xaphuong": " Phường Duyên Hải",
-            "price": 5745625000,
+            "price": 5746,
             "type": "Shophouse",
-            "max": 20000000000,
-            "avg": 5745625000,
-            "min": 85000000,
+            "max": 20000,
+            "avg": 5746,
+            "min": 85,
             "color": {
                 "red": 255,
                 "green": 0,
@@ -29,13 +29,13 @@
             }
         },
         {
-            "xaphuong_id": 2641,
-            "name_xaphuong": " Phường Lào Cai",
-            "price": 65597667,
+            "xaphuong_id": 3028,
+            "name_xaphuong": " Phường Cầu Mây",
+            "price": 180,
             "type": "Shophouse",
-            "max": 65597667,
-            "avg": 65597667,
-            "min": 65597667,
+            "max": 180,
+            "avg": 180,
+            "min": 180,
             "color": {
                 "red": 233,
                 "green": 21,
@@ -43,27 +43,13 @@
             }
         },
         {
-            "xaphuong_id": 2644,
-            "name_xaphuong": " Phường Cốc Lếu",
-            "price": 59854637,
+            "xaphuong_id": 2641,
+            "name_xaphuong": " Phường Lào Cai",
+            "price": 66,
             "type": "Shophouse",
-            "max": 71705426,
-            "avg": 59854637,
-            "min": 36962962,
-            "color": {
-                "red": 212,
-                "green": 42,
-                "blue": 4
-            }
-        },
-        {
-            "xaphuong_id": 2650,
-            "name_xaphuong": " Phường Bắc Lệnh",
-            "price": 28166666,
-            "type": "Shophouse",
-            "max": 33333333,
-            "avg": 28166666,
-            "min": 23000000,
+            "max": 66,
+            "avg": 66,
+            "min": 66,
             "color": {
                 "red": 191,
                 "green": 63,
@@ -71,13 +57,13 @@
             }
         },
         {
-            "xaphuong_id": 2658,
-            "name_xaphuong": " Phường Bình Minh",
-            "price": 30000000,
+            "xaphuong_id": 2644,
+            "name_xaphuong": " Phường Cốc Lếu",
+            "price": 60,
             "type": "Shophouse",
-            "max": 30000000,
-            "avg": 30000000,
-            "min": 30000000,
+            "max": 72,
+            "avg": 60,
+            "min": 37,
             "color": {
                 "red": 170,
                 "green": 85,
@@ -85,13 +71,13 @@
             }
         },
         {
-            "xaphuong_id": 2668,
-            "name_xaphuong": " Phường Bắc Cường",
-            "price": 35097364,
+            "xaphuong_id": 3006,
+            "name_xaphuong": " Phường Phan Si Păng",
+            "price": 57,
             "type": "Shophouse",
-            "max": 51806407,
-            "avg": 35097364,
-            "min": 27777777,
+            "max": 61,
+            "avg": 57,
+            "min": 52,
             "color": {
                 "red": 148,
                 "green": 106,
@@ -101,11 +87,11 @@
         {
             "xaphuong_id": 2671,
             "name_xaphuong": " Phường Nam Cường",
-            "price": 46000000,
+            "price": 46,
             "type": "Shophouse",
-            "max": 46000000,
-            "avg": 46000000,
-            "min": 46000000,
+            "max": 46,
+            "avg": 46,
+            "min": 46,
             "color": {
                 "red": 127,
                 "green": 127,
@@ -113,13 +99,27 @@
             }
         },
         {
-            "xaphuong_id": 3006,
-            "name_xaphuong": " Phường Phan Si Păng",
-            "price": 56974025,
+            "xaphuong_id": 2668,
+            "name_xaphuong": " Phường Bắc Cường",
+            "price": 35,
             "type": "Shophouse",
-            "max": 61000000,
-            "avg": 56974025,
-            "min": 51818181,
+            "max": 52,
+            "avg": 35,
+            "min": 28,
+            "color": {
+                "red": 106,
+                "green": 148,
+                "blue": 14
+            }
+        },
+        {
+            "xaphuong_id": 2658,
+            "name_xaphuong": " Phường Bình Minh",
+            "price": 30,
+            "type": "Shophouse",
+            "max": 30,
+            "avg": 30,
+            "min": 30,
             "color": {
                 "red": 85,
                 "green": 170,
@@ -127,17 +127,1641 @@
             }
         },
         {
-            "xaphuong_id": 3028,
-            "name_xaphuong": " Phường Cầu Mây",
-            "price": 179961953,
+            "xaphuong_id": 2650,
+            "name_xaphuong": " Phường Bắc Lệnh",
+            "price": 28,
             "type": "Shophouse",
-            "max": 179961953,
-            "avg": 179961953,
-            "min": 179961953,
+            "max": 33,
+            "avg": 28,
+            "min": 23,
             "color": {
                 "red": 63,
                 "green": 191,
                 "blue": 18
+            }
+        },
+        {
+            "xaphuong_id": 2767,
+            "name_xaphuong": "Tả Gia Khâu",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 2800,
+            "name_xaphuong": "Nàn Sán",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 253,
+                "green": 1,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 2803,
+            "name_xaphuong": "Thào Chư Phìn",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 252,
+                "green": 2,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 2806,
+            "name_xaphuong": "Bản Mế",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 251,
+                "green": 3,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 2809,
+            "name_xaphuong": "Si Ma Cai",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 250,
+                "green": 4,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 2812,
+            "name_xaphuong": "Sán Chải",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 249,
+                "green": 5,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 2818,
+            "name_xaphuong": "Lùng Thẩn",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 248,
+                "green": 6,
+                "blue": 12
+            }
+        },
+        {
+            "xaphuong_id": 2821,
+            "name_xaphuong": "Cán Cấu",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 247,
+                "green": 7,
+                "blue": 14
+            }
+        },
+        {
+            "xaphuong_id": 2824,
+            "name_xaphuong": "Sín Chéng",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 246,
+                "green": 8,
+                "blue": 16
+            }
+        },
+        {
+            "xaphuong_id": 2827,
+            "name_xaphuong": "Quan Hồ Thẩn",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 245,
+                "green": 9,
+                "blue": 18
+            }
+        },
+        {
+            "xaphuong_id": 2836,
+            "name_xaphuong": "Nàn Xín",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 244,
+                "green": 10,
+                "blue": 20
+            }
+        },
+        {
+            "xaphuong_id": 2851,
+            "name_xaphuong": "Tả Van Chư",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 243,
+                "green": 11,
+                "blue": 22
+            }
+        },
+        {
+            "xaphuong_id": 2896,
+            "name_xaphuong": "Cốc Lầu",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 242,
+                "green": 12,
+                "blue": 24
+            }
+        },
+        {
+            "xaphuong_id": 2905,
+            "name_xaphuong": "Phố Lu",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 241,
+                "green": 13,
+                "blue": 26
+            }
+        },
+        {
+            "xaphuong_id": 2908,
+            "name_xaphuong": "Tằng Loỏng",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 240,
+                "green": 14,
+                "blue": 28
+            }
+        },
+        {
+            "xaphuong_id": 2911,
+            "name_xaphuong": "Bản Phiệt",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 239,
+                "green": 15,
+                "blue": 30
+            }
+        },
+        {
+            "xaphuong_id": 2917,
+            "name_xaphuong": "Thái Niên",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 238,
+                "green": 16,
+                "blue": 32
+            }
+        },
+        {
+            "xaphuong_id": 2932,
+            "name_xaphuong": "Xuân Giao",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 237,
+                "green": 17,
+                "blue": 34
+            }
+        },
+        {
+            "xaphuong_id": 3112,
+            "name_xaphuong": "Minh Lương",
+            "price": 500.0,
+            "type": "Shophouse",
+            "max": 500.0,
+            "avg": 500.0,
+            "min": 500.0,
+            "color": {
+                "red": 236,
+                "green": 18,
+                "blue": 36
+            }
+        },
+        {
+            "xaphuong_id": 2752,
+            "name_xaphuong": "Pha Long",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 216,
+                "green": 38,
+                "blue": 76
+            }
+        },
+        {
+            "xaphuong_id": 2755,
+            "name_xaphuong": "Tả Ngải Chồ",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 215,
+                "green": 39,
+                "blue": 78
+            }
+        },
+        {
+            "xaphuong_id": 2758,
+            "name_xaphuong": "Tung Chung Phố",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 214,
+                "green": 40,
+                "blue": 80
+            }
+        },
+        {
+            "xaphuong_id": 2761,
+            "name_xaphuong": "Mường Khương",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 213,
+                "green": 41,
+                "blue": 82
+            }
+        },
+        {
+            "xaphuong_id": 2770,
+            "name_xaphuong": "Nậm Chảy",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 211,
+                "green": 43,
+                "blue": 84
+            }
+        },
+        {
+            "xaphuong_id": 2773,
+            "name_xaphuong": "Nấm Lư",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 210,
+                "green": 44,
+                "blue": 86
+            }
+        },
+        {
+            "xaphuong_id": 2776,
+            "name_xaphuong": "Lùng Khấu Nhin",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 209,
+                "green": 45,
+                "blue": 88
+            }
+        },
+        {
+            "xaphuong_id": 2779,
+            "name_xaphuong": "Thanh Bình",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 208,
+                "green": 46,
+                "blue": 90
+            }
+        },
+        {
+            "xaphuong_id": 2782,
+            "name_xaphuong": "Cao Sơn",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 207,
+                "green": 47,
+                "blue": 92
+            }
+        },
+        {
+            "xaphuong_id": 2785,
+            "name_xaphuong": "Lùng Vai",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 206,
+                "green": 48,
+                "blue": 94
+            }
+        },
+        {
+            "xaphuong_id": 2794,
+            "name_xaphuong": "Tả Thàng",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 205,
+                "green": 49,
+                "blue": 96
+            }
+        },
+        {
+            "xaphuong_id": 2797,
+            "name_xaphuong": "Bản Sen",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 204,
+                "green": 50,
+                "blue": 98
+            }
+        },
+        {
+            "xaphuong_id": 2848,
+            "name_xaphuong": "Lùng Phình",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 203,
+                "green": 51,
+                "blue": 100
+            }
+        },
+        {
+            "xaphuong_id": 2854,
+            "name_xaphuong": "Tả Củ Tỷ",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 202,
+                "green": 52,
+                "blue": 102
+            }
+        },
+        {
+            "xaphuong_id": 2863,
+            "name_xaphuong": "Hoàng Thu Phố",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 201,
+                "green": 53,
+                "blue": 104
+            }
+        },
+        {
+            "xaphuong_id": 2878,
+            "name_xaphuong": "Cốc Ly",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 200,
+                "green": 54,
+                "blue": 106
+            }
+        },
+        {
+            "xaphuong_id": 2881,
+            "name_xaphuong": "Nậm Mòn",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 199,
+                "green": 55,
+                "blue": 108
+            }
+        },
+        {
+            "xaphuong_id": 2887,
+            "name_xaphuong": "Nậm Khánh",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 198,
+                "green": 56,
+                "blue": 110
+            }
+        },
+        {
+            "xaphuong_id": 2890,
+            "name_xaphuong": "Bảo Nhai",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 197,
+                "green": 57,
+                "blue": 112
+            }
+        },
+        {
+            "xaphuong_id": 2893,
+            "name_xaphuong": "Nậm Lúc",
+            "price": 50.8,
+            "type": "Shophouse",
+            "max": 50.8,
+            "avg": 50.8,
+            "min": 50.8,
+            "color": {
+                "red": 196,
+                "green": 58,
+                "blue": 114
+            }
+        },
+        {
+            "xaphuong_id": 2971,
+            "name_xaphuong": "Kim Sơn",
+            "price": 41.3,
+            "type": "Shophouse",
+            "max": 41.3,
+            "avg": 41.3,
+            "min": 41.3,
+            "color": {
+                "red": 173,
+                "green": 81,
+                "blue": 160
+            }
+        },
+        {
+            "xaphuong_id": 2992,
+            "name_xaphuong": "Lương Sơn",
+            "price": 40.0,
+            "type": "Shophouse",
+            "max": 40.0,
+            "avg": 40.0,
+            "min": 40.0,
+            "color": {
+                "red": 171,
+                "green": 83,
+                "blue": 164
+            }
+        },
+        {
+            "xaphuong_id": 2839,
+            "name_xaphuong": "Bắc Hà",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 168,
+                "green": 86,
+                "blue": 168
+            }
+        },
+        {
+            "xaphuong_id": 2875,
+            "name_xaphuong": "Na Hối",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 167,
+                "green": 87,
+                "blue": 170
+            }
+        },
+        {
+            "xaphuong_id": 2884,
+            "name_xaphuong": "Nậm Đét",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 166,
+                "green": 88,
+                "blue": 172
+            }
+        },
+        {
+            "xaphuong_id": 2899,
+            "name_xaphuong": "Bản Cái",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 165,
+                "green": 89,
+                "blue": 174
+            }
+        },
+        {
+            "xaphuong_id": 2959,
+            "name_xaphuong": "Điện Quan",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 164,
+                "green": 90,
+                "blue": 176
+            }
+        },
+        {
+            "xaphuong_id": 3002,
+            "name_xaphuong": "Sa Pả",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 162,
+                "green": 92,
+                "blue": 180
+            }
+        },
+        {
+            "xaphuong_id": 3003,
+            "name_xaphuong": "Ô Quý Hồ",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 161,
+                "green": 93,
+                "blue": 182
+            }
+        },
+        {
+            "xaphuong_id": 3004,
+            "name_xaphuong": "Ngũ Chỉ Sơn",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 160,
+                "green": 94,
+                "blue": 184
+            }
+        },
+        {
+            "xaphuong_id": 3010,
+            "name_xaphuong": "Trung Chải",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 158,
+                "green": 96,
+                "blue": 188
+            }
+        },
+        {
+            "xaphuong_id": 3013,
+            "name_xaphuong": "Tả Phìn",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 157,
+                "green": 97,
+                "blue": 190
+            }
+        },
+        {
+            "xaphuong_id": 3016,
+            "name_xaphuong": "Hàm Rồng",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 156,
+                "green": 98,
+                "blue": 192
+            }
+        },
+        {
+            "xaphuong_id": 3019,
+            "name_xaphuong": "Hoàng Liên",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 155,
+                "green": 99,
+                "blue": 194
+            }
+        },
+        {
+            "xaphuong_id": 3022,
+            "name_xaphuong": "Thanh Bình",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 154,
+                "green": 100,
+                "blue": 196
+            }
+        },
+        {
+            "xaphuong_id": 3037,
+            "name_xaphuong": "Mường Hoa",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 152,
+                "green": 102,
+                "blue": 200
+            }
+        },
+        {
+            "xaphuong_id": 3040,
+            "name_xaphuong": "Tả Van",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 151,
+                "green": 103,
+                "blue": 202
+            }
+        },
+        {
+            "xaphuong_id": 3043,
+            "name_xaphuong": "Mường Bo",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 150,
+                "green": 104,
+                "blue": 204
+            }
+        },
+        {
+            "xaphuong_id": 3046,
+            "name_xaphuong": "Bản Hồ",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 149,
+                "green": 105,
+                "blue": 206
+            }
+        },
+        {
+            "xaphuong_id": 3052,
+            "name_xaphuong": "Liên Minh",
+            "price": 39.8,
+            "type": "Shophouse",
+            "max": 39.8,
+            "avg": 39.8,
+            "min": 39.8,
+            "color": {
+                "red": 148,
+                "green": 106,
+                "blue": 208
+            }
+        },
+        {
+            "xaphuong_id": 2647,
+            "name_xaphuong": "Kim Tân",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 123,
+                "green": 131,
+                "blue": 256
+            }
+        },
+        {
+            "xaphuong_id": 2653,
+            "name_xaphuong": "Pom Hán",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 121,
+                "green": 133,
+                "blue": 260
+            }
+        },
+        {
+            "xaphuong_id": 2656,
+            "name_xaphuong": "Xuân Tăng",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 120,
+                "green": 134,
+                "blue": 262
+            }
+        },
+        {
+            "xaphuong_id": 2665,
+            "name_xaphuong": "Vạn Hoà",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 119,
+                "green": 135,
+                "blue": 264
+            }
+        },
+        {
+            "xaphuong_id": 2677,
+            "name_xaphuong": "Tả Phời",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 116,
+                "green": 138,
+                "blue": 270
+            }
+        },
+        {
+            "xaphuong_id": 2680,
+            "name_xaphuong": "Hợp Thành",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 115,
+                "green": 139,
+                "blue": 272
+            }
+        },
+        {
+            "xaphuong_id": 2866,
+            "name_xaphuong": "Bản Phố",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 114,
+                "green": 140,
+                "blue": 274
+            }
+        },
+        {
+            "xaphuong_id": 2869,
+            "name_xaphuong": "Bản Liền",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 113,
+                "green": 141,
+                "blue": 276
+            }
+        },
+        {
+            "xaphuong_id": 2872,
+            "name_xaphuong": "Tà Chải",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 112,
+                "green": 142,
+                "blue": 278
+            }
+        },
+        {
+            "xaphuong_id": 2923,
+            "name_xaphuong": "Gia Phú",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 111,
+                "green": 143,
+                "blue": 280
+            }
+        },
+        {
+            "xaphuong_id": 2926,
+            "name_xaphuong": "Xuân Quang",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 110,
+                "green": 144,
+                "blue": 282
+            }
+        },
+        {
+            "xaphuong_id": 2938,
+            "name_xaphuong": "Sơn Hà",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 109,
+                "green": 145,
+                "blue": 284
+            }
+        },
+        {
+            "xaphuong_id": 2944,
+            "name_xaphuong": "Phú Nhuận",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 108,
+                "green": 146,
+                "blue": 286
+            }
+        },
+        {
+            "xaphuong_id": 2998,
+            "name_xaphuong": "Phúc Khánh",
+            "price": 35.0,
+            "type": "Shophouse",
+            "max": 35.0,
+            "avg": 35.0,
+            "min": 35.0,
+            "color": {
+                "red": 107,
+                "green": 147,
+                "blue": 288
+            }
+        },
+        {
+            "xaphuong_id": 2986,
+            "name_xaphuong": "Yên Sơn",
+            "price": 32.5,
+            "type": "Shophouse",
+            "max": 32.5,
+            "avg": 32.5,
+            "min": 32.5,
+            "color": {
+                "red": 88,
+                "green": 166,
+                "blue": 326
+            }
+        },
+        {
+            "xaphuong_id": 2947,
+            "name_xaphuong": "Phố Ràng",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 86,
+                "green": 168,
+                "blue": 330
+            }
+        },
+        {
+            "xaphuong_id": 2950,
+            "name_xaphuong": "Tân Tiến",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 85,
+                "green": 170,
+                "blue": 332
+            }
+        },
+        {
+            "xaphuong_id": 2953,
+            "name_xaphuong": "Nghĩa Đô",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 83,
+                "green": 171,
+                "blue": 334
+            }
+        },
+        {
+            "xaphuong_id": 2962,
+            "name_xaphuong": "Xuân Hoà",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 82,
+                "green": 172,
+                "blue": 336
+            }
+        },
+        {
+            "xaphuong_id": 2965,
+            "name_xaphuong": "Tân Dương",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 81,
+                "green": 173,
+                "blue": 338
+            }
+        },
+        {
+            "xaphuong_id": 2968,
+            "name_xaphuong": "Thượng Hà",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 80,
+                "green": 174,
+                "blue": 340
+            }
+        },
+        {
+            "xaphuong_id": 2974,
+            "name_xaphuong": "Cam Cọn",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 79,
+                "green": 175,
+                "blue": 342
+            }
+        },
+        {
+            "xaphuong_id": 2980,
+            "name_xaphuong": "Xuân Thượng",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 78,
+                "green": 176,
+                "blue": 344
+            }
+        },
+        {
+            "xaphuong_id": 2983,
+            "name_xaphuong": "Việt Tiến",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 77,
+                "green": 177,
+                "blue": 346
+            }
+        },
+        {
+            "xaphuong_id": 2989,
+            "name_xaphuong": "Bảo Hà",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 76,
+                "green": 178,
+                "blue": 348
+            }
+        },
+        {
+            "xaphuong_id": 3055,
+            "name_xaphuong": "Khánh Yên",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 75,
+                "green": 179,
+                "blue": 350
+            }
+        },
+        {
+            "xaphuong_id": 3061,
+            "name_xaphuong": "Võ Lao",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 74,
+                "green": 180,
+                "blue": 352
+            }
+        },
+        {
+            "xaphuong_id": 3064,
+            "name_xaphuong": "Sơn Thuỷ",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 73,
+                "green": 181,
+                "blue": 354
+            }
+        },
+        {
+            "xaphuong_id": 3070,
+            "name_xaphuong": "Tân Thượng",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 72,
+                "green": 182,
+                "blue": 356
+            }
+        },
+        {
+            "xaphuong_id": 3073,
+            "name_xaphuong": "Nậm Rạng",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 71,
+                "green": 183,
+                "blue": 358
+            }
+        },
+        {
+            "xaphuong_id": 3076,
+            "name_xaphuong": "Nậm Chầy",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 70,
+                "green": 184,
+                "blue": 360
+            }
+        },
+        {
+            "xaphuong_id": 3079,
+            "name_xaphuong": "Tân An",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 69,
+                "green": 185,
+                "blue": 362
+            }
+        },
+        {
+            "xaphuong_id": 3082,
+            "name_xaphuong": "Khánh Yên Thượng",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 68,
+                "green": 186,
+                "blue": 364
+            }
+        },
+        {
+            "xaphuong_id": 3085,
+            "name_xaphuong": "Nậm Xé",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 67,
+                "green": 187,
+                "blue": 366
+            }
+        },
+        {
+            "xaphuong_id": 3088,
+            "name_xaphuong": "Dần Thàng",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 66,
+                "green": 188,
+                "blue": 368
+            }
+        },
+        {
+            "xaphuong_id": 3091,
+            "name_xaphuong": "Chiềng Ken",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 65,
+                "green": 189,
+                "blue": 370
+            }
+        },
+        {
+            "xaphuong_id": 3097,
+            "name_xaphuong": "Hoà Mạc",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 64,
+                "green": 190,
+                "blue": 372
+            }
+        },
+        {
+            "xaphuong_id": 3100,
+            "name_xaphuong": "Khánh Yên Trung",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 63,
+                "green": 191,
+                "blue": 374
+            }
+        },
+        {
+            "xaphuong_id": 3103,
+            "name_xaphuong": "Khánh Yên Hạ",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 62,
+                "green": 192,
+                "blue": 376
+            }
+        },
+        {
+            "xaphuong_id": 3106,
+            "name_xaphuong": "Dương Quỳ",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 61,
+                "green": 193,
+                "blue": 378
+            }
+        },
+        {
+            "xaphuong_id": 3109,
+            "name_xaphuong": "Nậm Tha",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 60,
+                "green": 194,
+                "blue": 380
+            }
+        },
+        {
+            "xaphuong_id": 3118,
+            "name_xaphuong": "Liêm Phú",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 59,
+                "green": 195,
+                "blue": 382
+            }
+        },
+        {
+            "xaphuong_id": 3115,
+            "name_xaphuong": "Thẩm Dương",
+            "price": 28.8,
+            "type": "Shophouse",
+            "max": 28.8,
+            "avg": 28.8,
+            "min": 28.8,
+            "color": {
+                "red": 31,
+                "green": 223,
+                "blue": 436
+            }
+        },
+        {
+            "xaphuong_id": 2764,
+            "name_xaphuong": "Dìn Chin",
+            "price": 28.4,
+            "type": "Shophouse",
+            "max": 28.4,
+            "avg": 28.4,
+            "min": 28.4,
+            "color": {
+                "red": 29,
+                "green": 225,
+                "blue": 440
+            }
+        },
+        {
+            "xaphuong_id": 2977,
+            "name_xaphuong": "Minh Tân",
+            "price": 28.4,
+            "type": "Shophouse",
+            "max": 28.4,
+            "avg": 28.4,
+            "min": 28.4,
+            "color": {
+                "red": 28,
+                "green": 226,
+                "blue": 442
+            }
+        },
+        {
+            "xaphuong_id": 2788,
+            "name_xaphuong": "Bản Lầu",
+            "price": 27.5,
+            "type": "Shophouse",
+            "max": 27.5,
+            "avg": 27.5,
+            "min": 27.5,
+            "color": {
+                "red": 25,
+                "green": 229,
+                "blue": 448
+            }
+        },
+        {
+            "xaphuong_id": 2902,
+            "name_xaphuong": "N.T Phong Hải",
+            "price": 27.5,
+            "type": "Shophouse",
+            "max": 27.5,
+            "avg": 27.5,
+            "min": 27.5,
+            "color": {
+                "red": 24,
+                "green": 230,
+                "blue": 450
+            }
+        },
+        {
+            "xaphuong_id": 2920,
+            "name_xaphuong": "Phong Niên",
+            "price": 27.5,
+            "type": "Shophouse",
+            "max": 27.5,
+            "avg": 27.5,
+            "min": 27.5,
+            "color": {
+                "red": 23,
+                "green": 231,
+                "blue": 452
+            }
+        },
+        {
+            "xaphuong_id": 2683,
+            "name_xaphuong": "Bát Xát",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 19,
+                "green": 235,
+                "blue": 460
+            }
+        },
+        {
+            "xaphuong_id": 2701,
+            "name_xaphuong": "Y Tý",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 18,
+                "green": 236,
+                "blue": 462
+            }
+        },
+        {
+            "xaphuong_id": 2722,
+            "name_xaphuong": "Dền Thàng",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 17,
+                "green": 237,
+                "blue": 464
+            }
+        },
+        {
+            "xaphuong_id": 2725,
+            "name_xaphuong": "Bản Xèo",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 16,
+                "green": 238,
+                "blue": 466
+            }
+        },
+        {
+            "xaphuong_id": 2728,
+            "name_xaphuong": "Mường Hum",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 15,
+                "green": 239,
+                "blue": 468
+            }
+        },
+        {
+            "xaphuong_id": 2734,
+            "name_xaphuong": "Quang Kim",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 14,
+                "green": 240,
+                "blue": 470
+            }
+        },
+        {
+            "xaphuong_id": 2740,
+            "name_xaphuong": "Nậm Pung",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 13,
+                "green": 241,
+                "blue": 472
+            }
+        },
+        {
+            "xaphuong_id": 3067,
+            "name_xaphuong": "Nậm Mả",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 12,
+                "green": 242,
+                "blue": 474
+            }
+        },
+        {
+            "xaphuong_id": 3121,
+            "name_xaphuong": "Nậm Xây",
+            "price": 2.0,
+            "type": "Shophouse",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 11,
+                "green": 243,
+                "blue": 476
             }
         }
     ],
@@ -188,13 +1812,13 @@
             }
         },
         {
-            "xaphuong_id": 2635,
-            "name_xaphuong": "Duyên Hải",
-            "price": 57739383,
+            "xaphuong_id": 3028,
+            "name_xaphuong": " Phường Cầu Mây",
+            "price": 2574,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 105000000,
-            "avg": 57739383,
-            "min": 14736842,
+            "max": 8235,
+            "avg": 2574,
+            "min": 7,
             "color": {
                 "red": 255,
                 "green": 0,
@@ -202,13 +1826,13 @@
             }
         },
         {
-            "xaphuong_id": 2641,
-            "name_xaphuong": " Phường Lào Cai",
-            "price": 22000000,
+            "xaphuong_id": 3013,
+            "name_xaphuong": "Xã Tả Phìn",
+            "price": 1920,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 24000000,
-            "avg": 22000000,
-            "min": 20000000,
+            "max": 4286,
+            "avg": 1920,
+            "min": 1,
             "color": {
                 "red": 246,
                 "green": 8,
@@ -216,13 +1840,27 @@
             }
         },
         {
-            "xaphuong_id": 2647,
-            "name_xaphuong": " Phường Kim Tân",
-            "price": 34764568,
+            "xaphuong_id": 3003,
+            "name_xaphuong": " Phường Ô Quý Hồ",
+            "price": 1900,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 54195804,
-            "avg": 34764568,
-            "min": 15333333,
+            "max": 3375,
+            "avg": 1900,
+            "min": 425,
+            "color": {
+                "red": 238,
+                "green": 17,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 3040,
+            "name_xaphuong": " Xã Tả Van",
+            "price": 1754,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3500,
+            "avg": 1754,
+            "min": 8,
             "color": {
                 "red": 229,
                 "green": 25,
@@ -230,13 +1868,13 @@
             }
         },
         {
-            "xaphuong_id": 2650,
-            "name_xaphuong": "Phường Bắc Lệnh",
-            "price": 21558625,
+            "xaphuong_id": 2914,
+            "name_xaphuong": " Xã Bản Cầm",
+            "price": 1175,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 47000000,
-            "avg": 21558625,
-            "min": 9090909,
+            "max": 1175,
+            "avg": 1175,
+            "min": 1175,
             "color": {
                 "red": 221,
                 "green": 34,
@@ -244,13 +1882,13 @@
             }
         },
         {
-            "xaphuong_id": 2653,
-            "name_xaphuong": " Phường Pom Hán",
-            "price": 19000000,
+            "xaphuong_id": 3037,
+            "name_xaphuong": " Xã Mường Hoa",
+            "price": 1003,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 19000000,
-            "avg": 19000000,
-            "min": 19000000,
+            "max": 5800,
+            "avg": 1003,
+            "min": 1,
             "color": {
                 "red": 212,
                 "green": 42,
@@ -258,27 +1896,13 @@
             }
         },
         {
-            "xaphuong_id": 2656,
-            "name_xaphuong": " Phường Xuân Tăng",
-            "price": 16520152,
+            "xaphuong_id": 2971,
+            "name_xaphuong": "Xã Kim Sơn",
+            "price": 78,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 23520000,
-            "avg": 16520152,
-            "min": 12000000,
-            "color": {
-                "red": 204,
-                "green": 51,
-                "blue": 12
-            }
-        },
-        {
-            "xaphuong_id": 2658,
-            "name_xaphuong": "Phường Bình Minh",
-            "price": 18999435,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 24166666,
-            "avg": 18999435,
-            "min": 14117647,
+            "max": 78,
+            "avg": 78,
+            "min": 78,
             "color": {
                 "red": 195,
                 "green": 59,
@@ -286,13 +1910,13 @@
             }
         },
         {
-            "xaphuong_id": 2665,
-            "name_xaphuong": " Xã Vạn Hòa",
-            "price": 65553271,
+            "xaphuong_id": 3121,
+            "name_xaphuong": "Thị Trấn Sa Pa",
+            "price": 77,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 109523809,
-            "avg": 65553271,
-            "min": 21582733,
+            "max": 83,
+            "avg": 77,
+            "min": 74,
             "color": {
                 "red": 187,
                 "green": 68,
@@ -300,13 +1924,13 @@
             }
         },
         {
-            "xaphuong_id": 2668,
-            "name_xaphuong": " Phường Bắc Cường",
-            "price": 35144615,
+            "xaphuong_id": 2665,
+            "name_xaphuong": " Xã Vạn Hòa",
+            "price": 66,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 51034482,
-            "avg": 35144615,
-            "min": 10000000,
+            "max": 110,
+            "avg": 66,
+            "min": 22,
             "color": {
                 "red": 178,
                 "green": 76,
@@ -314,13 +1938,13 @@
             }
         },
         {
-            "xaphuong_id": 2671,
-            "name_xaphuong": " Phường Nam Cường",
-            "price": 46894875,
+            "xaphuong_id": 2635,
+            "name_xaphuong": "Duyên Hải",
+            "price": 58,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 56000000,
-            "avg": 46894875,
-            "min": 20547945,
+            "max": 105,
+            "avg": 58,
+            "min": 15,
             "color": {
                 "red": 170,
                 "green": 85,
@@ -328,13 +1952,13 @@
             }
         },
         {
-            "xaphuong_id": 2746,
-            "name_xaphuong": " Cốc San",
-            "price": 38961038,
+            "xaphuong_id": 3006,
+            "name_xaphuong": "Phường Phan Si Păng",
+            "price": 52,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 38961038,
-            "avg": 38961038,
-            "min": 38961038,
+            "max": 67,
+            "avg": 52,
+            "min": 39,
             "color": {
                 "red": 161,
                 "green": 93,
@@ -342,27 +1966,13 @@
             }
         },
         {
-            "xaphuong_id": 2908,
-            "name_xaphuong": "Tằng Loỏng",
-            "price": 5450000,
+            "xaphuong_id": 2671,
+            "name_xaphuong": " Phường Nam Cường",
+            "price": 47,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 6500000,
-            "avg": 5450000,
-            "min": 4800000,
-            "color": {
-                "red": 153,
-                "green": 102,
-                "blue": 24
-            }
-        },
-        {
-            "xaphuong_id": 2911,
-            "name_xaphuong": "Xã Bản Phiệt",
-            "price": 21208248,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 117910447,
-            "avg": 21208248,
-            "min": 8755000,
+            "max": 56,
+            "avg": 47,
+            "min": 21,
             "color": {
                 "red": 144,
                 "green": 110,
@@ -370,13 +1980,13 @@
             }
         },
         {
-            "xaphuong_id": 2914,
-            "name_xaphuong": " Xã Bản Cầm",
-            "price": 1175000000,
+            "xaphuong_id": 2746,
+            "name_xaphuong": " Cốc San",
+            "price": 39,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 1175000000,
-            "avg": 1175000000,
-            "min": 1175000000,
+            "max": 39,
+            "avg": 39,
+            "min": 39,
             "color": {
                 "red": 136,
                 "green": 119,
@@ -384,13 +1994,13 @@
             }
         },
         {
-            "xaphuong_id": 2926,
-            "name_xaphuong": " Xã Xuân Quang",
-            "price": 6916666,
+            "xaphuong_id": 2647,
+            "name_xaphuong": " Phường Kim Tân",
+            "price": 35,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 7500000,
-            "avg": 6916666,
-            "min": 6333333,
+            "max": 54,
+            "avg": 35,
+            "min": 15,
             "color": {
                 "red": 127,
                 "green": 127,
@@ -398,13 +2008,13 @@
             }
         },
         {
-            "xaphuong_id": 2932,
-            "name_xaphuong": " Xã Xuân Giao",
-            "price": 6549017,
+            "xaphuong_id": 2668,
+            "name_xaphuong": " Phường Bắc Cường",
+            "price": 35,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 7797051,
-            "avg": 6549017,
-            "min": 5350000,
+            "max": 51,
+            "avg": 35,
+            "min": 10,
             "color": {
                 "red": 119,
                 "green": 136,
@@ -412,13 +2022,13 @@
             }
         },
         {
-            "xaphuong_id": 2947,
-            "name_xaphuong": "Thị trấn Phố Ràng",
-            "price": 16467035,
+            "xaphuong_id": 2641,
+            "name_xaphuong": " Phường Lào Cai",
+            "price": 22,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 40999999,
-            "avg": 16467035,
-            "min": 4603174,
+            "max": 24,
+            "avg": 22,
+            "min": 20,
             "color": {
                 "red": 110,
                 "green": 144,
@@ -426,13 +2036,13 @@
             }
         },
         {
-            "xaphuong_id": 2971,
-            "name_xaphuong": "Xã Kim Sơn",
-            "price": 78027311,
+            "xaphuong_id": 2650,
+            "name_xaphuong": "Phường Bắc Lệnh",
+            "price": 22,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 78252173,
-            "avg": 78027311,
-            "min": 77577586,
+            "max": 47,
+            "avg": 22,
+            "min": 9,
             "color": {
                 "red": 102,
                 "green": 153,
@@ -440,13 +2050,27 @@
             }
         },
         {
-            "xaphuong_id": 3003,
-            "name_xaphuong": " Phường Ô Quý Hồ",
-            "price": 1900000000,
+            "xaphuong_id": 2911,
+            "name_xaphuong": "Xã Bản Phiệt",
+            "price": 21,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 3375000000,
-            "avg": 1900000000,
-            "min": 425000000,
+            "max": 118,
+            "avg": 21,
+            "min": 9,
+            "color": {
+                "red": 93,
+                "green": 161,
+                "blue": 38
+            }
+        },
+        {
+            "xaphuong_id": 2653,
+            "name_xaphuong": " Phường Pom Hán",
+            "price": 19,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 19,
+            "avg": 19,
+            "min": 19,
             "color": {
                 "red": 85,
                 "green": 170,
@@ -454,13 +2078,13 @@
             }
         },
         {
-            "xaphuong_id": 3006,
-            "name_xaphuong": "Phường Phan Si Păng",
-            "price": 51503467,
+            "xaphuong_id": 2658,
+            "name_xaphuong": "Phường Bình Minh",
+            "price": 19,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 67324561,
-            "avg": 51503467,
-            "min": 38750000,
+            "max": 24,
+            "avg": 19,
+            "min": 14,
             "color": {
                 "red": 76,
                 "green": 178,
@@ -468,13 +2092,13 @@
             }
         },
         {
-            "xaphuong_id": 3013,
-            "name_xaphuong": "Xã Tả Phìn",
-            "price": 1919511846,
+            "xaphuong_id": 2656,
+            "name_xaphuong": " Phường Xuân Tăng",
+            "price": 17,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 4285714285,
-            "avg": 1919511846,
-            "min": 1000000,
+            "max": 24,
+            "avg": 17,
+            "min": 12,
             "color": {
                 "red": 68,
                 "green": 187,
@@ -482,13 +2106,13 @@
             }
         },
         {
-            "xaphuong_id": 3016,
-            "name_xaphuong": "Hàm Rồng",
-            "price": 2000000,
+            "xaphuong_id": 2947,
+            "name_xaphuong": "Thị trấn Phố Ràng",
+            "price": 16,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 2000000,
-            "avg": 2000000,
-            "min": 2000000,
+            "max": 41,
+            "avg": 16,
+            "min": 5,
             "color": {
                 "red": 59,
                 "green": 195,
@@ -496,13 +2120,13 @@
             }
         },
         {
-            "xaphuong_id": 3028,
-            "name_xaphuong": " Phường Cầu Mây",
-            "price": 2574336650,
+            "xaphuong_id": 2926,
+            "name_xaphuong": " Xã Xuân Quang",
+            "price": 7,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 8235294117,
-            "avg": 2574336650,
-            "min": 7000000,
+            "max": 8,
+            "avg": 7,
+            "min": 6,
             "color": {
                 "red": 51,
                 "green": 204,
@@ -510,13 +2134,13 @@
             }
         },
         {
-            "xaphuong_id": 3037,
-            "name_xaphuong": " Xã Mường Hoa",
-            "price": 1002941721,
+            "xaphuong_id": 2932,
+            "name_xaphuong": " Xã Xuân Giao",
+            "price": 7,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 5800000000,
-            "avg": 1002941721,
-            "min": 1087500,
+            "max": 8,
+            "avg": 7,
+            "min": 5,
             "color": {
                 "red": 42,
                 "green": 212,
@@ -524,13 +2148,13 @@
             }
         },
         {
-            "xaphuong_id": 3040,
-            "name_xaphuong": " Xã Tả Van",
-            "price": 1753791773,
+            "xaphuong_id": 2908,
+            "name_xaphuong": "Tằng Loỏng",
+            "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 3500000000,
-            "avg": 1753791773,
-            "min": 7583547,
+            "max": 6,
+            "avg": 5,
+            "min": 5,
             "color": {
                 "red": 34,
                 "green": 221,
@@ -538,17 +2162,1067 @@
             }
         },
         {
-            "xaphuong_id": 3121,
-            "name_xaphuong": "Thị Trấn Sa Pa",
-            "price": 76923076,
+            "xaphuong_id": 3016,
+            "name_xaphuong": "Hàm Rồng",
+            "price": 2,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 83333333,
-            "avg": 76923076,
-            "min": 73717948,
+            "max": 2,
+            "avg": 2,
+            "min": 2,
             "color": {
                 "red": 25,
                 "green": 229,
                 "blue": 54
+            }
+        },
+        {
+            "xaphuong_id": 3004,
+            "name_xaphuong": "Ngũ Chỉ Sơn",
+            "price": 28.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 28.0,
+            "avg": 28.0,
+            "min": 28.0,
+            "color": {
+                "red": 249,
+                "green": 5,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 3019,
+            "name_xaphuong": "Hoàng Liên",
+            "price": 28.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 28.0,
+            "avg": 28.0,
+            "min": 28.0,
+            "color": {
+                "red": 247,
+                "green": 7,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 3046,
+            "name_xaphuong": "Bản Hồ",
+            "price": 13.5,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 13.5,
+            "avg": 13.5,
+            "min": 13.5,
+            "color": {
+                "red": 237,
+                "green": 17,
+                "blue": 24
+            }
+        },
+        {
+            "xaphuong_id": 2752,
+            "name_xaphuong": "Pha Long",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 231,
+                "green": 23,
+                "blue": 32
+            }
+        },
+        {
+            "xaphuong_id": 2755,
+            "name_xaphuong": "Tả Ngải Chồ",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 230,
+                "green": 24,
+                "blue": 34
+            }
+        },
+        {
+            "xaphuong_id": 2758,
+            "name_xaphuong": "Tung Chung Phố",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 228,
+                "green": 26,
+                "blue": 36
+            }
+        },
+        {
+            "xaphuong_id": 2761,
+            "name_xaphuong": "Mường Khương",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 227,
+                "green": 27,
+                "blue": 38
+            }
+        },
+        {
+            "xaphuong_id": 2770,
+            "name_xaphuong": "Nậm Chảy",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 225,
+                "green": 29,
+                "blue": 40
+            }
+        },
+        {
+            "xaphuong_id": 2773,
+            "name_xaphuong": "Nấm Lư",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 224,
+                "green": 30,
+                "blue": 42
+            }
+        },
+        {
+            "xaphuong_id": 2776,
+            "name_xaphuong": "Lùng Khấu Nhin",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 222,
+                "green": 32,
+                "blue": 44
+            }
+        },
+        {
+            "xaphuong_id": 2779,
+            "name_xaphuong": "Thanh Bình",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 221,
+                "green": 33,
+                "blue": 46
+            }
+        },
+        {
+            "xaphuong_id": 2782,
+            "name_xaphuong": "Cao Sơn",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 219,
+                "green": 35,
+                "blue": 48
+            }
+        },
+        {
+            "xaphuong_id": 2785,
+            "name_xaphuong": "Lùng Vai",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 218,
+                "green": 36,
+                "blue": 50
+            }
+        },
+        {
+            "xaphuong_id": 2794,
+            "name_xaphuong": "Tả Thàng",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 216,
+                "green": 38,
+                "blue": 52
+            }
+        },
+        {
+            "xaphuong_id": 2797,
+            "name_xaphuong": "Bản Sen",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 215,
+                "green": 39,
+                "blue": 54
+            }
+        },
+        {
+            "xaphuong_id": 2848,
+            "name_xaphuong": "Lùng Phình",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 213,
+                "green": 41,
+                "blue": 56
+            }
+        },
+        {
+            "xaphuong_id": 2854,
+            "name_xaphuong": "Tả Củ Tỷ",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 212,
+                "green": 42,
+                "blue": 58
+            }
+        },
+        {
+            "xaphuong_id": 2863,
+            "name_xaphuong": "Hoàng Thu Phố",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 211,
+                "green": 43,
+                "blue": 60
+            }
+        },
+        {
+            "xaphuong_id": 2878,
+            "name_xaphuong": "Cốc Ly",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 209,
+                "green": 45,
+                "blue": 62
+            }
+        },
+        {
+            "xaphuong_id": 2881,
+            "name_xaphuong": "Nậm Mòn",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 208,
+                "green": 46,
+                "blue": 64
+            }
+        },
+        {
+            "xaphuong_id": 2887,
+            "name_xaphuong": "Nậm Khánh",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 206,
+                "green": 48,
+                "blue": 66
+            }
+        },
+        {
+            "xaphuong_id": 2890,
+            "name_xaphuong": "Bảo Nhai",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 205,
+                "green": 49,
+                "blue": 68
+            }
+        },
+        {
+            "xaphuong_id": 2893,
+            "name_xaphuong": "Nậm Lúc",
+            "price": 12.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12.3,
+            "avg": 12.3,
+            "min": 12.3,
+            "color": {
+                "red": 203,
+                "green": 51,
+                "blue": 70
+            }
+        },
+        {
+            "xaphuong_id": 2986,
+            "name_xaphuong": "Yên Sơn",
+            "price": 11.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 11.3,
+            "avg": 11.3,
+            "min": 11.3,
+            "color": {
+                "red": 172,
+                "green": 82,
+                "blue": 112
+            }
+        },
+        {
+            "xaphuong_id": 3055,
+            "name_xaphuong": "Khánh Yên",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 170,
+                "green": 85,
+                "blue": 116
+            }
+        },
+        {
+            "xaphuong_id": 3061,
+            "name_xaphuong": "Võ Lao",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 168,
+                "green": 86,
+                "blue": 118
+            }
+        },
+        {
+            "xaphuong_id": 3064,
+            "name_xaphuong": "Sơn Thuỷ",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 167,
+                "green": 87,
+                "blue": 120
+            }
+        },
+        {
+            "xaphuong_id": 3070,
+            "name_xaphuong": "Tân Thượng",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 165,
+                "green": 89,
+                "blue": 122
+            }
+        },
+        {
+            "xaphuong_id": 3073,
+            "name_xaphuong": "Nậm Rạng",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 164,
+                "green": 90,
+                "blue": 124
+            }
+        },
+        {
+            "xaphuong_id": 3076,
+            "name_xaphuong": "Nậm Chầy",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 162,
+                "green": 92,
+                "blue": 126
+            }
+        },
+        {
+            "xaphuong_id": 3079,
+            "name_xaphuong": "Tân An",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 161,
+                "green": 93,
+                "blue": 128
+            }
+        },
+        {
+            "xaphuong_id": 3082,
+            "name_xaphuong": "Khánh Yên Thượng",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 159,
+                "green": 95,
+                "blue": 130
+            }
+        },
+        {
+            "xaphuong_id": 3085,
+            "name_xaphuong": "Nậm Xé",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 158,
+                "green": 96,
+                "blue": 132
+            }
+        },
+        {
+            "xaphuong_id": 3088,
+            "name_xaphuong": "Dần Thàng",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 156,
+                "green": 98,
+                "blue": 134
+            }
+        },
+        {
+            "xaphuong_id": 3091,
+            "name_xaphuong": "Chiềng Ken",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 155,
+                "green": 99,
+                "blue": 136
+            }
+        },
+        {
+            "xaphuong_id": 3097,
+            "name_xaphuong": "Hoà Mạc",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 153,
+                "green": 101,
+                "blue": 138
+            }
+        },
+        {
+            "xaphuong_id": 3100,
+            "name_xaphuong": "Khánh Yên Trung",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 152,
+                "green": 102,
+                "blue": 140
+            }
+        },
+        {
+            "xaphuong_id": 3103,
+            "name_xaphuong": "Khánh Yên Hạ",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 150,
+                "green": 104,
+                "blue": 142
+            }
+        },
+        {
+            "xaphuong_id": 3106,
+            "name_xaphuong": "Dương Quỳ",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 149,
+                "green": 105,
+                "blue": 144
+            }
+        },
+        {
+            "xaphuong_id": 3109,
+            "name_xaphuong": "Nậm Tha",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 148,
+                "green": 106,
+                "blue": 146
+            }
+        },
+        {
+            "xaphuong_id": 3118,
+            "name_xaphuong": "Liêm Phú",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 146,
+                "green": 108,
+                "blue": 148
+            }
+        },
+        {
+            "xaphuong_id": 3115,
+            "name_xaphuong": "Thẩm Dương",
+            "price": 9.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 9.3,
+            "avg": 9.3,
+            "min": 9.3,
+            "color": {
+                "red": 121,
+                "green": 133,
+                "blue": 182
+            }
+        },
+        {
+            "xaphuong_id": 2764,
+            "name_xaphuong": "Dìn Chin",
+            "price": 7.6,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 7.6,
+            "avg": 7.6,
+            "min": 7.6,
+            "color": {
+                "red": 118,
+                "green": 136,
+                "blue": 186
+            }
+        },
+        {
+            "xaphuong_id": 2977,
+            "name_xaphuong": "Minh Tân",
+            "price": 7.6,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 7.6,
+            "avg": 7.6,
+            "min": 7.6,
+            "color": {
+                "red": 117,
+                "green": 137,
+                "blue": 188
+            }
+        },
+        {
+            "xaphuong_id": 2788,
+            "name_xaphuong": "Bản Lầu",
+            "price": 6.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 6.3,
+            "avg": 6.3,
+            "min": 6.3,
+            "color": {
+                "red": 112,
+                "green": 142,
+                "blue": 194
+            }
+        },
+        {
+            "xaphuong_id": 2902,
+            "name_xaphuong": "N.T Phong Hải",
+            "price": 6.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 6.3,
+            "avg": 6.3,
+            "min": 6.3,
+            "color": {
+                "red": 111,
+                "green": 143,
+                "blue": 196
+            }
+        },
+        {
+            "xaphuong_id": 2920,
+            "name_xaphuong": "Phong Niên",
+            "price": 6.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 6.3,
+            "avg": 6.3,
+            "min": 6.3,
+            "color": {
+                "red": 109,
+                "green": 145,
+                "blue": 198
+            }
+        },
+        {
+            "xaphuong_id": 2857,
+            "name_xaphuong": "Thải Giàng Phố",
+            "price": 6.1,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 6.1,
+            "avg": 6.1,
+            "min": 6.1,
+            "color": {
+                "red": 104,
+                "green": 150,
+                "blue": 206
+            }
+        },
+        {
+            "xaphuong_id": 2950,
+            "name_xaphuong": "Tân Tiến",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 96,
+                "green": 158,
+                "blue": 216
+            }
+        },
+        {
+            "xaphuong_id": 2953,
+            "name_xaphuong": "Nghĩa Đô",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 95,
+                "green": 159,
+                "blue": 218
+            }
+        },
+        {
+            "xaphuong_id": 2962,
+            "name_xaphuong": "Xuân Hoà",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 93,
+                "green": 161,
+                "blue": 220
+            }
+        },
+        {
+            "xaphuong_id": 2965,
+            "name_xaphuong": "Tân Dương",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 92,
+                "green": 162,
+                "blue": 222
+            }
+        },
+        {
+            "xaphuong_id": 2968,
+            "name_xaphuong": "Thượng Hà",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 90,
+                "green": 164,
+                "blue": 224
+            }
+        },
+        {
+            "xaphuong_id": 2974,
+            "name_xaphuong": "Cam Cọn",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 89,
+                "green": 165,
+                "blue": 226
+            }
+        },
+        {
+            "xaphuong_id": 2980,
+            "name_xaphuong": "Xuân Thượng",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 87,
+                "green": 167,
+                "blue": 228
+            }
+        },
+        {
+            "xaphuong_id": 2983,
+            "name_xaphuong": "Việt Tiến",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 86,
+                "green": 168,
+                "blue": 230
+            }
+        },
+        {
+            "xaphuong_id": 2989,
+            "name_xaphuong": "Bảo Hà",
+            "price": 5.3,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.3,
+            "avg": 5.3,
+            "min": 5.3,
+            "color": {
+                "red": 85,
+                "green": 170,
+                "blue": 232
+            }
+        },
+        {
+            "xaphuong_id": 2791,
+            "name_xaphuong": "La Pan Tẩn",
+            "price": 5.2,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5.2,
+            "avg": 5.2,
+            "min": 5.2,
+            "color": {
+                "red": 68,
+                "green": 186,
+                "blue": 254
+            }
+        },
+        {
+            "xaphuong_id": 2839,
+            "name_xaphuong": "Bắc Hà",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 65,
+                "green": 189,
+                "blue": 258
+            }
+        },
+        {
+            "xaphuong_id": 2875,
+            "name_xaphuong": "Na Hối",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 64,
+                "green": 190,
+                "blue": 260
+            }
+        },
+        {
+            "xaphuong_id": 2884,
+            "name_xaphuong": "Nậm Đét",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 63,
+                "green": 191,
+                "blue": 262
+            }
+        },
+        {
+            "xaphuong_id": 2899,
+            "name_xaphuong": "Bản Cái",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 61,
+                "green": 193,
+                "blue": 264
+            }
+        },
+        {
+            "xaphuong_id": 2959,
+            "name_xaphuong": "Điện Quan",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 60,
+                "green": 194,
+                "blue": 266
+            }
+        },
+        {
+            "xaphuong_id": 3002,
+            "name_xaphuong": "Sa Pả",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 57,
+                "green": 197,
+                "blue": 270
+            }
+        },
+        {
+            "xaphuong_id": 3010,
+            "name_xaphuong": "Trung Chải",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 54,
+                "green": 200,
+                "blue": 274
+            }
+        },
+        {
+            "xaphuong_id": 3022,
+            "name_xaphuong": "Thanh Bình",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 49,
+                "green": 205,
+                "blue": 280
+            }
+        },
+        {
+            "xaphuong_id": 3043,
+            "name_xaphuong": "Mường Bo",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 46,
+                "green": 208,
+                "blue": 284
+            }
+        },
+        {
+            "xaphuong_id": 3052,
+            "name_xaphuong": "Liên Minh",
+            "price": 3.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 3.0,
+            "avg": 3.0,
+            "min": 3.0,
+            "color": {
+                "red": 45,
+                "green": 209,
+                "blue": 286
+            }
+        },
+        {
+            "xaphuong_id": 2683,
+            "name_xaphuong": "Bát Xát",
+            "price": 2.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 21,
+                "green": 233,
+                "blue": 318
+            }
+        },
+        {
+            "xaphuong_id": 2701,
+            "name_xaphuong": "Y Tý",
+            "price": 2.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 20,
+                "green": 234,
+                "blue": 320
+            }
+        },
+        {
+            "xaphuong_id": 2722,
+            "name_xaphuong": "Dền Thàng",
+            "price": 2.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 19,
+                "green": 235,
+                "blue": 322
+            }
+        },
+        {
+            "xaphuong_id": 2725,
+            "name_xaphuong": "Bản Xèo",
+            "price": 2.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 17,
+                "green": 237,
+                "blue": 324
+            }
+        },
+        {
+            "xaphuong_id": 2728,
+            "name_xaphuong": "Mường Hum",
+            "price": 2.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 16,
+                "green": 238,
+                "blue": 326
+            }
+        },
+        {
+            "xaphuong_id": 2734,
+            "name_xaphuong": "Quang Kim",
+            "price": 2.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 14,
+                "green": 240,
+                "blue": 328
+            }
+        },
+        {
+            "xaphuong_id": 2740,
+            "name_xaphuong": "Nậm Pung",
+            "price": 2.0,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 2.0,
+            "avg": 2.0,
+            "min": 2.0,
+            "color": {
+                "red": 13,
+                "green": 241,
+                "blue": 330
             }
         }
     ],
