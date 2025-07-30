@@ -1,13 +1,13 @@
 {
     "shophouse": [
         {
-            "xaphuong_id": 30286,
-            "name_xaphuong": " Phường Mỹ Xuyên",
-            "price": 158,
+            "xaphuong_id": 30322,
+            "name_xaphuong": "Vĩnh Mỹ",
+            "price": 37,
             "type": "Shophouse",
-            "max": 158,
-            "avg": 158,
-            "min": 158,
+            "max": 37,
+            "avg": 37,
+            "min": 37,
             "color": {
                 "red": 255,
                 "green": 0,
@@ -15,31 +15,17 @@
             }
         },
         {
-            "xaphuong_id": 30322,
-            "name_xaphuong": " Phường Vĩnh Mỹ",
-            "price": 37,
-            "type": "Shophouse",
-            "max": 37,
-            "avg": 37,
-            "min": 37,
-            "color": {
-                "red": 204,
-                "green": 51,
-                "blue": 2
-            }
-        },
-        {
             "xaphuong_id": 30301,
-            "name_xaphuong": " Phường Mỹ Thới",
+            "name_xaphuong": "Mỹ Thới",
             "price": 21,
             "type": "Shophouse",
             "max": 21,
             "avg": 21,
             "min": 21,
             "color": {
-                "red": 153,
-                "green": 102,
-                "blue": 4
+                "red": 191,
+                "green": 63,
+                "blue": 2
             }
         }
     ],
@@ -75,13 +61,13 @@
             }
         },
         {
-            "xaphuong_id": 30301,
-            "name_xaphuong": "Phường Mỹ Thới",
-            "price": 1606,
+            "xaphuong_id": 30613,
+            "name_xaphuong": "Hòa Bình Thạnh",
+            "price": 400,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 17500,
-            "avg": 1606,
-            "min": 1,
+            "max": 400,
+            "avg": 400,
+            "min": 400,
             "color": {
                 "red": 255,
                 "green": 0,
@@ -90,128 +76,114 @@
         },
         {
             "xaphuong_id": 30565,
-            "name_xaphuong": " Xã Lương Phi",
-            "price": 1371,
+            "name_xaphuong": "Lương Phi",
+            "price": 137,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 1371,
-            "avg": 1371,
-            "min": 1371,
+            "max": 137,
+            "avg": 137,
+            "min": 137,
             "color": {
-                "red": 244,
-                "green": 10,
+                "red": 243,
+                "green": 11,
                 "blue": 2
             }
         },
         {
-            "xaphuong_id": 30613,
-            "name_xaphuong": " Xã Hòa Bình Thạnh",
-            "price": 400,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 400,
-            "avg": 400,
-            "min": 400,
-            "color": {
-                "red": 223,
-                "green": 31,
-                "blue": 6
-            }
-        },
-        {
-            "xaphuong_id": 30316,
-            "name_xaphuong": " Phường Châu Phú B",
-            "price": 339,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 675,
-            "avg": 339,
-            "min": 3,
-            "color": {
-                "red": 212,
-                "green": 42,
-                "blue": 8
-            }
-        },
-        {
-            "xaphuong_id": 30544,
-            "name_xaphuong": "Tri Tôn",
-            "price": 273,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 1086,
-            "avg": 273,
-            "min": 4,
-            "color": {
-                "red": 201,
-                "green": 53,
-                "blue": 10
-            }
-        },
-        {
-            "xaphuong_id": 30310,
-            "name_xaphuong": "Xã Mỹ Khánh",
-            "price": 162,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 572,
-            "avg": 162,
-            "min": 23,
-            "color": {
-                "red": 191,
-                "green": 63,
-                "blue": 12
-            }
-        },
-        {
             "xaphuong_id": 30289,
-            "name_xaphuong": " Phường Bình Đức",
+            "name_xaphuong": "Bình Đức",
             "price": 62,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 210,
             "avg": 62,
             "min": 16,
             "color": {
-                "red": 180,
-                "green": 74,
-                "blue": 14
+                "red": 232,
+                "green": 22,
+                "blue": 4
+            }
+        },
+        {
+            "xaphuong_id": 30316,
+            "name_xaphuong": "Châu Phú B",
+            "price": 35,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 68,
+            "avg": 35,
+            "min": 3,
+            "color": {
+                "red": 221,
+                "green": 33,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 30310,
+            "name_xaphuong": "Mỹ Khánh",
+            "price": 25,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 26,
+            "avg": 25,
+            "min": 23,
+            "color": {
+                "red": 210,
+                "green": 44,
+                "blue": 8
             }
         },
         {
             "xaphuong_id": 30319,
-            "name_xaphuong": " Phường Châu Phú A",
+            "name_xaphuong": "Châu Phú A",
             "price": 19,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 31,
             "avg": 19,
             "min": 7,
             "color": {
-                "red": 170,
-                "green": 85,
-                "blue": 16
+                "red": 188,
+                "green": 66,
+                "blue": 12
+            }
+        },
+        {
+            "xaphuong_id": 30301,
+            "name_xaphuong": "Mỹ Thới",
+            "price": 17,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 54,
+            "avg": 17,
+            "min": 1,
+            "color": {
+                "red": 177,
+                "green": 77,
+                "blue": 14
             }
         },
         {
             "xaphuong_id": 30378,
-            "name_xaphuong": "Phường Long Châu",
+            "name_xaphuong": "Long Châu",
             "price": 14,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 14,
             "avg": 14,
             "min": 14,
             "color": {
-                "red": 159,
-                "green": 95,
-                "blue": 18
+                "red": 166,
+                "green": 88,
+                "blue": 16
             }
         },
         {
             "xaphuong_id": 30322,
-            "name_xaphuong": " Phường Vĩnh Mỹ",
+            "name_xaphuong": "Vĩnh Mỹ",
             "price": 11,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 22,
             "avg": 11,
             "min": 4,
             "color": {
-                "red": 148,
-                "green": 106,
-                "blue": 20
+                "red": 155,
+                "green": 99,
+                "blue": 18
             }
         },
         {
@@ -223,135 +195,135 @@
             "avg": 10,
             "min": 10,
             "color": {
-                "red": 127,
-                "green": 127,
+                "red": 133,
+                "green": 121,
+                "blue": 22
+            }
+        },
+        {
+            "xaphuong_id": 30544,
+            "name_xaphuong": "Tri Tôn",
+            "price": 9,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 12,
+            "avg": 9,
+            "min": 4,
+            "color": {
+                "red": 121,
+                "green": 133,
                 "blue": 24
             }
         },
         {
             "xaphuong_id": 30325,
-            "name_xaphuong": " Phường Núi Sam",
+            "name_xaphuong": "Núi Sam",
             "price": 6,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 8,
             "avg": 6,
             "min": 5,
             "color": {
-                "red": 116,
-                "green": 138,
+                "red": 110,
+                "green": 144,
                 "blue": 26
             }
         },
         {
             "xaphuong_id": 30655,
-            "name_xaphuong": "Xã Mỹ An",
+            "name_xaphuong": "Mỹ An",
             "price": 6,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 6,
             "avg": 6,
             "min": 6,
             "color": {
-                "red": 106,
-                "green": 148,
+                "red": 99,
+                "green": 155,
                 "blue": 28
             }
         },
         {
-            "xaphuong_id": 30286,
-            "name_xaphuong": " Phường Mỹ Xuyên",
-            "price": 5,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 5,
-            "avg": 5,
-            "min": 5,
-            "color": {
-                "red": 95,
-                "green": 159,
-                "blue": 30
-            }
-        },
-        {
             "xaphuong_id": 30292,
-            "name_xaphuong": "Phường Bình Khánh",
+            "name_xaphuong": "Bình Khánh",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 5,
             "avg": 5,
             "min": 4,
             "color": {
-                "red": 85,
-                "green": 170,
-                "blue": 32
+                "red": 88,
+                "green": 166,
+                "blue": 30
             }
         },
         {
             "xaphuong_id": 30298,
-            "name_xaphuong": " Phường Mỹ Quý",
+            "name_xaphuong": "Mỹ Quý",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 8,
             "avg": 5,
             "min": 4,
             "color": {
-                "red": 74,
-                "green": 180,
-                "blue": 34
+                "red": 77,
+                "green": 177,
+                "blue": 32
             }
         },
         {
             "xaphuong_id": 30283,
-            "name_xaphuong": " Phường Mỹ Long",
+            "name_xaphuong": "Mỹ Long",
             "price": 4,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 4,
             "avg": 4,
             "min": 4,
             "color": {
-                "red": 63,
-                "green": 191,
-                "blue": 36
+                "red": 66,
+                "green": 188,
+                "blue": 34
             }
         },
         {
             "xaphuong_id": 30628,
-            "name_xaphuong": "Thị trấn Chợ Mới",
+            "name_xaphuong": "Chợ Mới",
             "price": 4,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 4,
             "avg": 4,
             "min": 4,
             "color": {
-                "red": 53,
-                "green": 201,
-                "blue": 38
+                "red": 55,
+                "green": 199,
+                "blue": 36
             }
         },
         {
             "xaphuong_id": 30685,
-            "name_xaphuong": "Phú Hòa",
+            "name_xaphuong": "Phú Hoà",
             "price": 4,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 6,
             "avg": 4,
             "min": 3,
             "color": {
-                "red": 42,
-                "green": 212,
-                "blue": 40
+                "red": 44,
+                "green": 210,
+                "blue": 38
             }
         },
         {
             "xaphuong_id": 30649,
-            "name_xaphuong": "Xã Kiến Thành",
+            "name_xaphuong": "Kiến Thành",
             "price": 3,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 3,
             "avg": 3,
             "min": 3,
             "color": {
-                "red": 31,
-                "green": 223,
-                "blue": 42
+                "red": 33,
+                "green": 221,
+                "blue": 40
             }
         }
     ],

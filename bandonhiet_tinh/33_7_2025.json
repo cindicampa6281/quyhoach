@@ -1,20 +1,6 @@
 {
     "shophouse": [
         {
-            "xaphuong_id": 31096,
-            "name_xaphuong": " Xã Dương Tơ",
-            "price": 20087,
-            "type": "Shophouse",
-            "max": 100000,
-            "avg": 20087,
-            "min": 80,
-            "color": {
-                "red": 255,
-                "green": 0,
-                "blue": 0
-            }
-        },
-        {
             "xaphuong_id": 31087,
             "name_xaphuong": " Xã Gành Dầu",
             "price": 22330000000,
@@ -22,6 +8,20 @@
             "max": 172.0,
             "avg": 132,
             "min": 96.4,
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "xaphuong_id": 31096,
+            "name_xaphuong": "Dương Tơ",
+            "price": 108,
+            "type": "Shophouse",
+            "max": 125,
+            "avg": 108,
+            "min": 80,
             "color": {
                 "red": 223,
                 "green": 31,
@@ -72,7 +72,7 @@
         },
         {
             "xaphuong_id": 30733,
-            "name_xaphuong": " Phường Vĩnh Thanh",
+            "name_xaphuong": "Vĩnh Thanh",
             "price": 38,
             "type": "Shophouse",
             "max": 50,
@@ -246,7 +246,7 @@
         },
         {
             "xaphuong_id": 30745,
-            "name_xaphuong": " Phường Vĩnh Lạc",
+            "name_xaphuong": "Vĩnh Lạc",
             "price": 34,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 35,
@@ -330,7 +330,7 @@
         },
         {
             "xaphuong_id": 30736,
-            "name_xaphuong": " Phường Vĩnh Quang",
+            "name_xaphuong": "Vĩnh Quang",
             "price": 10,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 16,
@@ -344,7 +344,7 @@
         },
         {
             "xaphuong_id": 31084,
-            "name_xaphuong": "Xã Cửa Cạn",
+            "name_xaphuong": "Cửa Cạn",
             "price": 7.7,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 695.304,
@@ -372,7 +372,7 @@
         },
         {
             "xaphuong_id": 30751,
-            "name_xaphuong": " Phường An Bình",
+            "name_xaphuong": "An Bình",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 8,
@@ -400,7 +400,7 @@
         },
         {
             "xaphuong_id": 30754,
-            "name_xaphuong": " Phường Rạch Sỏi",
+            "name_xaphuong": "Rạch Sỏi",
             "price": 4,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 4,

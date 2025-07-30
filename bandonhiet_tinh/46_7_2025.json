@@ -16,7 +16,7 @@
         },
         {
             "xaphuong_id": 18874,
-            "name_xaphuong": " Phường Phú Hải",
+            "name_xaphuong": "Phú Hải",
             "price": 68,
             "type": "Shophouse",
             "max": 68,
@@ -30,7 +30,7 @@
         },
         {
             "xaphuong_id": 18865,
-            "name_xaphuong": " Phường Nam Lý",
+            "name_xaphuong": "Nam Lý",
             "price": 64,
             "type": "Shophouse",
             "max": 64,
@@ -44,7 +44,7 @@
         },
         {
             "xaphuong_id": 18859,
-            "name_xaphuong": " Phường Bắc Lý",
+            "name_xaphuong": "Bắc Lý",
             "price": 52,
             "type": "Shophouse",
             "max": 52,
@@ -133,13 +133,13 @@
             }
         },
         {
-            "xaphuong_id": 18853,
-            "name_xaphuong": " Phường Hải Thành",
-            "price": 9540,
+            "xaphuong_id": 19297,
+            "name_xaphuong": "Phú Thủy",
+            "price": 286,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 56818,
-            "avg": 9540,
-            "min": 68,
+            "max": 286,
+            "avg": 286,
+            "min": 286,
             "color": {
                 "red": 255,
                 "green": 0,
@@ -147,13 +147,13 @@
             }
         },
         {
-            "xaphuong_id": 19165,
-            "name_xaphuong": "Thị trấn Phong Nha",
-            "price": 2896,
+            "xaphuong_id": 18853,
+            "name_xaphuong": "Hải Thành",
+            "price": 84,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 9412,
-            "avg": 2896,
-            "min": 4,
+            "max": 95,
+            "avg": 84,
+            "min": 68,
             "color": {
                 "red": 243,
                 "green": 11,
@@ -163,10 +163,10 @@
         {
             "xaphuong_id": 19255,
             "name_xaphuong": "Ngư Thủy Bắc",
-            "price": 2144,
+            "price": 71,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 8000,
-            "avg": 2144,
+            "max": 271,
+            "avg": 71,
             "min": 4,
             "color": {
                 "red": 231,
@@ -175,13 +175,13 @@
             }
         },
         {
-            "xaphuong_id": 19297,
-            "name_xaphuong": "Xã Phú Thủy",
-            "price": 286,
+            "xaphuong_id": 18883,
+            "name_xaphuong": "Quang Phú",
+            "price": 36,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 286,
-            "avg": 286,
-            "min": 286,
+            "max": 80,
+            "avg": 36,
+            "min": 8,
             "color": {
                 "red": 220,
                 "green": 34,
@@ -189,13 +189,13 @@
             }
         },
         {
-            "xaphuong_id": 18883,
-            "name_xaphuong": " Xã Quang Phú",
-            "price": 36,
+            "xaphuong_id": 18874,
+            "name_xaphuong": "Phú Hải",
+            "price": 35,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 80,
-            "avg": 36,
-            "min": 8,
+            "max": 44,
+            "avg": 35,
+            "min": 26,
             "color": {
                 "red": 208,
                 "green": 46,
@@ -203,13 +203,13 @@
             }
         },
         {
-            "xaphuong_id": 18874,
-            "name_xaphuong": "Phường Phú Hải",
-            "price": 35,
+            "xaphuong_id": 18880,
+            "name_xaphuong": "Đức Ninh Đông",
+            "price": 30,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 44,
-            "avg": 35,
-            "min": 26,
+            "max": 38,
+            "avg": 30,
+            "min": 18,
             "color": {
                 "red": 197,
                 "green": 57,
@@ -217,13 +217,13 @@
             }
         },
         {
-            "xaphuong_id": 18880,
-            "name_xaphuong": " Phường Đức Ninh Đông",
-            "price": 30,
+            "xaphuong_id": 18856,
+            "name_xaphuong": "Đồng Phú",
+            "price": 29,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 38,
-            "avg": 30,
-            "min": 18,
+            "max": 29,
+            "avg": 29,
+            "min": 29,
             "color": {
                 "red": 185,
                 "green": 69,
@@ -231,8 +231,8 @@
             }
         },
         {
-            "xaphuong_id": 18856,
-            "name_xaphuong": " Phường Đồng Phú",
+            "xaphuong_id": 19189,
+            "name_xaphuong": "Nhân Trạch",
             "price": 29,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 29,
@@ -245,31 +245,17 @@
             }
         },
         {
-            "xaphuong_id": 19189,
-            "name_xaphuong": " Xã Nhân Trạch",
-            "price": 29,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 29,
-            "avg": 29,
-            "min": 29,
-            "color": {
-                "red": 162,
-                "green": 92,
-                "blue": 16
-            }
-        },
-        {
             "xaphuong_id": 18865,
-            "name_xaphuong": " Phường Nam Lý",
+            "name_xaphuong": "Nam Lý",
             "price": 15,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 15,
             "avg": 15,
             "min": 15,
             "color": {
-                "red": 127,
-                "green": 127,
-                "blue": 22
+                "red": 139,
+                "green": 115,
+                "blue": 20
             }
         },
         {
@@ -281,33 +267,47 @@
             "avg": 10,
             "min": 2,
             "color": {
-                "red": 115,
-                "green": 139,
-                "blue": 24
+                "red": 127,
+                "green": 127,
+                "blue": 22
             }
         },
         {
             "xaphuong_id": 18877,
-            "name_xaphuong": " Phường Bắc Nghĩa",
+            "name_xaphuong": "Bắc Nghĩa",
             "price": 10,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 25,
             "avg": 10,
             "min": 3,
             "color": {
-                "red": 104,
-                "green": 150,
-                "blue": 26
+                "red": 115,
+                "green": 139,
+                "blue": 24
             }
         },
         {
             "xaphuong_id": 19261,
-            "name_xaphuong": " Xã Thanh Thủy",
+            "name_xaphuong": "Thanh Thủy",
             "price": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 8,
             "avg": 8,
             "min": 8,
+            "color": {
+                "red": 92,
+                "green": 162,
+                "blue": 28
+            }
+        },
+        {
+            "xaphuong_id": 18871,
+            "name_xaphuong": "Đồng Sơn",
+            "price": 7,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 7,
+            "avg": 7,
+            "min": 7,
             "color": {
                 "red": 81,
                 "green": 173,
@@ -315,8 +315,8 @@
             }
         },
         {
-            "xaphuong_id": 18871,
-            "name_xaphuong": " Phường Đồng Sơn",
+            "xaphuong_id": 19165,
+            "name_xaphuong": "Phong Nha",
             "price": 7,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 7,
@@ -330,7 +330,7 @@
         },
         {
             "xaphuong_id": 19213,
-            "name_xaphuong": " Xã Võ Ninh",
+            "name_xaphuong": "Võ Ninh",
             "price": 7,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 10,
@@ -344,7 +344,7 @@
         },
         {
             "xaphuong_id": 18895,
-            "name_xaphuong": "Xã Thuận Đức",
+            "name_xaphuong": "Thuận Đức",
             "price": 4,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 4,
@@ -358,7 +358,7 @@
         },
         {
             "xaphuong_id": 19300,
-            "name_xaphuong": "Xã Xuân Thủy",
+            "name_xaphuong": "Xuân Thủy",
             "price": 3,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 3,

@@ -2,7 +2,7 @@
     "shophouse": [
         {
             "xaphuong_id": 5695,
-            "name_xaphuong": " Xã Cao Ngạn",
+            "name_xaphuong": "Cao Ngạn",
             "price": 55,
             "type": "Shophouse",
             "max": 62,
@@ -65,29 +65,15 @@
         {
             "xaphuong_id": 5479,
             "name_xaphuong": "Tân Thành",
-            "price": 1362,
+            "price": 156,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 4688,
-            "avg": 1362,
+            "max": 540,
+            "avg": 156,
             "min": 4,
             "color": {
                 "red": 255,
                 "green": 0,
                 "blue": 0
-            }
-        },
-        {
-            "xaphuong_id": 5488,
-            "name_xaphuong": " Xã Phúc Xuân",
-            "price": 302,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 911,
-            "avg": 302,
-            "min": 3,
-            "color": {
-                "red": 238,
-                "green": 17,
-                "blue": 2
             }
         },
         {
@@ -99,19 +85,33 @@
             "avg": 101,
             "min": 101,
             "color": {
+                "red": 238,
+                "green": 17,
+                "blue": 2
+            }
+        },
+        {
+            "xaphuong_id": 5458,
+            "name_xaphuong": "Đồng Quang",
+            "price": 37,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 40,
+            "avg": 37,
+            "min": 36,
+            "color": {
                 "red": 221,
                 "green": 34,
                 "blue": 4
             }
         },
         {
-            "xaphuong_id": 5458,
-            "name_xaphuong": " Phường Đồng Quang",
-            "price": 37,
+            "xaphuong_id": 5461,
+            "name_xaphuong": "Gia Sàng",
+            "price": 36,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 40,
-            "avg": 37,
-            "min": 36,
+            "max": 46,
+            "avg": 36,
+            "min": 26,
             "color": {
                 "red": 204,
                 "green": 51,
@@ -119,13 +119,13 @@
             }
         },
         {
-            "xaphuong_id": 5461,
-            "name_xaphuong": " Phường Gia Sàng",
-            "price": 36,
+            "xaphuong_id": 5488,
+            "name_xaphuong": "Phúc Xuân",
+            "price": 32,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 46,
-            "avg": 36,
-            "min": 26,
+            "max": 91,
+            "avg": 32,
+            "min": 3,
             "color": {
                 "red": 187,
                 "green": 68,
@@ -134,7 +134,7 @@
         },
         {
             "xaphuong_id": 5437,
-            "name_xaphuong": "Phường Túc Duyên",
+            "name_xaphuong": "Túc Duyên",
             "price": 26,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 39,
@@ -148,7 +148,7 @@
         },
         {
             "xaphuong_id": 5491,
-            "name_xaphuong": "Xã Quyết Thắng",
+            "name_xaphuong": "Quyết Thắng",
             "price": 26,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 27,
@@ -176,7 +176,7 @@
         },
         {
             "xaphuong_id": 5467,
-            "name_xaphuong": " Phường Cam Giá",
+            "name_xaphuong": "Cam Giá",
             "price": 10,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 15,
@@ -203,8 +203,22 @@
             }
         },
         {
+            "xaphuong_id": 5494,
+            "name_xaphuong": "Phúc Trìu",
+            "price": 5,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5,
+            "avg": 5,
+            "min": 5,
+            "color": {
+                "red": 85,
+                "green": 170,
+                "blue": 20
+            }
+        },
+        {
             "xaphuong_id": 5512,
-            "name_xaphuong": "Phúc Xuân",
+            "name_xaphuong": "Mỏ Chè",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 6,

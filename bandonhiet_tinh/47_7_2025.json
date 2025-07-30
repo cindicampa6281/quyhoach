@@ -16,7 +16,7 @@
         },
         {
             "xaphuong_id": 20431,
-            "name_xaphuong": " Xã Cẩm Thanh",
+            "name_xaphuong": "Cẩm Thanh",
             "price": 27,
             "type": "Shophouse",
             "max": 27,
@@ -131,7 +131,7 @@
         },
         {
             "xaphuong_id": 20580,
-            "name_xaphuong": " Phường Điện Nam Đông",
+            "name_xaphuong": "Điện Nam Đông",
             "price": 6.22676,
             "type": "Biệt thự",
             "max": 695.304,
@@ -145,7 +145,7 @@
         },
         {
             "xaphuong_id": 20422,
-            "name_xaphuong": " Cẩm Hà",
+            "name_xaphuong": "Cẩm Hà",
             "price": 3.07,
             "type": "Biệt thự",
             "max": 695.304,
@@ -159,7 +159,7 @@
         },
         {
             "xaphuong_id": 20566,
-            "name_xaphuong": " Xã Điện Hồng",
+            "name_xaphuong": "Điện Hồng",
             "price": 2.27095,
             "type": "Biệt thự",
             "max": 695.304,
@@ -175,11 +175,11 @@
     "thocu": [
         {
             "xaphuong_id": 21001,
-            "name_xaphuong": "Xã Tam Nghĩa",
-            "price": 1653,
+            "name_xaphuong": "Tam Nghĩa",
+            "price": 168,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 3300,
-            "avg": 1653,
+            "max": 330,
+            "avg": 168,
             "min": 6,
             "color": {
                 "red": 255,
@@ -190,10 +190,10 @@
         {
             "xaphuong_id": 20851,
             "name_xaphuong": "Bình Nam",
-            "price": 1015,
+            "price": 108,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 6000,
-            "avg": 1015,
+            "max": 600,
+            "avg": 108,
             "min": 2,
             "color": {
                 "red": 251,
@@ -202,45 +202,17 @@
             }
         },
         {
-            "xaphuong_id": 20590,
-            "name_xaphuong": " Điện Phong",
-            "price": 654,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 2600,
-            "avg": 654,
-            "min": 2,
-            "color": {
-                "red": 247,
-                "green": 7,
-                "blue": 4
-            }
-        },
-        {
-            "xaphuong_id": 20547,
-            "name_xaphuong": " Xã Đại An",
-            "price": 405,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 1200,
-            "avg": 405,
-            "min": 3,
-            "color": {
-                "red": 243,
-                "green": 11,
-                "blue": 6
-            }
-        },
-        {
             "xaphuong_id": 20410,
-            "name_xaphuong": " Phường Sơn Phong",
+            "name_xaphuong": "Sơn Phong",
             "price": 103,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 159,
             "avg": 103,
             "min": 35,
             "color": {
-                "red": 240,
-                "green": 15,
-                "blue": 8
+                "red": 247,
+                "green": 7,
+                "blue": 4
             }
         },
         {
@@ -251,6 +223,34 @@
             "max": 137.0,
             "avg": 93,
             "min": 64.0,
+            "color": {
+                "red": 243,
+                "green": 11,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 20590,
+            "name_xaphuong": "Điện Phong",
+            "price": 69,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 260,
+            "avg": 69,
+            "min": 2,
+            "color": {
+                "red": 240,
+                "green": 15,
+                "blue": 8
+            }
+        },
+        {
+            "xaphuong_id": 20547,
+            "name_xaphuong": "Đại An",
+            "price": 45,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 120,
+            "avg": 45,
+            "min": 3,
             "color": {
                 "red": 236,
                 "green": 18,
@@ -273,7 +273,7 @@
         },
         {
             "xaphuong_id": 20527,
-            "name_xaphuong": "Xã Đại Thạnh",
+            "name_xaphuong": "Đại Thạnh",
             "price": 44,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 44,
@@ -315,7 +315,7 @@
         },
         {
             "xaphuong_id": 20341,
-            "name_xaphuong": " Phường An Mỹ",
+            "name_xaphuong": "An Mỹ",
             "price": 32,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 32,
@@ -343,7 +343,7 @@
         },
         {
             "xaphuong_id": 20350,
-            "name_xaphuong": " Phường An Sơn",
+            "name_xaphuong": "An Sơn",
             "price": 31,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 32,
@@ -399,7 +399,7 @@
         },
         {
             "xaphuong_id": 20353,
-            "name_xaphuong": "Phường Trường Xuân",
+            "name_xaphuong": "Trường Xuân",
             "price": 28,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 34,
@@ -413,7 +413,7 @@
         },
         {
             "xaphuong_id": 20375,
-            "name_xaphuong": " Phường Hòa Thuận",
+            "name_xaphuong": "Hoà Thuận",
             "price": 28,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 33,
@@ -679,7 +679,7 @@
         },
         {
             "xaphuong_id": 20620,
-            "name_xaphuong": "Xã Duy Sơn",
+            "name_xaphuong": "Duy Sơn",
             "price": 11,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 18,
@@ -707,7 +707,7 @@
         },
         {
             "xaphuong_id": 20404,
-            "name_xaphuong": " Phường Cẩm Phô",
+            "name_xaphuong": "Cẩm Phô",
             "price": 9.25691,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 695.304,
@@ -749,7 +749,7 @@
         },
         {
             "xaphuong_id": 20833,
-            "name_xaphuong": "Xã Bình Tú",
+            "name_xaphuong": "Bình Tú",
             "price": 9,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 16,
@@ -791,7 +791,7 @@
         },
         {
             "xaphuong_id": 20413,
-            "name_xaphuong": " Phường Cẩm Châu",
+            "name_xaphuong": "Cẩm Châu",
             "price": 7.90222,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 695.304,
@@ -903,7 +903,7 @@
         },
         {
             "xaphuong_id": 20584,
-            "name_xaphuong": "Xã Điện Quang",
+            "name_xaphuong": "Điện Quang",
             "price": 6,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 9,
@@ -931,7 +931,7 @@
         },
         {
             "xaphuong_id": 20629,
-            "name_xaphuong": "Xã Duy Thành",
+            "name_xaphuong": "Duy Thành",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 6,
@@ -945,7 +945,7 @@
         },
         {
             "xaphuong_id": 20632,
-            "name_xaphuong": " Xã Duy Vinh",
+            "name_xaphuong": "Duy Vinh",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 7,
@@ -959,7 +959,7 @@
         },
         {
             "xaphuong_id": 20635,
-            "name_xaphuong": " Xã Duy Nghĩa",
+            "name_xaphuong": "Duy Nghĩa",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 5,
@@ -973,7 +973,7 @@
         },
         {
             "xaphuong_id": 20797,
-            "name_xaphuong": "Xã Bình Giang",
+            "name_xaphuong": "Bình Giang",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 8,
@@ -987,7 +987,7 @@
         },
         {
             "xaphuong_id": 20800,
-            "name_xaphuong": " Xã Bình Nguyên",
+            "name_xaphuong": "Bình Nguyên",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 7,
@@ -1015,7 +1015,7 @@
         },
         {
             "xaphuong_id": 20569,
-            "name_xaphuong": " Xã Điện Thọ",
+            "name_xaphuong": "Điện Thọ",
             "price": 4,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 5,
@@ -1029,7 +1029,7 @@
         },
         {
             "xaphuong_id": 20984,
-            "name_xaphuong": " Xã Tam Anh Nam",
+            "name_xaphuong": "Tam Anh Nam",
             "price": 4,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 4,
@@ -1043,7 +1043,7 @@
         },
         {
             "xaphuong_id": 20611,
-            "name_xaphuong": "Xã Duy Hòa",
+            "name_xaphuong": "Duy Hòa",
             "price": 3,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 10,
@@ -1057,7 +1057,7 @@
         },
         {
             "xaphuong_id": 20614,
-            "name_xaphuong": " Xã Duy Châu",
+            "name_xaphuong": "Duy Châu",
             "price": 3,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 4,
@@ -1071,7 +1071,7 @@
         },
         {
             "xaphuong_id": 20617,
-            "name_xaphuong": " Xã Duy Trinh",
+            "name_xaphuong": "Duy Trinh",
             "price": 3,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 3,
@@ -1085,7 +1085,7 @@
         },
         {
             "xaphuong_id": 20845,
-            "name_xaphuong": "Xã Bình An",
+            "name_xaphuong": "Bình An",
             "price": 1,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 2,

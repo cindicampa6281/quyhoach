@@ -2,7 +2,7 @@
     "shophouse": [
         {
             "xaphuong_id": 22834,
-            "name_xaphuong": " Thị trấn Khánh Hải",
+            "name_xaphuong": "Khánh Hải",
             "price": 75,
             "type": "Shophouse",
             "max": 110,
@@ -16,7 +16,7 @@
         },
         {
             "xaphuong_id": 22864,
-            "name_xaphuong": " Xã Tri Hải",
+            "name_xaphuong": "Tri Hải",
             "price": 31,
             "type": "Shophouse",
             "max": 31,
@@ -30,7 +30,7 @@
         },
         {
             "xaphuong_id": 22867,
-            "name_xaphuong": " Xã Nhơn Hải",
+            "name_xaphuong": "Nhơn Hải",
             "price": 8,
             "type": "Shophouse",
             "max": 8,
@@ -44,7 +44,7 @@
         },
         {
             "xaphuong_id": 22861,
-            "name_xaphuong": " Xã Hộ Hải",
+            "name_xaphuong": "Hộ Hải",
             "price": 7,
             "type": "Shophouse",
             "max": 7,
@@ -145,13 +145,13 @@
             }
         },
         {
-            "xaphuong_id": 22780,
-            "name_xaphuong": "Mỹ Hải",
-            "price": 6170,
+            "xaphuong_id": 22741,
+            "name_xaphuong": "Phước Mỹ",
+            "price": 118,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 24545,
-            "avg": 6170,
-            "min": 21,
+            "max": 230,
+            "avg": 118,
+            "min": 6,
             "color": {
                 "red": 255,
                 "green": 0,
@@ -159,59 +159,17 @@
             }
         },
         {
-            "xaphuong_id": 22777,
-            "name_xaphuong": "Văn Hải",
-            "price": 5509,
+            "xaphuong_id": 22780,
+            "name_xaphuong": "Mỹ Hải",
+            "price": 45,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 11000,
-            "avg": 5509,
-            "min": 18,
-            "color": {
-                "red": 238,
-                "green": 17,
-                "blue": 2
-            }
-        },
-        {
-            "xaphuong_id": 22741,
-            "name_xaphuong": "Phước Mỹ",
-            "price": 1153,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 2300,
-            "avg": 1153,
-            "min": 6,
+            "max": 85,
+            "avg": 45,
+            "min": 21,
             "color": {
                 "red": 221,
                 "green": 34,
                 "blue": 4
-            }
-        },
-        {
-            "xaphuong_id": 22861,
-            "name_xaphuong": " Xã Hộ Hải",
-            "price": 1060,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 5278,
-            "avg": 1060,
-            "min": 4,
-            "color": {
-                "red": 204,
-                "green": 51,
-                "blue": 6
-            }
-        },
-        {
-            "xaphuong_id": 22868,
-            "name_xaphuong": "Xã Thanh Hải",
-            "price": 143,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 1429,
-            "avg": 143,
-            "min": 5,
-            "color": {
-                "red": 187,
-                "green": 68,
-                "blue": 8
             }
         },
         {
@@ -223,9 +181,37 @@
             "avg": 36,
             "min": 36,
             "color": {
-                "red": 119,
-                "green": 136,
-                "blue": 16
+                "red": 204,
+                "green": 51,
+                "blue": 6
+            }
+        },
+        {
+            "xaphuong_id": 22868,
+            "name_xaphuong": "Thanh Hải",
+            "price": 27,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 143,
+            "avg": 27,
+            "min": 5,
+            "color": {
+                "red": 153,
+                "green": 102,
+                "blue": 12
+            }
+        },
+        {
+            "xaphuong_id": 22777,
+            "name_xaphuong": "Văn Hải",
+            "price": 18,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 18,
+            "avg": 18,
+            "min": 18,
+            "color": {
+                "red": 136,
+                "green": 119,
+                "blue": 14
             }
         },
         {
@@ -237,9 +223,23 @@
             "avg": 11,
             "min": 11,
             "color": {
-                "red": 68,
-                "green": 187,
-                "blue": 22
+                "red": 85,
+                "green": 170,
+                "blue": 20
+            }
+        },
+        {
+            "xaphuong_id": 22861,
+            "name_xaphuong": "Hộ Hải",
+            "price": 6,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 8,
+            "avg": 6,
+            "min": 4,
+            "color": {
+                "red": 51,
+                "green": 204,
+                "blue": 24
             }
         }
     ],

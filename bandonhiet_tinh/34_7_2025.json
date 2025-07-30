@@ -2,30 +2,16 @@
     "shophouse": [
         {
             "xaphuong_id": 23473,
-            "name_xaphuong": "Thị trấn Măng Đen",
-            "price": 340,
+            "name_xaphuong": "Măng Đen",
+            "price": 13,
             "type": "Shophouse",
-            "max": 986,
-            "avg": 340,
+            "max": 13,
+            "avg": 13,
             "min": 13,
             "color": {
                 "red": 255,
                 "green": 0,
                 "blue": 0
-            }
-        },
-        {
-            "xaphuong_id": 23500,
-            "name_xaphuong": " Thị trấn Đắk Hà",
-            "price": 7,
-            "type": "Shophouse",
-            "max": 7,
-            "avg": 7,
-            "min": 7,
-            "color": {
-                "red": 191,
-                "green": 63,
-                "blue": 2
             }
         }
     ],
@@ -62,11 +48,11 @@
         },
         {
             "xaphuong_id": 23512,
-            "name_xaphuong": "Xã Đăk Mar",
-            "price": 575,
+            "name_xaphuong": "Đắk Mar",
+            "price": 170,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 3600,
-            "avg": 575,
+            "max": 360,
+            "avg": 170,
             "min": 56,
             "color": {
                 "red": 255,
@@ -75,13 +61,13 @@
             }
         },
         {
-            "xaphuong_id": 23470,
-            "name_xaphuong": "Xã Măng Cành",
-            "price": 509,
+            "xaphuong_id": 23476,
+            "name_xaphuong": "Hiếu",
+            "price": 165,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 1091,
-            "avg": 509,
-            "min": 58,
+            "max": 383,
+            "avg": 165,
+            "min": 2,
             "color": {
                 "red": 235,
                 "green": 19,
@@ -89,13 +75,13 @@
             }
         },
         {
-            "xaphuong_id": 23476,
-            "name_xaphuong": " Xã Hiếu",
-            "price": 309,
+            "xaphuong_id": 23470,
+            "name_xaphuong": "Măng Cành",
+            "price": 123,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 800,
-            "avg": 309,
-            "min": 2,
+            "max": 279,
+            "avg": 123,
+            "min": 58,
             "color": {
                 "red": 215,
                 "green": 39,
@@ -104,16 +90,16 @@
         },
         {
             "xaphuong_id": 23521,
-            "name_xaphuong": " Xã Hà Mòn",
+            "name_xaphuong": "Hà Mòn",
             "price": 42,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 199,
             "avg": 42,
             "min": 2,
             "color": {
-                "red": 176,
-                "green": 78,
-                "blue": 8
+                "red": 156,
+                "green": 98,
+                "blue": 10
             }
         },
         {
@@ -132,7 +118,7 @@
         },
         {
             "xaphuong_id": 23341,
-            "name_xaphuong": "Đăk Glei",
+            "name_xaphuong": "Đắk Glei",
             "price": 17,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 17,
@@ -170,6 +156,20 @@
                 "red": 78,
                 "green": 176,
                 "blue": 18
+            }
+        },
+        {
+            "xaphuong_id": 23323,
+            "name_xaphuong": "Đắk Blà",
+            "price": 1,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 1,
+            "avg": 1,
+            "min": 1,
+            "color": {
+                "red": 58,
+                "green": 196,
+                "blue": 20
             }
         }
     ],

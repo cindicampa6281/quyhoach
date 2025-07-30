@@ -2,7 +2,7 @@
     "shophouse": [
         {
             "xaphuong_id": 31822,
-            "name_xaphuong": " Phường 7",
+            "name_xaphuong": "7",
             "price": 84,
             "type": "Shophouse",
             "max": 93,
@@ -16,7 +16,7 @@
         },
         {
             "xaphuong_id": 31816,
-            "name_xaphuong": " Phường 2",
+            "name_xaphuong": "3",
             "price": 46,
             "type": "Shophouse",
             "max": 47,
@@ -30,7 +30,7 @@
         },
         {
             "xaphuong_id": 31945,
-            "name_xaphuong": "Phường Hộ Phòng",
+            "name_xaphuong": "Hộ Phòng",
             "price": 7,
             "type": "Shophouse",
             "max": 7,
@@ -47,13 +47,13 @@
     "bietthu": [],
     "thocu": [
         {
-            "xaphuong_id": 31969,
-            "name_xaphuong": "Xã Tân Thạnh",
-            "price": 14000,
+            "xaphuong_id": 31837,
+            "name_xaphuong": "Vĩnh Trạch Đông",
+            "price": 300,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 14000,
-            "avg": 14000,
-            "min": 14000,
+            "max": 300,
+            "avg": 300,
+            "min": 300,
             "color": {
                 "red": 255,
                 "green": 0,
@@ -62,99 +62,99 @@
         },
         {
             "xaphuong_id": 31888,
-            "name_xaphuong": " Xã Phong Thạnh Tây B",
-            "price": 1739,
+            "name_xaphuong": "Phong Thạnh Tây B",
+            "price": 174,
             "type": "Đất đấu giá/Đất thổ cư",
-            "max": 1739,
-            "avg": 1739,
-            "min": 1739,
+            "max": 174,
+            "avg": 174,
+            "min": 174,
             "color": {
-                "red": 236,
-                "green": 18,
+                "red": 235,
+                "green": 19,
                 "blue": 2
             }
         },
         {
-            "xaphuong_id": 31837,
-            "name_xaphuong": "Xã Vĩnh Trạch Đông",
-            "price": 300,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 300,
-            "avg": 300,
-            "min": 300,
-            "color": {
-                "red": 218,
-                "green": 36,
-                "blue": 4
-            }
-        },
-        {
             "xaphuong_id": 31816,
-            "name_xaphuong": " Phường 5",
+            "name_xaphuong": "3",
             "price": 12,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 51,
             "avg": 12,
             "min": 4,
             "color": {
-                "red": 200,
-                "green": 54,
-                "blue": 6
+                "red": 215,
+                "green": 39,
+                "blue": 4
             }
         },
         {
             "xaphuong_id": 31822,
-            "name_xaphuong": " Phường 7",
+            "name_xaphuong": "7",
             "price": 7,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 23,
             "avg": 7,
             "min": 4,
             "color": {
-                "red": 182,
-                "green": 72,
-                "blue": 8
+                "red": 196,
+                "green": 58,
+                "blue": 6
             }
         },
         {
             "xaphuong_id": 31834,
-            "name_xaphuong": " Xã Vĩnh Trạch",
+            "name_xaphuong": "Vĩnh Trạch",
             "price": 7,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 7,
             "avg": 7,
             "min": 6,
             "color": {
-                "red": 163,
-                "green": 91,
-                "blue": 10
+                "red": 176,
+                "green": 78,
+                "blue": 8
             }
         },
         {
             "xaphuong_id": 31942,
-            "name_xaphuong": "Phường 1",
+            "name_xaphuong": "1",
             "price": 6,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 6,
             "avg": 6,
             "min": 6,
             "color": {
-                "red": 145,
-                "green": 109,
+                "red": 156,
+                "green": 98,
+                "blue": 10
+            }
+        },
+        {
+            "xaphuong_id": 31831,
+            "name_xaphuong": "Nhà Mát",
+            "price": 5,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "max": 5,
+            "avg": 5,
+            "min": 5,
+            "color": {
+                "red": 137,
+                "green": 117,
                 "blue": 12
             }
         },
         {
             "xaphuong_id": 31927,
-            "name_xaphuong": " Xã Vĩnh Hậu",
+            "name_xaphuong": "Vĩnh Hậu",
             "price": 5,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 7,
             "avg": 5,
             "min": 3,
             "color": {
-                "red": 127,
-                "green": 127,
+                "red": 117,
+                "green": 137,
                 "blue": 14
             }
         },
@@ -167,51 +167,37 @@
             "avg": 4,
             "min": 4,
             "color": {
-                "red": 109,
-                "green": 145,
+                "red": 98,
+                "green": 156,
                 "blue": 16
             }
         },
         {
-            "xaphuong_id": 31831,
-            "name_xaphuong": " Phường Nhà Mát",
-            "price": 4,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "max": 5,
-            "avg": 4,
-            "min": 4,
-            "color": {
-                "red": 91,
-                "green": 163,
-                "blue": 18
-            }
-        },
-        {
             "xaphuong_id": 31921,
-            "name_xaphuong": " Xã Long Thạnh",
+            "name_xaphuong": "Long Thạnh",
             "price": 4,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 4,
             "avg": 4,
             "min": 4,
             "color": {
-                "red": 72,
-                "green": 182,
-                "blue": 20
+                "red": 78,
+                "green": 176,
+                "blue": 18
             }
         },
         {
             "xaphuong_id": 31951,
-            "name_xaphuong": "Phường Láng Tròn",
+            "name_xaphuong": "Láng Tròn",
             "price": 2,
             "type": "Đất đấu giá/Đất thổ cư",
             "max": 2,
             "avg": 2,
             "min": 2,
             "color": {
-                "red": 54,
-                "green": 200,
-                "blue": 22
+                "red": 58,
+                "green": 196,
+                "blue": 20
             }
         }
     ],
