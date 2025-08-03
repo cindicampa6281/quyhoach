@@ -751,9 +751,9 @@
             "name_xaphuong": "Trừ Văn Thố",
             "price": 1.73,
             "type": "Biệt thự",
-            "max": 695.304,
+            "max": 1.73,
             "avg": 1.73,
-            "min": 0.0,
+            "min": 1.73,
             "color": {
                 "red": 28,
                 "green": 226,
@@ -793,33 +793,16 @@
         {
             "price": 53.5333,
             "avg": 53.5333,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 35.2,
+            "max": 77.4,
             "district_id": 522,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25756,
-            "name_xaphuong": "Chánh Nghĩa",
             "color": {
                 "red": 249,
                 "green": 5,
                 "blue": 4
-            }
-        },
-        {
-            "price": 53.5333,
-            "avg": 53.5333,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 522,
-            "province_id": 8,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25756,
-            "name_xaphuong": "Chánh Nghĩa",
-            "color": {
-                "red": 246,
-                "green": 8,
-                "blue": 6
             }
         },
         {
@@ -831,9 +814,9 @@
             "avg": 53,
             "min": 21.0,
             "color": {
-                "red": 243,
-                "green": 11,
-                "blue": 8
+                "red": 246,
+                "green": 8,
+                "blue": 6
             }
         },
         {
@@ -845,9 +828,9 @@
             "avg": 49,
             "min": 27.0,
             "color": {
-                "red": 240,
-                "green": 14,
-                "blue": 10
+                "red": 243,
+                "green": 11,
+                "blue": 8
             }
         },
         {
@@ -859,9 +842,9 @@
             "avg": 47,
             "min": 31.0,
             "color": {
-                "red": 237,
-                "green": 17,
-                "blue": 12
+                "red": 240,
+                "green": 14,
+                "blue": 10
             }
         },
         {
@@ -873,9 +856,9 @@
             "avg": 46,
             "min": 27.0,
             "color": {
-                "red": 234,
-                "green": 20,
-                "blue": 14
+                "red": 237,
+                "green": 17,
+                "blue": 12
             }
         },
         {
@@ -887,9 +870,9 @@
             "avg": 45,
             "min": 24.0,
             "color": {
-                "red": 231,
-                "green": 23,
-                "blue": 16
+                "red": 234,
+                "green": 20,
+                "blue": 14
             }
         },
         {
@@ -901,9 +884,9 @@
             "avg": 44,
             "min": 29.0,
             "color": {
-                "red": 228,
-                "green": 26,
-                "blue": 18
+                "red": 231,
+                "green": 23,
+                "blue": 16
             }
         },
         {
@@ -915,9 +898,9 @@
             "avg": 42,
             "min": 26.0,
             "color": {
-                "red": 226,
-                "green": 28,
-                "blue": 20
+                "red": 228,
+                "green": 26,
+                "blue": 18
             }
         },
         {
@@ -929,9 +912,9 @@
             "avg": 38,
             "min": 24.0,
             "color": {
-                "red": 223,
-                "green": 31,
-                "blue": 22
+                "red": 226,
+                "green": 28,
+                "blue": 20
             }
         },
         {
@@ -943,9 +926,9 @@
             "avg": 38,
             "min": 27.0,
             "color": {
-                "red": 220,
-                "green": 34,
-                "blue": 24
+                "red": 223,
+                "green": 31,
+                "blue": 22
             }
         },
         {
@@ -957,9 +940,9 @@
             "avg": 37,
             "min": 19.0,
             "color": {
-                "red": 217,
-                "green": 37,
-                "blue": 26
+                "red": 220,
+                "green": 34,
+                "blue": 24
             }
         },
         {
@@ -971,9 +954,9 @@
             "avg": 37,
             "min": 24.0,
             "color": {
-                "red": 214,
-                "green": 40,
-                "blue": 28
+                "red": 217,
+                "green": 37,
+                "blue": 26
             }
         },
         {
@@ -985,9 +968,9 @@
             "avg": 37,
             "min": 23.0,
             "color": {
-                "red": 211,
-                "green": 43,
-                "blue": 30
+                "red": 214,
+                "green": 40,
+                "blue": 28
             }
         },
         {
@@ -999,9 +982,9 @@
             "avg": 36,
             "min": 22.0,
             "color": {
-                "red": 208,
-                "green": 46,
-                "blue": 32
+                "red": 211,
+                "green": 43,
+                "blue": 30
             }
         },
         {
@@ -1013,9 +996,9 @@
             "avg": 33,
             "min": 21.0,
             "color": {
-                "red": 205,
-                "green": 49,
-                "blue": 34
+                "red": 208,
+                "green": 46,
+                "blue": 32
             }
         },
         {
@@ -1027,9 +1010,9 @@
             "avg": 32,
             "min": 17.0,
             "color": {
-                "red": 202,
-                "green": 52,
-                "blue": 36
+                "red": 205,
+                "green": 49,
+                "blue": 34
             }
         },
         {
@@ -1041,21 +1024,35 @@
             "avg": 32,
             "min": 15.0,
             "color": {
+                "red": 202,
+                "green": 52,
+                "blue": 36
+            }
+        },
+        {
+            "price": 30.55,
+            "avg": 30.55,
+            "min": 29.6,
+            "max": 31.5,
+            "district_id": 528,
+            "province_id": 8,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 25942,
+            "color": {
                 "red": 199,
                 "green": 55,
                 "blue": 38
             }
         },
         {
-            "price": 30.55,
-            "avg": 30.55,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 528,
+            "price": 30.35,
+            "avg": 30.35,
+            "min": 28.5,
+            "max": 32.2,
+            "district_id": 529,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25942,
-            "name_xaphuong": "Dĩ An",
+            "xaphuong_id": 25990,
             "color": {
                 "red": 197,
                 "green": 57,
@@ -1063,15 +1060,14 @@
             }
         },
         {
-            "price": 30.35,
-            "avg": 30.35,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 529,
+            "price": 29.675,
+            "avg": 29.675,
+            "min": 24.44,
+            "max": 34.91,
+            "district_id": 522,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25990,
-            "name_xaphuong": "Vĩnh Phú",
+            "xaphuong_id": 25756,
             "color": {
                 "red": 194,
                 "green": 60,
@@ -1095,13 +1091,12 @@
         {
             "price": 28.75,
             "avg": 28.75,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 28.0,
+            "max": 29.5,
             "district_id": 529,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25972,
-            "name_xaphuong": "Thuận Giao",
             "color": {
                 "red": 188,
                 "green": 66,
@@ -1109,15 +1104,14 @@
             }
         },
         {
-            "price": 27.8833,
-            "avg": 27.8833,
-            "min": 0.0,
-            "max": 695.304,
+            "price": 28.1,
+            "avg": 28.1,
+            "min": 26.0,
+            "max": 30.2,
             "district_id": 528,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25948,
-            "name_xaphuong": "Tân Đông Hiệp",
+            "xaphuong_id": 25945,
             "color": {
                 "red": 185,
                 "green": 69,
@@ -1127,13 +1121,12 @@
         {
             "price": 27.8833,
             "avg": 27.8833,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 26.15,
+            "max": 30.0,
             "district_id": 528,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25948,
-            "name_xaphuong": "Tân Đông Hiệp",
             "color": {
                 "red": 182,
                 "green": 72,
@@ -1185,13 +1178,12 @@
         {
             "price": 22.1705,
             "avg": 22.1705,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 21.497,
+            "max": 22.844,
             "district_id": 529,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25966,
-            "name_xaphuong": "Lái Thiêu",
             "color": {
                 "red": 170,
                 "green": 84,
@@ -1201,13 +1193,12 @@
         {
             "price": 21.0183,
             "avg": 21.0183,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 15.124,
+            "max": 30.874,
             "district_id": 529,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25963,
-            "name_xaphuong": "An Thạnh",
             "color": {
                 "red": 168,
                 "green": 86,
@@ -1299,19 +1290,33 @@
             }
         },
         {
-            "price": 13.065,
-            "avg": 13.065,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 522,
+            "price": 13.25,
+            "avg": 13.25,
+            "min": 13.25,
+            "max": 13.25,
+            "district_id": 528,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25760,
-            "name_xaphuong": "Hoà Phú",
+            "xaphuong_id": 25948,
             "color": {
                 "red": 147,
                 "green": 107,
                 "blue": 74
+            }
+        },
+        {
+            "price": 13.065,
+            "avg": 13.065,
+            "min": 12.58,
+            "max": 13.55,
+            "district_id": 522,
+            "province_id": 8,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 25760,
+            "color": {
+                "red": 144,
+                "green": 110,
+                "blue": 76
             }
         },
         {
@@ -1323,9 +1328,9 @@
             "avg": 13,
             "min": 7.0,
             "color": {
-                "red": 144,
-                "green": 110,
-                "blue": 76
+                "red": 141,
+                "green": 113,
+                "blue": 78
             }
         },
         {
@@ -1337,9 +1342,9 @@
             "avg": 13,
             "min": 7.0,
             "color": {
-                "red": 141,
-                "green": 113,
-                "blue": 78
+                "red": 139,
+                "green": 115,
+                "blue": 80
             }
         },
         {
@@ -1351,25 +1356,24 @@
             "avg": 12,
             "min": 3.0,
             "color": {
-                "red": 139,
-                "green": 115,
-                "blue": 80
+                "red": 136,
+                "green": 118,
+                "blue": 82
             }
         },
         {
             "price": 11.81,
             "avg": 11.81,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 11.81,
+            "max": 11.81,
             "district_id": 522,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25768,
-            "name_xaphuong": "Hiệp An",
             "color": {
-                "red": 136,
-                "green": 118,
-                "blue": 82
+                "red": 133,
+                "green": 121,
+                "blue": 84
             }
         },
         {
@@ -1381,9 +1385,9 @@
             "avg": 10,
             "min": 5.0,
             "color": {
-                "red": 133,
-                "green": 121,
-                "blue": 84
+                "red": 130,
+                "green": 124,
+                "blue": 86
             }
         },
         {
@@ -1395,25 +1399,24 @@
             "avg": 10,
             "min": 5.0,
             "color": {
-                "red": 130,
-                "green": 124,
-                "blue": 86
+                "red": 127,
+                "green": 127,
+                "blue": 88
             }
         },
         {
             "price": 9.6,
             "avg": 9.6,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 8.86,
+            "max": 10.34,
             "district_id": 522,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25747,
-            "name_xaphuong": "Phú Cường",
             "color": {
-                "red": 127,
-                "green": 127,
-                "blue": 88
+                "red": 124,
+                "green": 130,
+                "blue": 90
             }
         },
         {
@@ -1425,9 +1428,9 @@
             "avg": 8,
             "min": 4.0,
             "color": {
-                "red": 124,
-                "green": 130,
-                "blue": 90
+                "red": 121,
+                "green": 133,
+                "blue": 92
             }
         },
         {
@@ -1439,9 +1442,9 @@
             "avg": 8,
             "min": 3.0,
             "color": {
-                "red": 121,
-                "green": 133,
-                "blue": 92
+                "red": 118,
+                "green": 136,
+                "blue": 94
             }
         },
         {
@@ -1453,9 +1456,9 @@
             "avg": 6,
             "min": 2.0,
             "color": {
-                "red": 118,
-                "green": 136,
-                "blue": 94
+                "red": 115,
+                "green": 139,
+                "blue": 96
             }
         },
         {
@@ -1467,25 +1470,39 @@
             "avg": 6,
             "min": 2.0,
             "color": {
-                "red": 115,
-                "green": 139,
-                "blue": 96
+                "red": 113,
+                "green": 141,
+                "blue": 98
+            }
+        },
+        {
+            "price": 5.64591,
+            "avg": 5.64591,
+            "min": 1.74,
+            "max": 9.57,
+            "district_id": 526,
+            "province_id": 8,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 25858,
+            "color": {
+                "red": 110,
+                "green": 144,
+                "blue": 100
             }
         },
         {
             "price": 5.3,
             "avg": 5.3,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 5.3,
+            "max": 5.3,
             "district_id": 529,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25987,
-            "name_xaphuong": "Bình Hòa",
             "color": {
-                "red": 113,
-                "green": 141,
-                "blue": 98
+                "red": 107,
+                "green": 147,
+                "blue": 102
             }
         },
         {
@@ -1497,41 +1514,24 @@
             "avg": 5,
             "min": 2.0,
             "color": {
-                "red": 110,
-                "green": 144,
-                "blue": 100
-            }
-        },
-        {
-            "price": 5.0,
-            "avg": 5.0,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 528,
-            "province_id": 8,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25945,
-            "name_xaphuong": "Tân Bình",
-            "color": {
-                "red": 107,
-                "green": 147,
-                "blue": 102
-            }
-        },
-        {
-            "price": 5.0,
-            "avg": 5.0,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 528,
-            "province_id": 8,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25945,
-            "name_xaphuong": "Tân Bình",
-            "color": {
                 "red": 104,
                 "green": 150,
                 "blue": 104
+            }
+        },
+        {
+            "price": 5.0,
+            "avg": 5.0,
+            "min": 5.0,
+            "max": 5.0,
+            "district_id": 528,
+            "province_id": 8,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 25945,
+            "color": {
+                "red": 101,
+                "green": 153,
+                "blue": 106
             }
         },
         {
@@ -1543,9 +1543,9 @@
             "avg": 4,
             "min": 2.0,
             "color": {
-                "red": 101,
-                "green": 153,
-                "blue": 106
+                "red": 98,
+                "green": 156,
+                "blue": 108
             }
         },
         {
@@ -1557,9 +1557,9 @@
             "avg": 4,
             "min": 1.0,
             "color": {
-                "red": 98,
-                "green": 156,
-                "blue": 108
+                "red": 95,
+                "green": 159,
+                "blue": 110
             }
         },
         {
@@ -1571,9 +1571,9 @@
             "avg": 4,
             "min": 2.0,
             "color": {
-                "red": 95,
-                "green": 159,
-                "blue": 110
+                "red": 92,
+                "green": 162,
+                "blue": 112
             }
         },
         {
@@ -1585,9 +1585,9 @@
             "avg": 4,
             "min": 1.0,
             "color": {
-                "red": 92,
-                "green": 162,
-                "blue": 112
+                "red": 89,
+                "green": 165,
+                "blue": 114
             }
         },
         {
@@ -1599,9 +1599,9 @@
             "avg": 4,
             "min": 2.0,
             "color": {
-                "red": 89,
-                "green": 165,
-                "blue": 114
+                "red": 86,
+                "green": 168,
+                "blue": 116
             }
         },
         {
@@ -1613,9 +1613,9 @@
             "avg": 4,
             "min": 2.0,
             "color": {
-                "red": 86,
-                "green": 168,
-                "blue": 116
+                "red": 84,
+                "green": 170,
+                "blue": 118
             }
         },
         {
@@ -1627,9 +1627,9 @@
             "avg": 4,
             "min": 2.0,
             "color": {
-                "red": 84,
-                "green": 170,
-                "blue": 118
+                "red": 81,
+                "green": 173,
+                "blue": 120
             }
         },
         {
@@ -1641,9 +1641,9 @@
             "avg": 4,
             "min": 2.0,
             "color": {
-                "red": 81,
-                "green": 173,
-                "blue": 120
+                "red": 78,
+                "green": 176,
+                "blue": 122
             }
         },
         {
@@ -1655,9 +1655,9 @@
             "avg": 4,
             "min": 3.0,
             "color": {
-                "red": 78,
-                "green": 176,
-                "blue": 122
+                "red": 75,
+                "green": 179,
+                "blue": 124
             }
         },
         {
@@ -1669,22 +1669,6 @@
             "avg": 4,
             "min": 1.0,
             "color": {
-                "red": 75,
-                "green": 179,
-                "blue": 124
-            }
-        },
-        {
-            "price": 3.63,
-            "avg": 3.63,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 526,
-            "province_id": 8,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25858,
-            "name_xaphuong": "Phước Vĩnh",
-            "color": {
                 "red": 72,
                 "green": 182,
                 "blue": 126
@@ -1693,13 +1677,12 @@
         {
             "price": 3.63,
             "avg": 3.63,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 0.87,
+            "max": 16.0,
             "district_id": 526,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25858,
-            "name_xaphuong": "Phước Vĩnh",
             "color": {
                 "red": 69,
                 "green": 185,
@@ -1779,13 +1762,12 @@
         {
             "price": 2.60344,
             "avg": 2.60344,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 1.57,
+            "max": 5.63,
             "district_id": 523,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25822,
-            "name_xaphuong": "Lai Uyên",
             "color": {
                 "red": 52,
                 "green": 202,
@@ -1793,15 +1775,14 @@
             }
         },
         {
-            "price": 2.02,
-            "avg": 2.02,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 530,
+            "price": 2.49944,
+            "avg": 2.49944,
+            "min": 1.06,
+            "max": 12.8,
+            "district_id": 524,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25906,
-            "name_xaphuong": "Tân Thành",
+            "xaphuong_id": 25777,
             "color": {
                 "red": 49,
                 "green": 205,
@@ -1809,19 +1790,33 @@
             }
         },
         {
-            "price": 2.02,
-            "avg": 2.02,
-            "min": 0.0,
-            "max": 695.304,
+            "price": 2.13,
+            "avg": 2.13,
+            "min": 2.13,
+            "max": 2.13,
             "district_id": 530,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25906,
-            "name_xaphuong": "Tân Thành",
             "color": {
                 "red": 46,
                 "green": 208,
                 "blue": 144
+            }
+        },
+        {
+            "price": 2.02,
+            "avg": 2.02,
+            "min": 2.02,
+            "max": 2.02,
+            "district_id": 530,
+            "province_id": 8,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 25906,
+            "color": {
+                "red": 43,
+                "green": 211,
+                "blue": 146
             }
         },
         {
@@ -1833,9 +1828,9 @@
             "avg": 2,
             "min": 1.0,
             "color": {
-                "red": 43,
-                "green": 211,
-                "blue": 146
+                "red": 40,
+                "green": 214,
+                "blue": 148
             }
         },
         {
@@ -1847,9 +1842,9 @@
             "avg": 2,
             "min": 1.0,
             "color": {
-                "red": 40,
-                "green": 214,
-                "blue": 148
+                "red": 37,
+                "green": 217,
+                "blue": 150
             }
         },
         {
@@ -1861,9 +1856,9 @@
             "avg": 2,
             "min": 1.0,
             "color": {
-                "red": 37,
-                "green": 217,
-                "blue": 150
+                "red": 34,
+                "green": 220,
+                "blue": 152
             }
         },
         {
@@ -1875,9 +1870,9 @@
             "avg": 2,
             "min": 1.0,
             "color": {
-                "red": 34,
-                "green": 220,
-                "blue": 152
+                "red": 31,
+                "green": 223,
+                "blue": 154
             }
         },
         {
@@ -1889,9 +1884,9 @@
             "avg": 2,
             "min": 1.0,
             "color": {
-                "red": 31,
-                "green": 223,
-                "blue": 154
+                "red": 28,
+                "green": 226,
+                "blue": 156
             }
         },
         {
@@ -1903,41 +1898,54 @@
             "avg": 2,
             "min": 1.0,
             "color": {
-                "red": 28,
-                "green": 226,
-                "blue": 156
-            }
-        },
-        {
-            "price": 1.73,
-            "avg": 1.73,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 523,
-            "province_id": 8,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25816,
-            "name_xaphuong": "Trừ Văn Thố",
-            "color": {
                 "red": 26,
                 "green": 228,
                 "blue": 158
             }
         },
         {
-            "price": 1.4,
-            "avg": 1.4,
-            "min": 0.0,
-            "max": 695.304,
+            "price": 1.73,
+            "avg": 1.73,
+            "min": 1.73,
+            "max": 1.73,
             "district_id": 523,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25828,
-            "name_xaphuong": "Long Nguyên",
+            "xaphuong_id": 25816,
             "color": {
                 "red": 23,
                 "green": 231,
                 "blue": 160
+            }
+        },
+        {
+            "price": 1.4,
+            "avg": 1.4,
+            "min": 1.4,
+            "max": 1.4,
+            "district_id": 523,
+            "province_id": 8,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 25828,
+            "color": {
+                "red": 20,
+                "green": 234,
+                "blue": 162
+            }
+        },
+        {
+            "price": 1.21469,
+            "avg": 1.21469,
+            "min": 1.02,
+            "max": 1.42,
+            "district_id": 524,
+            "province_id": 8,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 25777,
+            "color": {
+                "red": 17,
+                "green": 237,
+                "blue": 164
             }
         },
         {
@@ -1949,38 +1957,6 @@
             "avg": 1,
             "min": 1.0,
             "color": {
-                "red": 20,
-                "green": 234,
-                "blue": 162
-            }
-        },
-        {
-            "price": 0.957273,
-            "avg": 0.957273,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 524,
-            "province_id": 8,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25777,
-            "name_xaphuong": "Dầu Tiếng",
-            "color": {
-                "red": 17,
-                "green": 237,
-                "blue": 164
-            }
-        },
-        {
-            "price": 0.957273,
-            "avg": 0.957273,
-            "min": 0.0,
-            "max": 695.304,
-            "district_id": 524,
-            "province_id": 8,
-            "type": "Đất đấu giá/Đất thổ cư",
-            "xaphuong_id": 25777,
-            "name_xaphuong": "Dầu Tiếng",
-            "color": {
                 "red": 14,
                 "green": 240,
                 "blue": 166
@@ -1989,13 +1965,12 @@
         {
             "price": 0.957273,
             "avg": 0.957273,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 0.8,
+            "max": 1.06,
             "district_id": 524,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25777,
-            "name_xaphuong": "Dầu Tiếng",
             "color": {
                 "red": 11,
                 "green": 243,
@@ -2005,13 +1980,12 @@
         {
             "price": 0.58,
             "avg": 0.58,
-            "min": 0.0,
-            "max": 695.304,
+            "min": 0.58,
+            "max": 0.58,
             "district_id": 524,
             "province_id": 8,
             "type": "Đất đấu giá/Đất thổ cư",
             "xaphuong_id": 25804,
-            "name_xaphuong": "Long Tân",
             "color": {
                 "red": 8,
                 "green": 246,
