@@ -10,8 +10,8 @@
             "avg": 23,
             "min": 22.7,
             "color": {
-                "red": 255.0,
-                "green": 0.0,
+                "red": 255,
+                "green": 0,
                 "blue": 0
             }
         },
@@ -24,8 +24,8 @@
             "avg": 23,
             "min": 20.8,
             "color": {
-                "red": 191.25,
-                "green": 63.75,
+                "red": 191,
+                "green": 63,
                 "blue": 2
             }
         }
@@ -40,13 +40,2222 @@
             "avg": 54,
             "min": 49.8,
             "color": {
-                "red": 255.0,
-                "green": 0.0,
+                "red": 255,
+                "green": 0,
                 "blue": 0
             }
         }
     ],
-    "thocu": [],
+    "thocu": [
+        {
+            "price": 7.2,
+            "avg": 7.2,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5449,
+            "name_xaphuong": "Phan Đình Phùng",
+            "color": {
+                "red": 255,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "price": 7.2,
+            "avg": 7.2,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5449,
+            "name_xaphuong": "Phan Đình Phùng",
+            "color": {
+                "red": 253,
+                "green": 1,
+                "blue": 2
+            }
+        },
+        {
+            "price": 7.0,
+            "avg": 7.0,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5458,
+            "name_xaphuong": "Đồng Quang",
+            "color": {
+                "red": 251,
+                "green": 3,
+                "blue": 4
+            }
+        },
+        {
+            "price": 7.0,
+            "avg": 7.0,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5458,
+            "name_xaphuong": "Đồng Quang",
+            "color": {
+                "red": 249,
+                "green": 5,
+                "blue": 6
+            }
+        },
+        {
+            "price": 6.3,
+            "avg": 6.3,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5437,
+            "name_xaphuong": "Túc Duyên",
+            "color": {
+                "red": 247,
+                "green": 7,
+                "blue": 8
+            }
+        },
+        {
+            "price": 3.75,
+            "avg": 3.75,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5452,
+            "name_xaphuong": "Tân Thịnh",
+            "color": {
+                "red": 245,
+                "green": 9,
+                "blue": 10
+            }
+        },
+        {
+            "price": 3.08333,
+            "avg": 3.08333,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5959,
+            "name_xaphuong": "Kha Sơn",
+            "color": {
+                "red": 244,
+                "green": 10,
+                "blue": 12
+            }
+        },
+        {
+            "price": 2.96667,
+            "avg": 2.96667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 126,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5518,
+            "name_xaphuong": "Thắng Lợi",
+            "color": {
+                "red": 242,
+                "green": 12,
+                "blue": 14
+            }
+        },
+        {
+            "price": 2.96667,
+            "avg": 2.96667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 126,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5518,
+            "name_xaphuong": "Thắng Lợi",
+            "color": {
+                "red": 240,
+                "green": 14,
+                "blue": 16
+            }
+        },
+        {
+            "price": 2.71667,
+            "avg": 2.71667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 126,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5533,
+            "name_xaphuong": "Bá Xuyên",
+            "color": {
+                "red": 238,
+                "green": 16,
+                "blue": 18
+            }
+        },
+        {
+            "price": 2.53333,
+            "avg": 2.53333,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5461,
+            "name_xaphuong": "Gia Sàng",
+            "color": {
+                "red": 236,
+                "green": 18,
+                "blue": 20
+            }
+        },
+        {
+            "price": 2.5,
+            "avg": 2.5,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5473,
+            "name_xaphuong": "Hương Sơn",
+            "color": {
+                "red": 234,
+                "green": 20,
+                "blue": 22
+            }
+        },
+        {
+            "price": 2.46667,
+            "avg": 2.46667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5941,
+            "name_xaphuong": "Điềm Thụy",
+            "color": {
+                "red": 233,
+                "green": 21,
+                "blue": 24
+            }
+        },
+        {
+            "price": 2.46667,
+            "avg": 2.46667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5941,
+            "name_xaphuong": "Điềm Thụy",
+            "color": {
+                "red": 231,
+                "green": 23,
+                "blue": 26
+            }
+        },
+        {
+            "price": 2.26667,
+            "avg": 2.26667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 126,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5527,
+            "name_xaphuong": "Tân Quang",
+            "color": {
+                "red": 229,
+                "green": 25,
+                "blue": 28
+            }
+        },
+        {
+            "price": 2.18182,
+            "avg": 2.18182,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5944,
+            "name_xaphuong": "Xuân Phương",
+            "color": {
+                "red": 227,
+                "green": 27,
+                "blue": 30
+            }
+        },
+        {
+            "price": 2.05,
+            "avg": 2.05,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5650,
+            "name_xaphuong": "Cổ Lũng",
+            "color": {
+                "red": 225,
+                "green": 29,
+                "blue": 32
+            }
+        },
+        {
+            "price": 2.05,
+            "avg": 2.05,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5650,
+            "name_xaphuong": "Cổ Lũng",
+            "color": {
+                "red": 224,
+                "green": 30,
+                "blue": 34
+            }
+        },
+        {
+            "price": 1.94722,
+            "avg": 1.94722,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5653,
+            "name_xaphuong": "Sơn Cẩm",
+            "color": {
+                "red": 222,
+                "green": 32,
+                "blue": 36
+            }
+        },
+        {
+            "price": 1.94722,
+            "avg": 1.94722,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5653,
+            "name_xaphuong": "Sơn Cẩm",
+            "color": {
+                "red": 220,
+                "green": 34,
+                "blue": 38
+            }
+        },
+        {
+            "price": 1.94,
+            "avg": 1.94,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5581,
+            "name_xaphuong": "Trung Hội",
+            "color": {
+                "red": 218,
+                "green": 36,
+                "blue": 40
+            }
+        },
+        {
+            "price": 1.94,
+            "avg": 1.94,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5581,
+            "name_xaphuong": "Trung Hội",
+            "color": {
+                "red": 216,
+                "green": 38,
+                "blue": 42
+            }
+        },
+        {
+            "price": 1.9375,
+            "avg": 1.9375,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5659,
+            "name_xaphuong": "Chùa Hang",
+            "color": {
+                "red": 214,
+                "green": 40,
+                "blue": 44
+            }
+        },
+        {
+            "price": 1.9,
+            "avg": 1.9,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5695,
+            "name_xaphuong": "Cao Ngạn",
+            "color": {
+                "red": 213,
+                "green": 41,
+                "blue": 46
+            }
+        },
+        {
+            "price": 1.73235,
+            "avg": 1.73235,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5587,
+            "name_xaphuong": "Bình Yên",
+            "color": {
+                "red": 211,
+                "green": 43,
+                "blue": 48
+            }
+        },
+        {
+            "price": 1.66667,
+            "avg": 1.66667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5950,
+            "name_xaphuong": "Úc Kỳ",
+            "color": {
+                "red": 209,
+                "green": 45,
+                "blue": 50
+            }
+        },
+        {
+            "price": 1.57143,
+            "avg": 1.57143,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5620,
+            "name_xaphuong": "Yên Đổ",
+            "color": {
+                "red": 207,
+                "green": 47,
+                "blue": 52
+            }
+        },
+        {
+            "price": 1.5,
+            "avg": 1.5,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5614,
+            "name_xaphuong": "Yên Ninh",
+            "color": {
+                "red": 205,
+                "green": 49,
+                "blue": 54
+            }
+        },
+        {
+            "price": 1.5,
+            "avg": 1.5,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5614,
+            "name_xaphuong": "Yên Ninh",
+            "color": {
+                "red": 204,
+                "green": 51,
+                "blue": 56
+            }
+        },
+        {
+            "price": 1.5,
+            "avg": 1.5,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5614,
+            "name_xaphuong": "Yên Ninh",
+            "color": {
+                "red": 202,
+                "green": 52,
+                "blue": 58
+            }
+        },
+        {
+            "price": 1.5,
+            "avg": 1.5,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5629,
+            "name_xaphuong": "Động Đạt",
+            "color": {
+                "red": 200,
+                "green": 54,
+                "blue": 60
+            }
+        },
+        {
+            "price": 1.425,
+            "avg": 1.425,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5470,
+            "name_xaphuong": "Phú Xá",
+            "color": {
+                "red": 198,
+                "green": 56,
+                "blue": 62
+            }
+        },
+        {
+            "price": 1.38868,
+            "avg": 1.38868,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5692,
+            "name_xaphuong": "Hóa Thượng",
+            "color": {
+                "red": 196,
+                "green": 58,
+                "blue": 64
+            }
+        },
+        {
+            "price": 1.35,
+            "avg": 1.35,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5467,
+            "name_xaphuong": "Cam Giá",
+            "color": {
+                "red": 194,
+                "green": 60,
+                "blue": 66
+            }
+        },
+        {
+            "price": 1.32333,
+            "avg": 1.32333,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 130,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5758,
+            "name_xaphuong": "Bình Long",
+            "color": {
+                "red": 193,
+                "green": 61,
+                "blue": 68
+            }
+        },
+        {
+            "price": 1.32105,
+            "avg": 1.32105,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5962,
+            "name_xaphuong": "Thanh Ninh",
+            "color": {
+                "red": 191,
+                "green": 63,
+                "blue": 70
+            }
+        },
+        {
+            "price": 1.28125,
+            "avg": 1.28125,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5953,
+            "name_xaphuong": "Lương Phú",
+            "color": {
+                "red": 189,
+                "green": 65,
+                "blue": 72
+            }
+        },
+        {
+            "price": 1.26667,
+            "avg": 1.26667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5929,
+            "name_xaphuong": "Bảo Lý",
+            "color": {
+                "red": 187,
+                "green": 67,
+                "blue": 74
+            }
+        },
+        {
+            "price": 1.2625,
+            "avg": 1.2625,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5926,
+            "name_xaphuong": "Đào Xá",
+            "color": {
+                "red": 185,
+                "green": 69,
+                "blue": 76
+            }
+        },
+        {
+            "price": 1.23,
+            "avg": 1.23,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5938,
+            "name_xaphuong": "Nhã Lộng",
+            "color": {
+                "red": 183,
+                "green": 71,
+                "blue": 78
+            }
+        },
+        {
+            "price": 1.10833,
+            "avg": 1.10833,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5647,
+            "name_xaphuong": "Vô Tranh",
+            "color": {
+                "red": 182,
+                "green": 72,
+                "blue": 80
+            }
+        },
+        {
+            "price": 1.04444,
+            "avg": 1.04444,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5923,
+            "name_xaphuong": "Tân Thành",
+            "color": {
+                "red": 180,
+                "green": 74,
+                "blue": 82
+            }
+        },
+        {
+            "price": 1.025,
+            "avg": 1.025,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 130,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5728,
+            "name_xaphuong": "Vũ Chấn",
+            "color": {
+                "red": 178,
+                "green": 76,
+                "blue": 84
+            }
+        },
+        {
+            "price": 0.986667,
+            "avg": 0.986667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5641,
+            "name_xaphuong": "Tức Tranh",
+            "color": {
+                "red": 176,
+                "green": 78,
+                "blue": 86
+            }
+        },
+        {
+            "price": 0.986667,
+            "avg": 0.986667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5641,
+            "name_xaphuong": "Tức Tranh",
+            "color": {
+                "red": 174,
+                "green": 80,
+                "blue": 88
+            }
+        },
+        {
+            "price": 0.979167,
+            "avg": 0.979167,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5602,
+            "name_xaphuong": "Phú Đình",
+            "color": {
+                "red": 173,
+                "green": 81,
+                "blue": 90
+            }
+        },
+        {
+            "price": 0.979167,
+            "avg": 0.979167,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5602,
+            "name_xaphuong": "Phú Đình",
+            "color": {
+                "red": 171,
+                "green": 83,
+                "blue": 92
+            }
+        },
+        {
+            "price": 0.946154,
+            "avg": 0.946154,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5626,
+            "name_xaphuong": "Ôn Lương",
+            "color": {
+                "red": 169,
+                "green": 85,
+                "blue": 94
+            }
+        },
+        {
+            "price": 0.946154,
+            "avg": 0.946154,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5626,
+            "name_xaphuong": "Ôn Lương",
+            "color": {
+                "red": 167,
+                "green": 87,
+                "blue": 96
+            }
+        },
+        {
+            "price": 0.933333,
+            "avg": 0.933333,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5584,
+            "name_xaphuong": "Trung Lương",
+            "color": {
+                "red": 165,
+                "green": 89,
+                "blue": 98
+            }
+        },
+        {
+            "price": 0.925,
+            "avg": 0.925,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5914,
+            "name_xaphuong": "Đồng Liên",
+            "color": {
+                "red": 163,
+                "green": 91,
+                "blue": 100
+            }
+        },
+        {
+            "price": 0.922222,
+            "avg": 0.922222,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5968,
+            "name_xaphuong": "Hà Châu",
+            "color": {
+                "red": 162,
+                "green": 92,
+                "blue": 102
+            }
+        },
+        {
+            "price": 0.883333,
+            "avg": 0.883333,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5701,
+            "name_xaphuong": "Linh Sơn",
+            "color": {
+                "red": 160,
+                "green": 94,
+                "blue": 104
+            }
+        },
+        {
+            "price": 0.882353,
+            "avg": 0.882353,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5935,
+            "name_xaphuong": "Tân Hòa",
+            "color": {
+                "red": 158,
+                "green": 96,
+                "blue": 106
+            }
+        },
+        {
+            "price": 0.8625,
+            "avg": 0.8625,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5965,
+            "name_xaphuong": "Dương Thành",
+            "color": {
+                "red": 156,
+                "green": 98,
+                "blue": 108
+            }
+        },
+        {
+            "price": 0.8625,
+            "avg": 0.8625,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5965,
+            "name_xaphuong": "Dương Thành",
+            "color": {
+                "red": 154,
+                "green": 100,
+                "blue": 110
+            }
+        },
+        {
+            "price": 0.85,
+            "avg": 0.85,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5932,
+            "name_xaphuong": "Thượng Đình",
+            "color": {
+                "red": 153,
+                "green": 102,
+                "blue": 112
+            }
+        },
+        {
+            "price": 0.84,
+            "avg": 0.84,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5671,
+            "name_xaphuong": "Hòa Bình",
+            "color": {
+                "red": 151,
+                "green": 103,
+                "blue": 114
+            }
+        },
+        {
+            "price": 0.805556,
+            "avg": 0.805556,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5560,
+            "name_xaphuong": "Phúc Chu",
+            "color": {
+                "red": 149,
+                "green": 105,
+                "blue": 116
+            }
+        },
+        {
+            "price": 0.8,
+            "avg": 0.8,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5593,
+            "name_xaphuong": "Phú Tiến",
+            "color": {
+                "red": 147,
+                "green": 107,
+                "blue": 118
+            }
+        },
+        {
+            "price": 0.8,
+            "avg": 0.8,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5713,
+            "name_xaphuong": "Huống Thượng",
+            "color": {
+                "red": 145,
+                "green": 109,
+                "blue": 120
+            }
+        },
+        {
+            "price": 0.8,
+            "avg": 0.8,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 125,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5713,
+            "name_xaphuong": "Huống Thượng",
+            "color": {
+                "red": 143,
+                "green": 111,
+                "blue": 122
+            }
+        },
+        {
+            "price": 0.79,
+            "avg": 0.79,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5920,
+            "name_xaphuong": "Tân Kim",
+            "color": {
+                "red": 142,
+                "green": 112,
+                "blue": 124
+            }
+        },
+        {
+            "price": 0.75,
+            "avg": 0.75,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5812,
+            "name_xaphuong": "Hà Thượng",
+            "color": {
+                "red": 140,
+                "green": 114,
+                "blue": 126
+            }
+        },
+        {
+            "price": 0.747368,
+            "avg": 0.747368,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5635,
+            "name_xaphuong": "Phú Đô",
+            "color": {
+                "red": 138,
+                "green": 116,
+                "blue": 128
+            }
+        },
+        {
+            "price": 0.733333,
+            "avg": 0.733333,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5683,
+            "name_xaphuong": "Hóa Trung",
+            "color": {
+                "red": 136,
+                "green": 118,
+                "blue": 130
+            }
+        },
+        {
+            "price": 0.733333,
+            "avg": 0.733333,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5683,
+            "name_xaphuong": "Hóa Trung",
+            "color": {
+                "red": 134,
+                "green": 120,
+                "blue": 132
+            }
+        },
+        {
+            "price": 0.72,
+            "avg": 0.72,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5599,
+            "name_xaphuong": "Sơn Phú",
+            "color": {
+                "red": 132,
+                "green": 122,
+                "blue": 134
+            }
+        },
+        {
+            "price": 0.672222,
+            "avg": 0.672222,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5662,
+            "name_xaphuong": "Trại Cau",
+            "color": {
+                "red": 131,
+                "green": 123,
+                "blue": 136
+            }
+        },
+        {
+            "price": 0.636364,
+            "avg": 0.636364,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5638,
+            "name_xaphuong": "Hợp Thành",
+            "color": {
+                "red": 129,
+                "green": 125,
+                "blue": 138
+            }
+        },
+        {
+            "price": 0.622222,
+            "avg": 0.622222,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5677,
+            "name_xaphuong": "Minh Lập",
+            "color": {
+                "red": 127,
+                "green": 127,
+                "blue": 140
+            }
+        },
+        {
+            "price": 0.616667,
+            "avg": 0.616667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5698,
+            "name_xaphuong": "Hợp Tiến",
+            "color": {
+                "red": 125,
+                "green": 129,
+                "blue": 142
+            }
+        },
+        {
+            "price": 0.608333,
+            "avg": 0.608333,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5686,
+            "name_xaphuong": "Khe Mo",
+            "color": {
+                "red": 123,
+                "green": 131,
+                "blue": 144
+            }
+        },
+        {
+            "price": 0.60625,
+            "avg": 0.60625,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5911,
+            "name_xaphuong": "Bàn Đạt",
+            "color": {
+                "red": 122,
+                "green": 132,
+                "blue": 146
+            }
+        },
+        {
+            "price": 0.6,
+            "avg": 0.6,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5674,
+            "name_xaphuong": "Quang Sơn",
+            "color": {
+                "red": 120,
+                "green": 134,
+                "blue": 148
+            }
+        },
+        {
+            "price": 0.6,
+            "avg": 0.6,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5956,
+            "name_xaphuong": "Nga My",
+            "color": {
+                "red": 118,
+                "green": 136,
+                "blue": 150
+            }
+        },
+        {
+            "price": 0.6,
+            "avg": 0.6,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5956,
+            "name_xaphuong": "Nga My",
+            "color": {
+                "red": 116,
+                "green": 138,
+                "blue": 152
+            }
+        },
+        {
+            "price": 0.53,
+            "avg": 0.53,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5800,
+            "name_xaphuong": "Bản Ngoại",
+            "color": {
+                "red": 114,
+                "green": 140,
+                "blue": 154
+            }
+        },
+        {
+            "price": 0.53,
+            "avg": 0.53,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5800,
+            "name_xaphuong": "Bản Ngoại",
+            "color": {
+                "red": 112,
+                "green": 142,
+                "blue": 156
+            }
+        },
+        {
+            "price": 0.5,
+            "avg": 0.5,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 130,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5749,
+            "name_xaphuong": "Phương Giao",
+            "color": {
+                "red": 111,
+                "green": 143,
+                "blue": 158
+            }
+        },
+        {
+            "price": 0.5,
+            "avg": 0.5,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 130,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5749,
+            "name_xaphuong": "Phương Giao",
+            "color": {
+                "red": 109,
+                "green": 145,
+                "blue": 160
+            }
+        },
+        {
+            "price": 0.475,
+            "avg": 0.475,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5908,
+            "name_xaphuong": "Hương Sơn",
+            "color": {
+                "red": 107,
+                "green": 147,
+                "blue": 162
+            }
+        },
+        {
+            "price": 0.475,
+            "avg": 0.475,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5908,
+            "name_xaphuong": "Hương Sơn",
+            "color": {
+                "red": 105,
+                "green": 149,
+                "blue": 164
+            }
+        },
+        {
+            "price": 0.475,
+            "avg": 0.475,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5908,
+            "name_xaphuong": "Hương Sơn",
+            "color": {
+                "red": 103,
+                "green": 151,
+                "blue": 166
+            }
+        },
+        {
+            "price": 0.47,
+            "avg": 0.47,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5689,
+            "name_xaphuong": "Cây Thị",
+            "color": {
+                "red": 102,
+                "green": 153,
+                "blue": 168
+            }
+        },
+        {
+            "price": 0.47,
+            "avg": 0.47,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5761,
+            "name_xaphuong": "Hùng Sơn",
+            "color": {
+                "red": 100,
+                "green": 154,
+                "blue": 170
+            }
+        },
+        {
+            "price": 0.47,
+            "avg": 0.47,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5761,
+            "name_xaphuong": "Hùng Sơn",
+            "color": {
+                "red": 98,
+                "green": 156,
+                "blue": 172
+            }
+        },
+        {
+            "price": 0.466667,
+            "avg": 0.466667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5680,
+            "name_xaphuong": "Văn Hán",
+            "color": {
+                "red": 96,
+                "green": 158,
+                "blue": 174
+            }
+        },
+        {
+            "price": 0.466667,
+            "avg": 0.466667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5680,
+            "name_xaphuong": "Văn Hán",
+            "color": {
+                "red": 94,
+                "green": 160,
+                "blue": 176
+            }
+        },
+        {
+            "price": 0.43125,
+            "avg": 0.43125,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5605,
+            "name_xaphuong": "Bình Thành",
+            "color": {
+                "red": 92,
+                "green": 162,
+                "blue": 178
+            }
+        },
+        {
+            "price": 0.425,
+            "avg": 0.425,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5947,
+            "name_xaphuong": "Tân Đức",
+            "color": {
+                "red": 91,
+                "green": 163,
+                "blue": 180
+            }
+        },
+        {
+            "price": 0.425,
+            "avg": 0.425,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5947,
+            "name_xaphuong": "Tân Đức",
+            "color": {
+                "red": 89,
+                "green": 165,
+                "blue": 182
+            }
+        },
+        {
+            "price": 0.42,
+            "avg": 0.42,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5611,
+            "name_xaphuong": "Đu",
+            "color": {
+                "red": 87,
+                "green": 167,
+                "blue": 184
+            }
+        },
+        {
+            "price": 0.42,
+            "avg": 0.42,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5611,
+            "name_xaphuong": "Đu",
+            "color": {
+                "red": 85,
+                "green": 169,
+                "blue": 186
+            }
+        },
+        {
+            "price": 0.42,
+            "avg": 0.42,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5611,
+            "name_xaphuong": "Đu",
+            "color": {
+                "red": 83,
+                "green": 171,
+                "blue": 188
+            }
+        },
+        {
+            "price": 0.42,
+            "avg": 0.42,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5611,
+            "name_xaphuong": "Đu",
+            "color": {
+                "red": 81,
+                "green": 173,
+                "blue": 190
+            }
+        },
+        {
+            "price": 0.4,
+            "avg": 0.4,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5572,
+            "name_xaphuong": "Đồng Thịnh",
+            "color": {
+                "red": 80,
+                "green": 174,
+                "blue": 192
+            }
+        },
+        {
+            "price": 0.4,
+            "avg": 0.4,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5572,
+            "name_xaphuong": "Đồng Thịnh",
+            "color": {
+                "red": 78,
+                "green": 176,
+                "blue": 194
+            }
+        },
+        {
+            "price": 0.4,
+            "avg": 0.4,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5572,
+            "name_xaphuong": "Đồng Thịnh",
+            "color": {
+                "red": 76,
+                "green": 178,
+                "blue": 196
+            }
+        },
+        {
+            "price": 0.4,
+            "avg": 0.4,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5665,
+            "name_xaphuong": "Văn Lăng",
+            "color": {
+                "red": 74,
+                "green": 180,
+                "blue": 198
+            }
+        },
+        {
+            "price": 0.4,
+            "avg": 0.4,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5668,
+            "name_xaphuong": "Tân Long",
+            "color": {
+                "red": 72,
+                "green": 182,
+                "blue": 200
+            }
+        },
+        {
+            "price": 0.4,
+            "avg": 0.4,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5707,
+            "name_xaphuong": "Nam Hòa",
+            "color": {
+                "red": 71,
+                "green": 183,
+                "blue": 202
+            }
+        },
+        {
+            "price": 0.4,
+            "avg": 0.4,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5707,
+            "name_xaphuong": "Nam Hòa",
+            "color": {
+                "red": 69,
+                "green": 185,
+                "blue": 204
+            }
+        },
+        {
+            "price": 0.4,
+            "avg": 0.4,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 130,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5719,
+            "name_xaphuong": "Sảng Mộc",
+            "color": {
+                "red": 67,
+                "green": 187,
+                "blue": 206
+            }
+        },
+        {
+            "price": 0.392857,
+            "avg": 0.392857,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5554,
+            "name_xaphuong": "Bảo Linh",
+            "color": {
+                "red": 65,
+                "green": 189,
+                "blue": 208
+            }
+        },
+        {
+            "price": 0.392857,
+            "avg": 0.392857,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5554,
+            "name_xaphuong": "Bảo Linh",
+            "color": {
+                "red": 63,
+                "green": 191,
+                "blue": 210
+            }
+        },
+        {
+            "price": 0.39,
+            "avg": 0.39,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5644,
+            "name_xaphuong": "Giang Tiên",
+            "color": {
+                "red": 61,
+                "green": 193,
+                "blue": 212
+            }
+        },
+        {
+            "price": 0.39,
+            "avg": 0.39,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5644,
+            "name_xaphuong": "Giang Tiên",
+            "color": {
+                "red": 60,
+                "green": 194,
+                "blue": 214
+            }
+        },
+        {
+            "price": 0.39,
+            "avg": 0.39,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 128,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5644,
+            "name_xaphuong": "Giang Tiên",
+            "color": {
+                "red": 58,
+                "green": 196,
+                "blue": 216
+            }
+        },
+        {
+            "price": 0.381667,
+            "avg": 0.381667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5776,
+            "name_xaphuong": "Đức Lương",
+            "color": {
+                "red": 56,
+                "green": 198,
+                "blue": 218
+            }
+        },
+        {
+            "price": 0.372222,
+            "avg": 0.372222,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5566,
+            "name_xaphuong": "Phượng Tiến",
+            "color": {
+                "red": 54,
+                "green": 200,
+                "blue": 220
+            }
+        },
+        {
+            "price": 0.37,
+            "avg": 0.37,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5569,
+            "name_xaphuong": "Chợ Chu",
+            "color": {
+                "red": 52,
+                "green": 202,
+                "blue": 222
+            }
+        },
+        {
+            "price": 0.37,
+            "avg": 0.37,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5569,
+            "name_xaphuong": "Chợ Chu",
+            "color": {
+                "red": 51,
+                "green": 204,
+                "blue": 224
+            }
+        },
+        {
+            "price": 0.37,
+            "avg": 0.37,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5569,
+            "name_xaphuong": "Chợ Chu",
+            "color": {
+                "red": 49,
+                "green": 205,
+                "blue": 226
+            }
+        },
+        {
+            "price": 0.37,
+            "avg": 0.37,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5569,
+            "name_xaphuong": "Chợ Chu",
+            "color": {
+                "red": 47,
+                "green": 207,
+                "blue": 228
+            }
+        },
+        {
+            "price": 0.355,
+            "avg": 0.355,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5917,
+            "name_xaphuong": "Tân Khánh",
+            "color": {
+                "red": 45,
+                "green": 209,
+                "blue": 230
+            }
+        },
+        {
+            "price": 0.355,
+            "avg": 0.355,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 133,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5917,
+            "name_xaphuong": "Tân Khánh",
+            "color": {
+                "red": 43,
+                "green": 211,
+                "blue": 232
+            }
+        },
+        {
+            "price": 0.344,
+            "avg": 0.344,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5779,
+            "name_xaphuong": "Phú Cường",
+            "color": {
+                "red": 41,
+                "green": 213,
+                "blue": 234
+            }
+        },
+        {
+            "price": 0.3425,
+            "avg": 0.3425,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5770,
+            "name_xaphuong": "Minh Tiến",
+            "color": {
+                "red": 40,
+                "green": 214,
+                "blue": 236
+            }
+        },
+        {
+            "price": 0.32,
+            "avg": 0.32,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5656,
+            "name_xaphuong": "Sông Cầu",
+            "color": {
+                "red": 38,
+                "green": 216,
+                "blue": 238
+            }
+        },
+        {
+            "price": 0.32,
+            "avg": 0.32,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 129,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5656,
+            "name_xaphuong": "Sông Cầu",
+            "color": {
+                "red": 36,
+                "green": 218,
+                "blue": 240
+            }
+        },
+        {
+            "price": 0.32,
+            "avg": 0.32,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 130,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5716,
+            "name_xaphuong": "Đình Cả",
+            "color": {
+                "red": 34,
+                "green": 220,
+                "blue": 242
+            }
+        },
+        {
+            "price": 0.32,
+            "avg": 0.32,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5842,
+            "name_xaphuong": "Văn Yên",
+            "color": {
+                "red": 32,
+                "green": 222,
+                "blue": 244
+            }
+        },
+        {
+            "price": 0.32,
+            "avg": 0.32,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5851,
+            "name_xaphuong": "Quân Chu",
+            "color": {
+                "red": 30,
+                "green": 224,
+                "blue": 246
+            }
+        },
+        {
+            "price": 0.314286,
+            "avg": 0.314286,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5767,
+            "name_xaphuong": "Phúc Lương",
+            "color": {
+                "red": 29,
+                "green": 225,
+                "blue": 248
+            }
+        },
+        {
+            "price": 0.307143,
+            "avg": 0.307143,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5539,
+            "name_xaphuong": "Linh Thông",
+            "color": {
+                "red": 27,
+                "green": 227,
+                "blue": 250
+            }
+        },
+        {
+            "price": 0.305,
+            "avg": 0.305,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5596,
+            "name_xaphuong": "Bộc Nhiêu",
+            "color": {
+                "red": 25,
+                "green": 229,
+                "blue": 252
+            }
+        },
+        {
+            "price": 0.305,
+            "avg": 0.305,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5596,
+            "name_xaphuong": "Bộc Nhiêu",
+            "color": {
+                "red": 23,
+                "green": 231,
+                "blue": 254
+            }
+        },
+        {
+            "price": 0.3,
+            "avg": 0.3,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 131,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5785,
+            "name_xaphuong": "Phú Lạc",
+            "color": {
+                "red": 21,
+                "green": 233,
+                "blue": 256
+            }
+        },
+        {
+            "price": 0.295,
+            "avg": 0.295,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 126,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5530,
+            "name_xaphuong": "Bình Sơn",
+            "color": {
+                "red": 20,
+                "green": 234,
+                "blue": 258
+            }
+        },
+        {
+            "price": 0.295,
+            "avg": 0.295,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 126,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5530,
+            "name_xaphuong": "Bình Sơn",
+            "color": {
+                "red": 18,
+                "green": 236,
+                "blue": 260
+            }
+        },
+        {
+            "price": 0.266667,
+            "avg": 0.266667,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5542,
+            "name_xaphuong": "Lam Vỹ",
+            "color": {
+                "red": 16,
+                "green": 238,
+                "blue": 262
+            }
+        },
+        {
+            "price": 0.25,
+            "avg": 0.25,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5548,
+            "name_xaphuong": "Tân Thịnh",
+            "color": {
+                "red": 14,
+                "green": 240,
+                "blue": 264
+            }
+        },
+        {
+            "price": 0.25,
+            "avg": 0.25,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5575,
+            "name_xaphuong": "Định Biên",
+            "color": {
+                "red": 12,
+                "green": 242,
+                "blue": 266
+            }
+        },
+        {
+            "price": 0.25,
+            "avg": 0.25,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5575,
+            "name_xaphuong": "Định Biên",
+            "color": {
+                "red": 10,
+                "green": 244,
+                "blue": 268
+            }
+        },
+        {
+            "price": 0.25,
+            "avg": 0.25,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5590,
+            "name_xaphuong": "Điềm Mặc",
+            "color": {
+                "red": 9,
+                "green": 245,
+                "blue": 270
+            }
+        },
+        {
+            "price": 0.25,
+            "avg": 0.25,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5590,
+            "name_xaphuong": "Điềm Mặc",
+            "color": {
+                "red": 7,
+                "green": 247,
+                "blue": 272
+            }
+        },
+        {
+            "price": 0.21,
+            "avg": 0.21,
+            "min": 0.0,
+            "max": 695.304,
+            "district_id": 127,
+            "province_id": 55,
+            "type": "Đất đấu giá/Đất thổ cư",
+            "xaphuong_id": 5545,
+            "name_xaphuong": "Quy Kỳ",
+            "color": {
+                "red": 5,
+                "green": 249,
+                "blue": 274
+            }
+        }
+    ],
     "polygon": [
         {
             "polygon": [
