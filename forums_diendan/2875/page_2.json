@@ -1,0 +1,929 @@
+{
+    "comments": [
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:12:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Dr Thanh Bùi\"] \n\t\t\tbạn cho em hỏi thiết bị 3 in 1 trong wc của bạn có phải là của thằng xiaomi ko bạn\n\t\t [/QUOTE]\n\t\t\t\t\tt.me",
+            "idComment": 498287,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:28:00 GMT",
+            "avatar": null,
+            "content": "\nSmarthome của bạn chủ dùng Pi làm máy tính nhúng, trên nền tảng Home Assistant để điều khiển và kết nối, hub Broadlink làm cầu nối với các thiết bị cần điều khiển bằng sóng RF hoặc hồng ngoại,cảm biến dùng các loại của Xiaomi,Google home tương tác giọng nói,có bản là ổn,nhưng hơi lằng nhằng trong việc kết nối,và phụ thuộc hoàn toàn vào wifi cũng như đường truyền internet,các hệ thống của Broadlink hay Xiaomi đều dùng server riêng,nếu liên kết giữa các khối có vấn đề,hệ thống sẽ tê liệt",
+            "idComment": 498288,
+            "iduser": 2830,
+            "image": [],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:37:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tCon đó chính là bản pro của yelight ( xiaomi ) đó bạn. Em chưa có thời gian hẳn để ngâm cứu cái bộ môn home assistant như bạn chụ nên em dùng 100% đồ mi.\n\n\n\nbạn https://www.otofun.net/members/24289/ có thể cho em xin ảnh thật của con switch 3 của aqara không, vì em rình mò trên hãng và taobao thì không có. Còn trên cá vàng thì thấy có nhưng không có ảnh thật.\n\n\n\nChơi cái này ngoài tiếng anh bạn nào còn biết tiếng nga cũng hay vì đội nga ngố chơi đồ xiaomi khá sâu. Em hay hóng hớt đội đó ở cái group này\n\n\n\n\nt.me\n\n\n\nhttps://t.me/kapiba\n\nОбсуждение поделок из блога kapiba.ru и других полезностей для Умного Дома Xiaomi.\t\tПравила группы: https://www.kapiba.ru/p/telegram.html\t\tДругие ресурсы проекта: https://t.me/kapiba_room/56\n\n\nt.me\n\n\t\t\t\t\tt.me\n\t\t\t\t\n\n\n\n [/QUOTE]\nCái ở giữa là Aqara 3 đây bạn, ảnh em vừa chụp:",
+            "idComment": 498289,
+            "iduser": 15118,
+            "image": [
+                "https://img.otofun.net/upload/v7/images/4380/4380217-1ccfda99cc6ae17a3998663379d9fa33.jpg"
+            ],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:39:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"joix\"] \n\t\t\tSmarthome của bạn chủ dùng Pi làm máy tính nhúng, trên nền tảng Home Assistant để điều khiển và kết nối, hub Broadlink làm cầu nối với các thiết bị cần điều khiển bằng sóng RF hoặc hồng ngoại,cảm biến dùng các loại của Xiaomi,Google home tương tác giọng nói,có bản là ổn,nhưng hơi lằng nhằng trong việc kết nối,và phụ thuộc hoàn toàn vào wifi cũng như đường truyền internet,các hệ thống của Broadlink hay Xiaomi đều dùng server riêng,nếu liên kết giữa các khối có vấn đề,hệ thống sẽ tê liệt\n\t\t [/QUOTE]\nEm đặt hàng KNX làm local báo giá hết 1,5 tỷ theo các yêu cầu của em như trên! Theo bạn thì bao lâu chữ \"nếu\" nó xảy ra 1 lần, có đáng để mang hơn tỷ đi dự phòng mất wifi không?",
+            "idComment": 498290,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:40:00 GMT",
+            "avatar": null,
+            "content": "\nĐiều khiển sư tử thế nào nhỉ ? cần mua gì ? lập trình tinh chỉnh gì ? và biện pháp dự phòng là gì ?",
+            "idComment": 498291,
+            "iduser": 3782,
+            "image": [],
+            "username": "kvboto"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:45:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"kvboto\"] \n\t\t\tĐiều khiển sư tử thế nào nhỉ ? cần mua gì ? lập trình tinh chỉnh gì ? và biện pháp dự phòng là gì ?\n\t\t [/QUOTE]\nDùi cui to và ví dày!",
+            "idComment": 498292,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:45:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"baotm\"] \n\t\t\tem chơi smarthome từ thời mới chập chững vào vn, lúc google home chưa hỗ trợ voice việt. sau này bỏ vì firmware k update, thời gian sau server các thiết bị lại sụp dần dần, riết rồi cũng chán bạn ạ.\n\ngiờ nhà em dùng google home + combo xiaomi + sonoff. ko dùng cảm biến, đi bảo trì mệt mỏi lắm.\n\nphí thì cũng lục tốn, 1 ct pana bt vài trăm k, nhưng nếu công tắc wifi thì x3 x4 là loại tạm, thi thoảng nó hắt xì xổ mũi mệt lắm.\n\nem nhẩm tính nhà em hết 12 ổ sonof, 120k 1 ổ -&gt;1tr2, 4 google echo, 399k đợt canh sale, 1,2tr, 1 mớ công tắc bập bên wifi độ 2tr.\n\n2 con broadlink rm dùng cho cửa cuốn, tivi và máy lạnh hết 1tr5.,1 con lau nhà xiaomi. ( k tính cũng đc )\n\n1 con xiaomi pro wifi cho chúng nó hết 1tr9.\n\nđộ 10tr + 2tr tiền công thợ đục đẻo trát. nói chung vầy dể sài, chứ thêm cảm biến tự chạy mệt lắm, e k ham\n\t\t [/QUOTE]\nEm thấy các bạn dùng Sonoff kêu ca trên các group nhiều lắm!",
+            "idComment": 498293,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:47:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tEm thấy các bạn dùng Sonoff kêu ca trên các group nhiều lắm!\n\t\t [/QUOTE]\ncó độ delay rất rõ dù là trong LAN bạn ạ bù lại giá mềm và tương thích ngược, nên giờ em dùng bậy thôi ạ",
+            "idComment": 498294,
+            "iduser": 24711,
+            "image": [],
+            "username": "baotm"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:55:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"baotm\"] \n\t\t\tcó độ delay rất rõ dù là trong LAN bạn ạ bù lại giá mềm và tương thích ngược, nên giờ em dùng bậy thôi ạ\n\t\t [/QUOTE]\nGiá mềm thì em thấy gần đây nhiều bạn chơi Tuya. Em chưa thử được vì nó đi theo hệ của nó. bạn nghiên cứu hệ đấy chưa?",
+            "idComment": 498295,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 12:57:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"joix\"] \n\t\t\tSmarthome của bạn chủ dùng Pi làm máy tính nhúng, trên nền tảng Home Assistant để điều khiển và kết nối, hub Broadlink làm cầu nối với các thiết bị cần điều khiển bằng sóng RF hoặc hồng ngoại,cảm biến dùng các loại của Xiaomi,Google home tương tác giọng nói,có bản là ổn,nhưng hơi lằng nhằng trong việc kết nối,và phụ thuộc hoàn toàn vào wifi cũng như đường truyền internet,các hệ thống của Broadlink hay Xiaomi đều dùng server riêng,nếu liên kết giữa các khối có vấn đề,hệ thống sẽ tê liệt\n\t\t [/QUOTE]\ncháu góp ý với bạn chủ là nếu muốn dùng tiếng việt chuẩn cho google home thì có thể dùng IFTTT, rất dể,",
+            "idComment": 498296,
+            "iduser": 24711,
+            "image": [],
+            "username": "baotm"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:01:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tGiá mềm thì em thấy gần đây nhiều bạn chơi Tuya. Em chưa thử được vì nó đi theo hệ của nó. bạn nghiên cứu hệ đấy chưa?\n\t\t [/QUOTE]\nhiện giờ nhà em dùng thế này thôi ạ. công tắc thiết bị sonoff, các thiết bị phụ thêm như IR, hay ổ cắm gì đó dùng hàng ngoài. cho vào thẳng google home, custom lệnh bằng IFTTT. ko phải qua hub, gọn nhẹ. hư đâu thay đó.",
+            "idComment": 498297,
+            "iduser": 24711,
+            "image": [],
+            "username": "baotm"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:07:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tEm đặt hàng KNX làm local báo giá hết 1,5 tỷ theo các yêu cầu của em như trên! Theo bạn thì bao lâu chữ \"nếu\" nó xảy ra 1 lần, có đáng để mang hơn tỷ đi dự phòng mất wifi không?\n\t\t [/QUOTE]\nE đang nói tự diy,cách khác là ''chơi'' như bạn nói,ko tính các sản phẩm thương mại hóa.",
+            "idComment": 498298,
+            "iduser": 2830,
+            "image": [],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:09:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tCái ở giữa là Aqara 3 đây bạn, ảnh em vừa chụp:\n\n\n\n[img]https://img.otofun.net/upload/v7/images/4380/4380217-1ccfda99cc6ae17a3998663379d9fa33.jpg[/img]\n\n [/QUOTE]\nNhà em lắp camera khắp các phòng nhưng đang định gắn thêm 1 con xiaofang vào con S50 để thành 1 con camera giám sát chạy quanh nhà khi cần giám sát các phòng ngủ không lắp. Hôm nọ 2 bố con em lắp tạm kiểu này chạy vui phết",
+            "idComment": 498299,
+            "iduser": 6040,
+            "image": [
+                "https://img.otofun.net/upload/v7/images/4380/4380217-1ccfda99cc6ae17a3998663379d9fa33.jpg",
+                "https://img.otofun.net/upload/v7/images/4380/4380286-f45b50d525e61e7bdb4f9882bdfde749.png",
+                "https://www.otofun.net/attachments/otofun-1586066906254-png.4507540/",
+                "https://www.otofun.net/attachments/otofun-1586066928485-png.4507541/",
+                "https://www.otofun.net/attachments/otofun-1586067223740-png.4507563/"
+            ],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:13:00 GMT",
+            "avatar": null,
+            "content": "\nEm chả có nhiều tiền, làm vài cái đèn, làm cái Tivi thỉnh thoảng có khách lôi điện thoại ra : ok google, bật đèn, bật tivi khoe khách tí thôi, he he, còn không vẫn dùng remote.",
+            "idComment": 498300,
+            "iduser": 10725,
+            "image": [],
+            "username": "Demhoangvu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:19:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tTê liệt thế nào được bạn khi toàn bộ nó chạy trên zigbee. Chạy bằng wifi cực nguy hiểm, thằng cu nhà em có lần suýt bị hấp vào mùa đông vừa rồi do em chủ quan khi sử dụng công tắc wifi ( may phòng nó to ), sau quả đó em ko còn dám dùng wifi ở những thiết bị cơ bản nữa. Quả đấy là do server xiaomi lỗi chứ không phải do internet nhà mất mạng vì mạng nhà em gần như không bị mất tín hiệu bao giờ do có đến 2 đường wan và 1 đường backup 4G, phần mềm giám sát cũng không hề báo sms về việc mất tín hiệu.\n\n\n\nNếu đúng là loại này thì nó vuông hơn và không tinh tế bằng con switch 2 bạn nhỉ. Giờ nó ra cả bản 1 2 cũng vuông như thế, em vẫn thích cái loại cũ, tròn tròn hơn. LED báo ở trên trông vẫn tinh tế hơn.\n\n\n\nbạn nào tháo bọn aqara ra sẽ thấy nó dùng toàn bộ là relay 16A ADW1203HLW của Panasonic, tuy chưa phải ngon nhất là Songchuan nhưng thừa để dùng ở tiêu chuẩn gia đình rồi.\n\n\n\n\n\n[img]https://img.otofun.net/upload/v7/images/4380/4380286-f45b50d525e61e7bdb4f9882bdfde749.png[/img]\n\n\n\n\n\n\n\nhttps://www.otofun.net/attachments/4507540/\n\n\nhttps://www.otofun.net/attachments/4507541/\n\n\n\n\nNhà em lắp camera khắp các phòng nhưng đang định gắn thêm 1 con xiaofang vào con S50 để thành 1 con camera giám sát chạy quanh nhà khi cần giám sát các phòng ngủ không lắp. Hôm nọ 2 bố con em lắp tạm kiểu này chạy vui phết :D\n\n\n\nhttps://www.otofun.net/attachments/4507563/\n [/QUOTE]\nHệ thống của bạn chủ kết nối wifi bạn ạ,Zigbee ko dễ với dân diy và ít sp thương mại.",
+            "idComment": 498301,
+            "iduser": 2830,
+            "image": [
+                "https://img.otofun.net/upload/v7/images/4380/4380286-f45b50d525e61e7bdb4f9882bdfde749.png"
+            ],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:28:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"joix\"] \n\t\t\tChơi đâu cần nhiều tiền thế bạn,e ví dụ một hệ thống tự diy với các thành phần cơ bản:\n\nMáy tính nhúng hoặc board phát triển chạy X86/64 như Intel Galileo hoặc Nvidia Jetson TX2,màn hình cảm ứng 7 đến 10inch để giao tiếp với máy tính,board mở rộng,module 4G (thay thế khi đường truyền internet có vấn đề) module wifi giao tiếp gữa các thiết bị,nếu thoải mái money thì dùng module Zigbee,cao cấp hơn là Lora (long ranger) ổ cứng NAS để lưu trữ data,đăng ký một Ip tĩnh hoặc hotname.\n\nCác module giao tiếp hiện giờ đều tương thích Google Assistant hoặc Alexa nên ko có vấn đề gì với phần hỗ trợ điều khiển qua giọng nói....\n\nPhần còn lại là lập trình máy tính nhúng,cái này khá phức tạp,e ko đề cập sâu,nhưng với hệ thống cơ bản như vậy bạn tính hết bao nhiều tiền?\n\nE đang nói tự diy,cách khác là ''chơi'' như bạn nói,ko tính các sản phẩm thương mại hóa.\n\t\t [/QUOTE]\nLàm như bạn mất wifi có điều khiển bằng giọng nói được không?",
+            "idComment": 498302,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:33:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"joix\"] \n\t\t\tHệ thống của bạn chủ kết nối wifi bạn ạ,Zigbee ko dễ với dân diy và ít sp thương mại.\n\t\t [/QUOTE]\nsensor, công tắc, ổ cắm đều kết nối với zigbee gateway hết bạn ạ . Sau đó getway với HA kết nối với nhau bằng wifi local. Việc chập chờn wifi là rất khó, sợ nhất wan bị chập chờn thôi bạn. Mà đầu tư đến tầm đó rồi thì tiếc gì 10-20tr đầu tư 1 hệ thống mạng ngon.",
+            "idComment": 498303,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:36:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tCon đó chính là bản pro của yelight ( xiaomi ) đó bạn. Em chưa có thời gian hẳn để ngâm cứu cái bộ môn home assistant như bạn chụ nên em dùng 100% đồ mi.\n\n\n\nbạn https://www.otofun.net/members/24289/ có thể cho em xin ảnh thật của con switch 3 của aqara không, vì em rình mò trên hãng và taobao thì không có. Còn trên cá vàng thì thấy có nhưng không có ảnh thật.\n\n\n\nChơi cái này ngoài tiếng anh bạn nào còn biết tiếng nga cũng hay vì đội nga ngố chơi đồ xiaomi khá sâu. Em hay hóng hớt đội đó ở cái group này\n\n\n\n\nt.me\n\n\n\nhttps://t.me/kapiba\n\nОбсуждение поделок из блога kapiba.ru и других полезностей для Умного Дома Xiaomi.\t\tПравила группы: https://www.kapiba.ru/p/telegram.html\t\tДругие ресурсы проекта: https://t.me/kapiba_room/56\n\n\nt.me\n\n\t\t\t\t\tt.me\n\t\t\t\t\n\n\n\n [/QUOTE]\nCon máy sưởi nhà tăm bạn bật bao lâu thì đủ ấm để tắm , so với đèn sưởi nhà tắm thì thế nào bạn nhỉ ? E đang ngắm con này , bạn rảnh review qua dùm em với ạ",
+            "idComment": 498304,
+            "iduser": 401,
+            "image": [],
+            "username": "Dr Thanh Bùi"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:39:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Dr Thanh Bùi\"] \n\t\t\tCon máy sưởi nhà tăm bạn bật bao lâu thì đủ ấm để tắm , so với đèn sưởi nhà tắm thì thế nào bạn nhỉ ? E đang ngắm con này , bạn rảnh review qua dùm em với ạ\n\t\t [/QUOTE]\nReview bạn xem của chiemtai nó nói khá chi tiết",
+            "idComment": 498305,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:43:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tLàm như bạn mất wifi có điều khiển bằng giọng nói được không?\n\t\t [/QUOTE]\nĐiều khiển giọng nói bằng Google Assistant hay Blynk đều cần server trung gian,vì thế ko có kết nối wifi cần có module sim 4G như e nói ở trên,giao tiếp giữa các hub với nhau trong nhà mất wifi thì cũng nghỉ.điều khiển giọng nói chỉ là một phần nhỏ trong smarthome thôi bạn.",
+            "idComment": 498306,
+            "iduser": 2830,
+            "image": [],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:47:00 GMT",
+            "avatar": null,
+            "content": "\nSau 1 năm thì tổng số chức năng còn sử dụng đc nhà em khoảng 60%. Thế là tốt lắm rồi",
+            "idComment": 498307,
+            "iduser": 4695,
+            "image": [],
+            "username": "Dream30A"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:47:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tKhoảng 3-5 giây bạn ạ, để tắm thì khoảng 10-15 giây. So với đèn sưởi thì 1 trời 1 vực vì cảm giác sướng hơn hẳn bạn. Cái này đúng chuẩn 30x60 của ô xương thạch cao, chỉ sợ nhất hạ tầng ống trên trần vướng không lắp vào vị trí thích hợp được thôi. Còn dây thì em câu láo dây ổ cắm chạy ok chưa thấy vấn đề gì. Bảng điều khiển của nó là không dây nên cũng ko lằng nhằng dây dợ với lại em cũng chả mấy khi sờ vào cái bảng điều khiển.\n\n\n\nCon này em lắp chủ yếu lại phục vụ mùa hè chứ không phải mùa đông. Tắm em xả nước nóng 1 lúc là cả phòng ấm ngay, nhưng mùa hè ngồi luyện công mà mở cửa hóng gió điều hòa thì ăn chửi, mà không mở thì nóng như xông hơi\n\n\n\nReview bạn xem của chiemtai nó nói khá chi tiết\n\t\t [/QUOTE]\nChiến tài thì e xem rồi , nhưng em muốn review của người dùng như bạn nó mới thực tế . E cảm ơn bạn nhiều",
+            "idComment": 498308,
+            "iduser": 401,
+            "image": [],
+            "username": "Dr Thanh Bùi"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:51:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"baotm\"] \n\t\t\tem k thử vì đợt nghiên cứu thì thấy google ko chơi với tuya. em muốn gọn nhẹ nên dùng google home + IFTTT thay cho 1 mớ hub\n\nhiện giờ nhà em dùng thế này thôi ạ. công tắc thiết bị sonoff, các thiết bị phụ thêm như IR, hay ổ cắm gì đó dùng hàng ngoài. cho vào thẳng google home, custom lệnh bằng IFTTT. ko phải qua hub, gọn nhẹ. hư đâu thay đó.\n\t\t [/QUOTE]\nTuya được Google hỗ trợ tốt chứ bạn. Em lại thiên về tuya vì tính ổn định phần mềm của nó, không phân biệt server tàu hay quốc tế. Em có 2 cái bóng ngoài sân dùng xiaomi, kết nối kém lắm,giờ dùng công tắc cơ thôi, không nâng cấp được. Thay lại phải chờ có thợ bắc thang lên.",
+            "idComment": 498309,
+            "iduser": 24712,
+            "image": [],
+            "username": "vythygiy"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:52:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Dr Thanh Bùi\"] \n\t\t\tChiến tài thì e xem rồi , nhưng em muốn review của người dùng như bạn nó mới thực tế . E cảm ơn bạn nhiều\n\t\t [/QUOTE]\nThế chỉ có thể nói là cái quạt rất mạnh bạn ạ. Ấm nhanh mà mát thì như quạt kể cả bạn không lắp ông thông vào điều hòa ( em thì câu ra phòng ngủ )",
+            "idComment": 498310,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:53:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"joix\"] \n\t\t\tĐiều khiển giọng nói bằng Google Assistant hay Blynk đều cần server trung gian,vì thế ko có kết nối wifi cần có module sim 4G như e nói ở trên,giao tiếp giữa các hub với nhau trong nhà mất wifi thì cũng nghỉ.điều khiển giọng nói chỉ là một phần nhỏ trong smarthome thôi bạn.\n\t\t [/QUOTE]\nThế thì vẫn chẳng local được. Cái KNX 1,5 tỷ kia là không nối mạng vẫn điều khiển được cơ! Vì comment trước bạn chê là hệ thống phụ thuộc vào đường truyền Internet!",
+            "idComment": 498311,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:54:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tThế chỉ có thể nói là cái quạt rất mạnh bạn ạ. Ấm nhanh mà mát thì như quạt kể cả bạn không lắp ông thông vào điều hòa ( em thì câu ra phòng ngủ )\n\t\t [/QUOTE]\nẤm kiểu như điều hóa chế độ nóng à bạn , nhà e đang dùng đèn sưởi nhưng vẫn thấy hơi lạnh lạnh",
+            "idComment": 498312,
+            "iduser": 401,
+            "image": [],
+            "username": "Dr Thanh Bùi"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 13:57:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Dr Thanh Bùi\"] \n\t\t\tẤm kiểu như điều hóa chế độ nóng à bạn , nhà e đang dùng đèn sưởi nhưng vẫn thấy hơi lạnh lạnh\n\t\t [/QUOTE]\nĐúng rồi bạn. Đèn sưởi rát nên trước giờ em ko dùng. Còn đây là không khí cả phòng bị làm nóng nên ấm toàn bạnc. Hôm em lắp để 5 phút ko tắt chảy tướt mồ hôi",
+            "idComment": 498313,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:10:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tNếu đúng là loại này thì nó vuông hơn và không tinh tế bằng con switch 2 bạn nhỉ. Giờ nó ra cả bản 1 2 cũng vuông như thế, em vẫn thích cái loại cũ, tròn tròn hơn. LED báo ở trên trông vẫn tinh tế hơn ở mặt trước.\n\n\n\nbạn nào tháo bọn aqara ra sẽ thấy nó dùng toàn bộ là relay 16A ADW1203HLW của Panasonic, tuy chưa phải ngon nhất là Songchuan nhưng thừa để dùng ở tiêu chuẩn gia đình rồi.\n\n\n\n\n\n[img]https://img.otofun.net/upload/v7/images/4380/4380286-f45b50d525e61e7bdb4f9882bdfde749.png[/img]\n\n\n\n\n\n\n\nhttps://www.otofun.net/attachments/4507540/\n\n\nhttps://www.otofun.net/attachments/4507541/\n [/QUOTE]\nEm cũng giống bạn, thích cái form bản cũ hơn, nó mềm mại hơn. Bản mới còn có cái viền bo, nhìn... lúa vãi!",
+            "idComment": 498314,
+            "iduser": 15118,
+            "image": [
+                "https://img.otofun.net/upload/v7/images/4380/4380286-f45b50d525e61e7bdb4f9882bdfde749.png"
+            ],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:18:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tEm cũng giống bạn, thích cái form bản cũ hơn, nó mềm mại hơn. Bản mới còn có cái viền bo, nhìn... lúa vãi!\n\t\t [/QUOTE]\nNhưng con này cũng có cái dở hơi đấy bạn, dùng lâu nó gãy mất cái lẫy nhựa, mất phản hồi. Của em thì chưa bị nhưng hồi em thử cái demo ở showroom xiaomi Thẩm Quyến thì bị, em ghét cảm ứng nên vẫn cố chấp dùng. Em đã thử cảm ứng ở nhiều nhà bạn bè ( mà đa phần cũng toàn lumi ) thì bị delay và không chính xác 100%. Cái cảm giác bật tắt vẫn mang lại cái sự sướng hơn, gần giống kiểu bàn phím cơ",
+            "idComment": 498315,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:22:00 GMT",
+            "avatar": null,
+            "content": "\nĐúng là smart. Hiện đại quá ạ.",
+            "idComment": 498316,
+            "iduser": 24713,
+            "image": [],
+            "username": "Tung577867"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:23:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tThế thì vẫn chẳng local được. Cái KNX 1,5 tỷ kia là không nối mạng vẫn điều khiển được cơ! Vì comment trước bạn chê là hệ thống phụ thuộc vào đường truyền Internet! :D\n [/QUOTE]\nNgày trước e code mấy cái mạch điều khiển wifi,on/off bằng gsm qua sim điện thoại....thời đấy làm kiếm cơm,đồ thì khó chứ ko sẵn như bây h,bạn nghĩ làm sao để voice control với on/off relay đọc chỉ số nhiệt độ,độ ẩm qua mạng wifi mà ko có server?",
+            "idComment": 498317,
+            "iduser": 2830,
+            "image": [],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:27:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"vythygiy\"] \n\t\t\tTuya được Google hỗ trợ tốt chứ bạn. Em lại thiên về tuya vì tính ổn định phần mềm của nó, không phân biệt server tàu hay quốc tế. Em có 2 cái bóng ngoài sân dùng xiaomi, kết nối kém lắm,giờ dùng công tắc cơ thôi, không nâng cấp được. Thay lại phải chờ có thợ bắc thang lên.\n\t\t [/QUOTE]\nthì đợt đó google bỏ tuya ra khỏi danh sách support các thiết bị sau này nên cho em k nghĩ tới tuya luôn.",
+            "idComment": 498318,
+            "iduser": 24711,
+            "image": [],
+            "username": "baotm"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:29:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tsensor, công tắc, ổ cắm đều kết nối với zigbee gateway hết bạn ạ :D. Sau đó getway với HA kết nối với nhau bằng wifi local. Việc chập chờn wifi là rất khó, sợ nhất wan bị chập chờn thôi bạn. Mà đầu tư đến tầm đó rồi thì tiếc gì 10-20tr đầu tư 1 hệ thống mạng ngon.\n\t\t [/QUOTE]\nCái này của bạn thì ngon rồi,e đã dùng thử và thấy ok.",
+            "idComment": 498319,
+            "iduser": 2830,
+            "image": [],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:34:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tLàm như bạn mất wifi có điều khiển bằng giọng nói được không?\n\t\t [/QUOTE]\nnguyên tắc voice control nào cũng cần bộ mẫu sẵn. nếu bạn bê được bộ ấy về mạng nội bộ và hướng máy chủ voice về đó thì chẳng khác nào google voice cả",
+            "idComment": 498320,
+            "iduser": 24711,
+            "image": [],
+            "username": "baotm"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:36:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tNhưng con này cũng có cái dở hơi đấy bạn, dùng lâu nó gãy mất cái lẫy nhựa, mất phản hồi. Của em thì chưa bị nhưng hồi em thử cái demo ở showroom xiaomi Thẩm Quyến thì bị, em ghét cảm ứng nên vẫn cố chấp dùng. Em đã thử cảm ứng ở nhiều nhà bạn bè ( mà đa phần cũng toàn lumi ) thì bị delay và không chính xác 100%. Cái cảm giác bật tắt vẫn mang lại cái sự sướng hơn, gần giống kiểu bàn phím cơ :D\n [/QUOTE]\nGãy lẫy nhựa là nó không dùng cơm được thôi hay qua app cũng không điều khiển được bạn nhỉ?",
+            "idComment": 498321,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:40:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"baotm\"] \n\t\t\tcái này bạn phải định nghĩa chính xác, mất wifi nghĩa là mất internet từ ISP hay mạng nhà bạn có vấn đề.\n\ngoogle home có tính năng voice, ngoài ra còn rất nhiều voice control.\n\nem đơn cử như hass có thằng rhasspy em từng dùng.\n\nngoài ra nếu bạn chơi đồ apple thì siri cũng đc coi là voice control\n\nnguyên tắc voice control nào cũng cần bộ mẫu sẵn. nếu bạn bê được bộ ấy về mạng nội bộ và hướng máy chủ voice về đó thì chẳng khác nào google voice cả\n\t\t [/QUOTE]\nEm hiểu mà. Câu này em để dấu ? là nhầm đấy, đúng ra là dấu ! cơ.",
+            "idComment": 498322,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:42:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"joix\"] \n\t\t\tbạn ko hiểu ý e rồi,e đâu có ''chê'' bạn :D\n\nVấn đề là bạn chơi smarthome nhưng phụ thuộc hoàn toàn vào  server của các nhà cung cấp sản phẩm,nếu có sự cố kết nối sẽ ko thể hoạt động được.\n\nbạn điều khiển giọng nói qua Google đương nhiên cần internet,nhưng bạn đã tìm hiểu cách voice control khác chưa?\n\nCái này đã gọi chơi,nó mở ra nhiều cái hay,gỡ những nút thắt mà đồ đi mua về ko có được.\n\nNgày trước e code mấy cái mạch điều khiển wifi,on/off bằng gsm qua sim điện thoại....thời đấy làm kiếm cơm,đồ thì khó chứ ko sẵn như bây h,bạn nghĩ làm sao để voice control với on/off relay đọc chỉ số nhiệt độ,độ ẩm qua mạng wifi mà ko có server?\n\t\t [/QUOTE]\nEm cũng bị doạ nhiều, lúc chuyển sang dùng đồ Aqara. Trộm vía chưa thấy bị làm sao. Mà nếu có bị thì nó không auto nữa thôi chứ vẫn dùng tay chân điều khiển được!",
+            "idComment": 498323,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 14:54:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tGãy lẫy nhựa là nó không dùng cơm được thôi hay qua app cũng không điều khiển được bạn nhỉ?\n\t\t [/QUOTE]\nMất sướng thôi bạn, chứ bấm nó vẫn bật tắt bình thường, chỉ là ko còn tiếng tạch tạch.",
+            "idComment": 498324,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 15:01:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tCả 2 bạn chứ đề cao cái voice control chứ đã làm đến tầm automation theo kịch bản rồi thì thật sự chả mấy khi dùng voice đâu, cái nút vật lý cũng ít khi dùng, hầu như phục vụ người già thôi, trẻ nhỏ nó cũng như mình. Chính vì thế khi triển khai nhà em 3 năm nay, chưa bao giờ em để trong đầu cái đó. Gần đây vn mới được dùng voice nên lấy đó làm cái để khè nhau chứ em dùng con xiaopengyou từ cách đây 2 năm đã rất ngon nhưng chả mấy khi dùng.\n\n\n\nMất sướng thôi bạn, chứ bấm nó vẫn bật tắt bình thường, chỉ là ko còn tiếng tạch tạch.\n\t\t [/QUOTE]\ntrong smarthome e thấy có nhiều vấn đề rất sâu và voice control chỉ là 1 phần nhỏ thậm chí là bề nổi của tảng băng.",
+            "idComment": 498325,
+            "iduser": 24711,
+            "image": [],
+            "username": "baotm"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 15:01:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tMất sướng thôi bạn, chứ bấm nó vẫn bật tắt bình thường, chỉ là ko còn tiếng tạch tạch.\n\t\t [/QUOTE]\nNếu thế thì yên tâm rồi. Em thấy đồ bọn nó hoàn thiện khá tốt.",
+            "idComment": 498326,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 15:30:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"baotm\"] \n\t\t\tthì mục đích ban đầu của em khi dùng smarthome là để voice control mà. còn theo kiểu automation của bạn đúng là smarthome đích thực. kết quả của mọi vấn đề được đưa ra bằng cảm biến. đầu tư nhiều về xèn và công sức, như em cũng tính vào dạng amature nửa mùa chứ đã gọi là biết đâu.\n\ntrong smarthome e thấy có nhiều vấn đề rất sâu và voice control chỉ là 1 phần nhỏ thậm chí là bề nổi của tảng băng.\n\t\t [/QUOTE]\nEm cũng nửa mùa mà, không lập trình đâu. Chỉ ngồi config ngay trong mi home. Và em thấy rằng để lên từ đk qua đt hoặc voice control lên automation về tiền chả khác nhau là mấy, mấy cái cảm biến rẻ bèo không muốn nói là quá rẻ. Với em smarthome là bạn có tưởng tượng ra mình sướng được đến đâu hay không thôi. Chứ ném vào tầm 100 là kha khá đủ đồ cho 1 căn nhà tầm 100m2 3 ngủ rồi. Còn nếu để nhận nhà mới, trang bị full cả media thì tầm 200",
+            "idComment": 498327,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 15:54:00 GMT",
+            "avatar": null,
+            "content": "\nTks bác đã chia sẻ. Em đánh dấu đọc sau, dài quá.",
+            "idComment": 498328,
+            "iduser": 6213,
+            "image": [],
+            "username": "haivina"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 16:29:00 GMT",
+            "avatar": null,
+            "content": "\nThanks, bạn chủ tâm huyết chia sẻ. tùy mỗi người mỗi hoàn cánh có thể áp dụng chơi thôi ko nên dèm pha nhau. Em thì chưa chơi nhưng cũng thích.",
+            "idComment": 498329,
+            "iduser": 24714,
+            "image": [],
+            "username": "cmyk77"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 16:42:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tMấy ông bạn em chuyên đi làm nội thất nhìn con công tắc ấy là yêu ngay bạn ạ, trước các ông ấy thi công cho các căn hộ có lumi suốt nhưng đến khi về nhà em chơi mới thốt ra hóa ra trước giờ toàn bị lừa. Smarthome kiểu lumi các ông ấy từng thấy đều là giả cầy =))\n\n\n\nEm cũng nửa mùa mà, không lập trình đâu. Chỉ ngồi config ngay trong mi home. Và em thấy rằng để lên từ đk qua đt hoặc voice control lên automation về tiền chả khác nhau là mấy, mấy cái cảm biến rẻ bèo không muốn nói là quá rẻ. Với em smarthome là bạn có tưởng tượng ra mình sướng được đến đâu hay không thôi. Chứ ném vào tầm 100 là kha khá đủ đồ cho 1 căn nhà tầm 100m2 3 ngủ rồi. Còn nếu để nhận nhà mới, trang bị full cả media thì tầm 200\n\t\t [/QUOTE]\nFull media 200 thì list nó gồm những gì bạn?",
+            "idComment": 498330,
+            "iduser": 4903,
+            "image": [],
+            "username": "tieuphuong1146"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 18:15:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tieuphuong1146\"] \n\t\t\tFull media 200 thì list nó gồm những gì bạn?\n\t\t [/QUOTE]\nEm đoán ý của bạn ấy là tính cả tiền TV, loa đài, media server các kiểu (ko rõ có đúng vậy ko).",
+            "idComment": 498331,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 19:58:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tĐúng rồi bạn. Đèn sưởi rát nên trước giờ em ko dùng. Còn đây là không khí cả phòng bị làm nóng nên ấm toàn bạnc. Hôm em lắp để 5 phút ko tắt chảy tướt mồ hôi\n\t\t [/QUOTE]\nbạn cho e xin ảnh và mã của cái sưởi này nhé. Tks bạn",
+            "idComment": 498332,
+            "iduser": 4302,
+            "image": [],
+            "username": "F.ACURA"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 20:18:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tEm cũng bị doạ nhiều, lúc chuyển sang dùng đồ Aqara. Trộm vía chưa thấy bị làm sao. Mà nếu có bị thì nó không auto nữa thôi chứ vẫn dùng tay chân điều khiển được!\n\t\t [/QUOTE]\nCảm ơn bạn.",
+            "idComment": 498333,
+            "iduser": 4372,
+            "image": [],
+            "username": "Goyave"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 20:21:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tTôi xác định ngay từ đầu: [Cấp 1] Smarthome hẹn giờ tự chạy chỉ là cấp thấp; [Cấp 2] Điều khiển từ xa qua app là cấp trung bình; [Cấp 3] Dùng điều khiển bằng giọng nói kiểu Google Home hay Siri là cấp khá; [Cấp 4] Phải tự động chạy theo các dữ liệu do cảm biến gửi về là thực sự “thông minh”. Với hơn 150 thiết bị smarthome trong nhà, tôi đã cung cấp khá đầy đủ dữ liệu đầu vào để các kịch bản automation tự chạy mà không cần can thiệp. Đẳng cấp cao nhất [5] chắc là dùng trí tuệ nhân tạo AI học theo thói quen thì tôi chưa dám nghĩ đến vì với 6 người 3 thế hệ trong gia đình, thói quen sẽ loạn xạ lên, AI chắc cũng phát khóc. (Lưu ý, cấp cao hơn sẽ gần như luôn luôn có đầy đủ tính năng của các cấp thấp hơn nó).\n\t\t [/QUOTE]\nđọc cấp độ 6 mà áp dụng vào gia đình với nhiều thế hệ thì đúng là AI cũng đến sợ rồi",
+            "idComment": 498334,
+            "iduser": 9452,
+            "image": [],
+            "username": "mrDTH"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 20:39:00 GMT",
+            "avatar": null,
+            "content": "\nChi phí, thời gian hoàn thành khoảng bao nhiêu bạn.",
+            "idComment": 498335,
+            "iduser": 21920,
+            "image": [],
+            "username": "dangvannam"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 20:45:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tEm đoán ý của bạn ấy là tính cả tiền TV, loa đài, media server các kiểu (ko rõ có đúng vậy ko).\n\t\t [/QUOTE]\nChuẩn là nó thêm mỗi cái máy chiếu với mấy thứ lằng nhằng liên quan đến nó như loa lủng các thứ bạn ạ ( cái này em chưa đú được nên chưa quan tâm  ). Cái này là 1 bảng thống kê của bọn tàu chứ còn nhà em, em mua theo kiểu kiến tha lâu đầy tổ, lúc nào vui tay thì đặt 1 mớ, sau rảnh thì lắp lên dần.",
+            "idComment": 498336,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 21:04:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Justforfuntoo\"] \n\t\t\tHay quá!\n\nNhà em cũng đang định lắp 1 hệ thống cho villa ở xa/ cho thuê\n\nKhông biết có công ty nào làm trọn gói, ngon bổ rẻ không\n\t\t [/QUOTE]\ncó bạn ạ.",
+            "idComment": 498337,
+            "iduser": 9452,
+            "image": [],
+            "username": "mrDTH"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 21:17:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\n\n\n\nhttps://www.xiaomiyoupin.com/detail?gid=108319\n\n小米有品是小米旗下精品生活电商平台，也是小米“新零售”战略的重要一环。依托小米生态链体系，延续小米的“爆品”模式，致力于将“小米式的性价比”延伸到更广泛的家居生活领域。\n\n\nwww.xiaomiyoupin.com\n\n\t\t\t\t\twww.xiaomiyoupin.com\n\t\t\t\t\n\n\n\n\n\nNó là con này bạn ạ. Có nhiều con rẻ hơn nhưng em thích cái trò điều chỉnh đc nhiệt độ màu của con này với cả đóng được nắp sưởi\n\n\n\n\n\n\n\nChuẩn là nó thêm mỗi cái máy chiếu với mấy thứ lằng nhằng liên quan đến nó như loa lủng các thứ bạn ạ ( cái này em chưa đú được nên chưa quan tâm :D ). Cái này là 1 bảng thống kê của bọn tàu chứ còn nhà em, em mua theo kiểu kiến tha lâu đầy tổ, lúc nào vui tay thì đặt 1 mớ, sau rảnh thì lắp lên dần.\n\t\t [/QUOTE]\nTks bạn.",
+            "idComment": 498338,
+            "iduser": 4302,
+            "image": [],
+            "username": "F.ACURA"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 21:25:00 GMT",
+            "avatar": null,
+            "content": "\nHay quá, cảm ơn",
+            "idComment": 498339,
+            "iduser": 11887,
+            "image": [],
+            "username": "bomong"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 21:49:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tCái này là cần phải có hứng thú và đam mê với nó. Kiểu dùng Lumi hay 1 hãng VN nào đó thì em thấy (có lẽ) không đạt được. Chi phí thì không hề cao như các bạn nghĩ. Em không cộng tiền lại, nhưng chắc chỉ mất vài đôi lốp xe thôi.\n\t\t [/QUOTE]\nTổng chi phí chia cho m2 căn hộ thì rơi vào khoảng bn/m2 ạ",
+            "idComment": 498340,
+            "iduser": 522,
+            "image": [],
+            "username": "Trần Gia"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 21:58:00 GMT",
+            "avatar": null,
+            "content": "\nCháu đọc của bạn thì chỉ xuýt xoa là không có tiền mua thiết bị thôi bạn ạ \nNhà cháu cũng đang chạy Hass giống bạn nhưng chỉ loanh quanh con Google Home Mini, vài công tắc cảm ứng, androidbox TV, điều hòa, quạt trần, cảm biến đóng mở cửa, đói quá không có tiền mua thêm thiết bị nên giờ quay sang build giao diện để cho lên 1 con tablet hoặc màn hình TFT. Cố gắng kiếm xiền để mua được các thiết bị như bạn để nó phục vụ mình tốt nhất",
+            "idComment": 498341,
+            "iduser": 15162,
+            "image": [],
+            "username": "anh_nvc"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 22:01:00 GMT",
+            "avatar": null,
+            "content": "\nCần xem bảng giá tbi và công. Chắc là cugx ghê rămg",
+            "idComment": 498342,
+            "iduser": 2249,
+            "image": [],
+            "username": "xichlo3banh"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 22:12:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n[b]Phần 2: Smarthome nhà tôi dùng những thiết bị gì?[/b]\n\n\n\nPhần 1 tôi đã mô tả hầu hết những gì sẽ “diễn ra” tự động ở nhà tôi. Nó là kết quả vận hành của hệ thống khoảng hơn 150 thiết bị smarthome. Phần 2 này, tôi sẽ giới thiệu về tính năng của từng loại thiết bị và sơ bộ cách chúng phối hợp với nhau để liên tác ra sao.\n\n\n\nhttps://www.otofun.net/attachments/4507049/​\n\nNgoài lề: Có bạn nhắn tôi là viết về nhà thông minh không nên đưa tên hãng nào vào, vì như thế sẽ không khách quan. Ô hay, tôi cần gì khách quan, tôi có đi bán hàng hay viết báo chung chung đâu. Tôi là người dùng và tôi đang review về đúng cái hệ thống mà tôi đang dùng. Nếu không có thông tin về sản phẩm thật rõ ràng, thì hoá ra tôi chém gió à?\n\n\n\n[b]1. Hạ tầng mạng:[/b]\n\nBộ phát wifi loại tốt là thứ không thể thiếu cho nhà thông minh cao cấp. Tuy rằng không có smarthome chúng ta vẫn phải mua thiết bị phát wifi, nhưng smarthome nó yêu cầu wifi cao hơn 1 chút. Wifi cho smarthome nó không cần nhanh, nhưng nó cần thật ổn định. Dân dã gọi là chạy “trâu bò\" ngày này qua tháng khác không rớt mạng, không lỗi, ổn định đến mức gần như mạng wifi “trong suốt” với cuộc sống của chủ nhà.\n\n\n\nSau 4 lần nâng cấp wifi thì tôi rút ra bài học: Mọi con đường đều dẫn đến mesh. Các bạn có thể tìm hiểu thêm mesh wifi là gì, rất dễ hiểu. Đại khái nó chịu tải được hàng trăm thiết bị, không rớt mạng khi di chuyển trong nhà, phạm vi phủ sóng rộng... và lì lợm.\n\n\n\nhttps://www.otofun.net/attachments/4507052/​\n\nVì vậy, sớm muộn gì nếu muốn đầu tư smarthome nghiêm túc, bạn cũng cần một mạng wifi ổn định. Tuy nhiên, nếu mới bắt đầu, chưa có đến 30 thiết bị thì cứ kệ nó đi. Sau này, hệ thống nó phập phù, suốt ngày các cảm biến báo “offline” là tự biết ngay cần nâng cấp ấy mà. Lúc đó đừng nâng cấp như tôi “một lần không tốn, bốn lần không xong”. Đến giờ tôi vẫn đang vứt xó cái bạnc Extender giá 2,7 triệu.\n\n\n\nHiện tôi đang dùng Netgear Orbi RBK50 và cảm thấy rất... chán vì không có gì để làm với nó cả. Nó cứ âm thầm chạy quanh năm suốt tháng, chẳng có sự cố gì để mà nhớ đến nó. Trước đây dùng mấy router wifi hãng khác (tôi không nhắc tên để tránh sa đà tranh cãi) thì vài ngày lại phải đăng nhập để đổi kênh, rồi thì khởi động lại hoặc là gì đó. Orbi RBK50 chỉ với 1 bạnc router và 1 bạnc vệ tinh, nó đã phủ kín căn hộ, ra đến tận sảnh thang máy rồi.\n\n\n\nhttps://www.otofun.net/attachments/4507053/​\n\nMột số thiết bị đặc biệt như máy chủ dữ liệu NAS, Tivi, “máy chủ” chạy smarthome, camera... thì rất nên có dây mạng LAN cắm vào. Dùng wifi thì cũng vẫn được nhưng tất cả các hệ thống “không dây” đều không thể ổn định và nhiều tính năng bằng “có dây” được đâu - Đặc biệt là khi hàng trăm thiết bị nó gây nhiễu sóng lẫn nhau trong không gian chật hẹp của 1 căn phòng.\n\n\n\n[b]2. Hạ tầng đường cấp điện:[/b]\n\nĐường cấp điện quan trọng nhất là cấp cho các công tắc. Lý tưởng là khi làm nhà đã tính cho smarthome và tất cả các công tắc đều có thêm 1 dây trung tính (còn gọi là dây N, dây mát). Lý do là các công tắc smarthome nó cũng là 1 thiết bị cần nguồn điện nuôi nó, nên nói dân dã là nó cần có cả dòng điện “dương” và “âm”. Công tắc thì 100% phải có cực dương sẵn rồi.\n\n\n\nhttps://www.otofun.net/attachments/4507056/\n\n\n[i]Công tắc không cần N, phía sau chỉ có L, L1, L2[/i]​\n\nTuy nhiên, gần đây có nhiều loại công tắc “không cần N”. Nguyên lý sâu xa thì tôi không trình bày, chỉ hiểu nôm na là nó không cần dây mát nữa. Như vậy có nghĩa chỗ nào có công tắc thông thường thì bây giờ đều có thể thay bằng công tắc thông minh được.\n\n\n\nKinh nghiệm xương máu là nếu có thể thì tất cả các tủ (quần áo, tủ sách, trang trí, tủ bếp...) đều nên có đường cấp điện vào đó. Có rồi thì sau này nếu cần sẽ có thể dễ dàng lắp thêm bạnc wifi mở rộng vùng phủ sóng, hay là cấp nguồn cho cái adapter của bạnc điều khiển từ xa rất kín đáo. Nếu đi cả dây mạng LAN vào chờ thì không còn gì bằng. Đừng nghĩ như vậy là quá thừa, tin tôi đi, dây CAT5e có mấy ngàn VND/1m dài thôi.\n\n\n\n[b]3. Các thiết bị điện gia dụng phù hợp:[/b]\n\nCó nhiều loại thiết bị mà cho dù nhà bạn không smarthome thì bạn vẫn phải mua, nhưng nếu mua mới thì kiểu gì cũng vẫn nên chọn những thiết bị có điều khiển từ xa (sóng hồng ngoại hoặc sóng RF, wifi, zigbee).\n\n\n\nQuạt là một ví dụ. Hiếm có loại quạt nào đời mới bây giờ mà không có remote hồng ngoại. Nếu mua loại quạt không có điều khiển từ xa, chúng ta chỉ có thể ra lệnh ON/OFF nó &amp; hẹn giờ bật tắt, mà không thể can thiệp sâu như tăng giảm tốc độ gió hoặc chuyển hướng.\n\n\n\nhttps://www.otofun.net/attachments/4507062/​\n\nTôi dùng quạt treo tường KDK, TV OLED LG WebOS, máy giặt LG, máy rửa bát Bosch, lò vi sóng và nướng Halefe, quạt hút mùi Halefe, điều hoà Carrier 2 chiều loại thông thường (không phải điều hoà trung tâm, cũng không phải âm trần nối ống gió vì không đủ không gian để lắp), bóng đèn Phillips loại bình thường, motor kéo rèm AOK, robot hút bụi Roborock S5. Các thiết bị này được mua trước cả khi tôi nghĩ đến triển khai smarthome nên sau này có những cái phải dùng mẹo để quản lý được nó. Tôi cũng chia sẻ luôn, không cần thiết phải mua thiết bị gia dụng có sẵn tính năng smarthome đâu, vì rất khó để trang bị nguyên 1 ngôi nhà thông minh của cùng 1 hãng.\n\n\n\nĐiều hoà thì 100% phải có remote rồi. TV cũng vậy. Tóm lại là đồ gia dụng loại tích hợp smart luôn thì tốt, còn không có thì chỉ cần có remote là ngon rồi. Kể cả không có remote thì kiểu gì cũng sẽ vẫn ra lệnh BẬT/TẮT được nó, cũng như có thể hẹn giờ cho hệ thống smarthome làm điều đó.\n\n\n\nNgoài ra, nếu muốn smarthome kéo rèm tự động thì rèm phải có motor. Điều này là hiển nhiên vì chẳng có loại sóng điện từ nào có thể kéo được nguyên cái rèm vải thay cho tay người cả. Hoặc muốn lọc không khí thì phải có máy lọc không khí, muốn tự hút ẩm phải có máy hút ẩm, muốn lau nhà phải mua robot...vv.\n\n\n\n[b]4. Các công tắc thông minh:[/b] 250K-500K-800K/cái\n\nCông tắc thông minh nhà tôi có 2 loại. Loại 1 là các công tắc điều khiển trực tiếp, tức là đường dây điện đi qua công tắc đó để đến thiết bị phụ tải (bóng đèn chẳng hạn). Do đế âm tường các công tắc nhà tôi dùng chuẩn đế vuông EU, vì vậy tôi chọn hệ công tắc Aqara. Đây là dòng sản phẩm tôi đánh giá cao, thực sự rất tốt. Tôi cảm thấy thật may mắn khi đã ngẫu nhiên chọn sử dụng đế vuông ngay từ lúc hoàn thiện căn hộ, khi mà tôi còn chưa biết gì về hệ công tắc Aqara này.\n\n\n\nNgoài lề: Để cho dễ liên tưởng thì nếu coi hệ sinh thái rất đa dạng và chất lượng của Xiaomi tương tự như Toyota thì Aqara chính là thương hiệu hạng sang Lexus. Đừng tranh luận, khi so sánh thì tự nhiên nó đã là như vậy rồi.\n\n\n\nhttps://www.otofun.net/attachments/4507065/​\n\nLoại 1 nhà tôi dùng là công tắc âm tường thông minh Aqara Zigbee giá khoảng 500K/1 cái (nếu đế công tắc nhà bạn không có “dây N” thì bạn sẽ phải mua loại đắt hơn nữa, tính năng thì y hệt). Chữ “âm tường” hàm ý nó là loại 1, có dây điện đi vào rồi đi qua. Nên dùng công tắc giao tiếp với nhau bằng sóng zigbee, không nên dùng công tắc wifi.\n\n\n\nLý do là hệ zigbee luôn cần bạnc trung tâm (còn gọi hub hoặc gateway) nhưng chính vì có bạnc trung tâm nên nó luôn kết nối ổn định và đồng thời lưu giữ được rất nhiều thông tin. Kiểu như: hiện nay, ngày hôm nay, tuần này, tháng này, cái đèn gắn vào công tắc đó đã &amp; đang tiêu thụ hết bao nhiêu W điện.\n\n\n\nNgoài ra, hệ zigbee còn tự mở rộng vùng phủ sóng theo mô hình: Công tắc A gần B, B gần C, C gần D... thì dù A và D có xa nhau nó vẫn bắc cầu giao tiếp được với nhau một cách trơn tru.\n\n\n\nhttps://www.otofun.net/attachments/4507066/​\n\nTrước đây, Aqara chỉ có công tắc 2 phím. Nhưng vừa rồi, họ đã ra thêm các dòng công tắc 3 phím có tích hợp đèn LED báo trạng thái đang ON hay OFF. Thực ra với tôi khi đã smarthome rồi, báo trạng thái trên công tắc không còn quan trọng nữa.\n\n\n\nLoại 2 là công tắc không dây, chạy bằng pin, hình thức y hệt công tắc loại 1, được sinh ra chỉ để điều khiển cái công tắc loại 1. Từ đó tạo ra vô số các công tắc đảo chiều, công tắc dán lên kính, công tắc kịch bản (nhấn 1 nút mà tắt hay bật cả vài chục thiết bị đồng thời).\n\n\n\nhttps://www.otofun.net/attachments/4507067/​\n\nCó thể lập trình kiểu như này: Khi bấm phím LEFT của một cái công tắc loại 2, thì nó sẽ “tắt” phím nào đó của công tắc loại 1, hoặc “bật” vài phím nào đó của vài cái công tắc loại 1. Tất cả tuỳ thuộc trí tưởng tượng của bạn.\n\n\n\nNgạc nhiên hơn là công tắc loại 1 cũng có thể được hô “biến” thành công tắc loại 2. Lúc đó chỉ là hơi... lãng phí tiền thôi, còn thì tính năng hoạt động thì gần gần y hệt (do loại 1 đắt đâu như gần gấp đôi loại 2). Thị trường gọi loại 2 là công tắc “dán tường” không dây, giá đâu chừng 250-300K/cái.\n\n\n\n[b]5. Ổ cắm:[/b] 250K/cái\n\nỔ cắm này là ổ cắm rời, để làm trung gian chứ không phải ổ cắm chôn luôn trong tường cùng với dây điện. Nó sẽ “chen” vào giữa ổ cắm chôn trong tường và phích cắm thiết bị, để chặn dòng điện lại, cấp điện theo lệnh cũng như thực hiện việc đo đếm dòng điện đi qua nó.\n\n\n\nTương tự như công tắc, hãy chọn loại ổ cắm zigbee dù nó đắt hơn một chút. Nó cho phép biết công suất dòng điện đang chạy qua nó, từ đó gián tiếp biết trạng thái hoạt động của thiết bị.\n\n\n\nhttps://www.otofun.net/attachments/4507068/​\n\nVí dụ, nếu ổ cắm của cái quạt đang tiêu thụ loanh quanh 50W thì rõ ràng là quạt đang chạy rồi, vì khi standby nó chỉ có 2-3W thôi. Đây cũng là nguyên tắc để máy giặt bình thường cũng “báo” được cho hệ thống smarthome rằng nó đã giặt xong.\n\n\n\nVà nếu cắm cái ổ cắm này vào TV, thì bạn toàn quyền kiểm soát TV mà không cái điều khiển từ xa nào chống cự được: Tắt cưỡng bức, khung giờ cấm xem TV, nếu không có người xem thì tắt...vv.\n\n\n\nHay ở chỗ, cái ổ cắm này không những có thể tự nó hẹn giờ bật tắt (cấp hay ngắt nguồn đi qua nó) mà nó còn có thể nhận lệnh từ cái công tắc loại 2 nêu trên, cũng như nhận lệnh từ tất cả các cảm biến mô tả bên dưới đây (thông qua hệ thống trung tâm). Như vậy, việc ứng dụng nó cực kỳ linh hoạt và đa dạng.\n\n\n\n[b]6. Các cảm biến chuyển động:[/b] 200K-300K/cái\n\nĐây là các cảm biến báo có sự xuất hiện của chuyển động như người, vật nuôi, đồ đạc di chuyển... thậm chí quần áo phơi mà đung đưa thì nó cũng báo. Nó phân biệt được khi nào có chuyển động (dĩ nhiên rồi), cũng như đếm được đã không còn chuyển động được mấy phút rồi.\n\n\n\nhttps://www.otofun.net/attachments/4507069/​\n\nNhưng cũng cần lưu ý, nếu người đứng im như tượng thì nó sẽ nghĩ là người đã đi khỏi chỗ đó rồi. Đó là nhược điểm của cảm biến thụ động PIR. Bạn có thể mua loại “cảm biến hiện diện” của Stenel giá đâu đó 7-8 triệu/ 1 cái, nó biết chính xác trong phòng còn có người hay không, cho dù có nằm im giả chết.\n\n\n\nhttps://www.otofun.net/attachments/4507070/​\n\nLoại cảm biến của Xiaomi thì rẻ, gần 200K/cái, đủ rẻ để có thể mua 3-4 cái cho mỗi phòng. Còn loại của Aqara thì cao cấp hơn chút vì có tích hợp cảm biến ánh sáng. Tức là nó có thể thực hiện được yêu cầu như sau: Nếu có người đi vào mà khu vực đó tối thì mới bật đèn (còn nếu đang sáng rồi thì thôi). Aqara cũng có thêm cái chân đế để khi lắp có thể xoay ngả nghiêng, sao cho góc quét của cảm biến được hiệu quả nhất.\n\n\n\nhttps://www.otofun.net/attachments/4507072/\n\n\n[i]Chân đế cảm biến chuyển động[/i]​\n\nTại sao cần đến 3-4 cái? Các nhà “smarthome học” đều đau đầu nhất cái vụ đang ngồi toilet thì đèn nó tắt vì ngồi im quá. Vì vậy, nhiều cảm biến, quét từ chân đến đầu, sẽ giảm nguy cơ sai sót hơn. Kể cả lỡ bị tắt thì chỉ cần lắc nhẹ đầu gối một cái là nó bật lại ngay sau 1 giây. (Tất nhiên nếu để thời gian chờ lên 5 phút hoặc chịu khó khéo léo lập kịch bản cho nó kết hợp với “cảm biến tách cửa” thì đỡ được đến 98% vụ này).\n\n\n\nHoặc khi gắn trong phòng ngủ, để biết có người đang thực sự đi ra/vào phòng ngủ hay không, sẽ cần riêng 1 cảm biến chiếu thẳng từ trên xuống, ở sát tường và ngay sau cánh cửa, chỉ quét trong phạm vi “mỏng” tầm 20-30cm. Bởi vì nếu chỉ có 1 cảm biến, gắn trong góc phòng quay ra cửa, nó sẽ luôn hiểu lầm người đang đi đến gần cửa là người đó đã ở trong phòng rồi (trong khi thực ra người đó còn cách cửa 1-2m và chưa chắc đã đi vào phòng).\n\n\n\n[b]7. Các cảm biến nhiệt ẩm:[/b] 250K-300K\n\nCảm biến này nên dùng hàng của Aqara hoặc Xiaomi. Nó rất gọn và đủ nhỏ để nhét ở bất cứ đâu mình muốn. Công dụng của nó là liên tục đo nhiệt độ, độ ẩm và gửi thông tin đó về hệ thống trung tâm. Thế thôi!\n\n\n\nhttps://www.otofun.net/attachments/4507073/\n\n\n[i]Cảm biến nhiệt ẩm Aqara[/i]​\n\nTuy nhiên, chọn chỗ đặt nó cũng cần phải suy nghĩ kỹ sao cho không bị ảnh hưởng bởi các nguồn nhiệt trong phòng. Tôi đã thấy có bạn để trên nóc... TV. Thế là khi bật TV nó sẽ báo sai nhiệt độ phòng (do vùng bên trên TV bị toả nhiệt rất nóng).\n\n\n\nNgược lại, để cảm biến nhiệt ẩm quá sát vách kính cũng không phản ánh trung thực nhiệt độ, độ ẩm trung bình của phòng. Bởi vì vào mùa đông lúc nào khu vực đó cũng lạnh hơn 1-2 độ và mùa hè thì nóng hơn, sai số đủ để kịch bản hoạt động không còn ngon lành nữa.\n\n\n\nhttps://www.otofun.net/attachments/4507074/\n\n\n[i]Cảm biến nhiệt ẩm Xiaomi[/i]​\n\nCàng không được để nó quá gần cửa gió điều hoà vì nó sẽ nhận hơi lạnh và báo nhiệt độ thấp trong khi phòng vẫn rất nóng. Có thể để gần quạt vì gió trong phòng kín không ảnh hưởng đáng kể.\n\n\n\n[b]8. Cảm biến tách cửa:[/b] 180K-250K\n\nCảm biến này gồm 2 mảnh: 1 mảnh bằng đốt ngón tay cái và 1 mảnh bằng đầu đũa. Hai mảnh này mà chạm vào nhau (hoặc cách nhau tầm 1cm) thì nó báo trạng thái về trung tâm là “đóng” và ngược lại.\n\n\n\nhttps://www.otofun.net/attachments/4507076/​\n\nHai mảnh này luôn được gắn theo cách: 1 mảnh lên cánh cửa, còn 1 mảnh lên khuôn cửa. Vậy là khi nào cửa mở, 2 mảnh tách rời nhau, nó sẽ báo về hệ thống trung tâm ngay. Vì nó rất bé và nhẹ nên có thể gắn khắp nơi. Và nếu khéo khai thác thì nó rất... đa dụng: cảm biến cửa mà không chỉ gắn cửa.\n\n\n\nVí dụ, với điều hoà loại bình thường, gắn vào cánh gió sẽ biết được là điều hoà đang bật hay đang tắt. Chính xác đến 99,9% vì nếu cánh gió điều hoà bị “há” ra do mất điện thì lúc đó hệ thống wifi và smarthome cũng đã hi sinh mất rồi. Tương tự có thể gắn vào 2 cánh rèm để biết là rèm đang đóng hay đang mở.\n\n\n\nhttps://www.otofun.net/attachments/4507077/\n\n\n[i]Các đồ của Xiaomi luôn bầu bĩnh, trái ngược với Aqara nam tính hơn[/i]​\n\nCảm biến tách cửa cũng như vài loại cảm biến khác, chính là linh hồn của smarthome. Vận dụng khéo léo nó, để ra mệnh lệnh điều khiển cho hệ thống trung tâm sẽ phụ thuộc rất nhiều vào kinh nghiệm và trí tưởng tượng của bạn.\n\n\n\nNhư trong phần 1 tôi đã ví dụ, nếu chỉ dùng cảm biến chuyển động thì cái đèn chỗ phơi quần áo sẽ bị “tầu hoả nhập ma” vì quần áo nó luôn đung đưa, nó bật tắt suốt đêm. Vậy, cần một kịch bản cho cảm biến cửa để sau khi đã đóng cửa 5 phút mà không có chuyển động thì lập tức ra lệnh tắt hẳn luôn cái chế độ báo chuyển động ngoài đó đi, đèn sẽ không bị tự kích hoạt nữa. Khi nào mở cửa thì lại kích hoạt trở lại để cảm biến nó hoạt động như mình mong muốn.\n\n\n\n[b]9. Cảm biến ánh sáng:[/b]\n\nSao không dùng cảm biến chuyển động Aqara có tích hợp cảm biến ánh sáng? Đó là vì cảm biến chuyển động Aqara chỉ báo ánh sáng khi có chuyển động. Nếu trong nhà thì ok, nhưng quay ra ngoài trời để đo nắng thì 55 phút nó mới báo 1 lần.\n\n\n\nVậy có nguy cơ đồ đạc có thể bị phơi nắng tới 54 phút nó mới đóng rèm (vì ngoài trời làm gì có người đi lại hay có... chim bay qua liên tục đâu, cho nên để tiết kiệm pin thì 55 phút nó mới báo 1 lần vì nó chả thấy có gì mới cần phải cập nhật cả).\n\n\n\nhttps://www.otofun.net/attachments/4507095/​\n\nĐó là lý do cần mua cảm biến ánh sáng Aqara chuyên dụng gọi là Photonsensor. Cảm biến này sẽ liên tục cập nhật chính xác cường độ sáng chiếu vào nó. Đây là dữ liệu quan trọng để hệ thống căn cứ vào đó, sẽ ra lệnh đóng hoặc mở rèm.\n\n\n\n[b]10. Cảm biến trồng cây:[/b] 300K\n\nCảm biến này (còn gọi là thiết bị đo dinh dưỡng và độ ẩm cho cây) có tên Xiaomi Flower Moniter. Khi cắm xuống đất trong chậu cây, nó sẽ liên tục thông báo về hệ thống các thông số độ ẩm của đất, nhiệt độ, ánh sáng và độ dinh dưỡng của đất (?) để nhìn vào đó chúng ta biết đã đến lúc cần tưới thêm hay hong khô, cần phơi nắng hay đưa cây vào nhà, cần bón phân chưa...vv.\n\n\n\nhttps://www.otofun.net/attachments/4507102/​\n\n[b]11. Cảm biến báo khói:[/b] 600K\n\nCảm biến này sẽ phát tín hiệu báo động nếu có khói chui vào nó: Tự nó kêu inh tai &amp; nó cũng gửi thông báo về cả trung tâm nữa. Tuy ghi là báo khói Xiaomi nhưng nó chính là của Honeywell đấy, chỉ là được Xiaomi tích hợp vào hệ thống trung tâm để dễ dàng làm việc liên tác với nhau thôi. Ngoài ra, Honeywell còn có cảm biến khí ga cho bạn nào vẫn đun nấu bằng ga.\n\n\n\nhttps://www.otofun.net/attachments/4507104/​\n\n[b]12. Cảm biến nước tràn:[/b] 300K\n\nCảm biến này bé như cái bánh dày mini, đường kính tầm 3cm, có 2 điện cực ở dưới “bụng”. Khi có nước tràn, tức là 2 điện cực này được “nối” vào nhau và nó sẽ gửi lệnh báo động về trung tâm.\n\n\n\nhttps://www.otofun.net/attachments/4507106/​\n\nKhông như cảm biến báo khói có thể báo động “một mình” không cần bạnc trung tâm, khi bị ướt thì cảm biến nước tràn chỉ đơn giản là gửi lệnh về thông báo “bụng tôi bị ướt” thôi, còn trung tâm sẽ quyết định tất cả các phần sau đó: báo động như thế nào, báo cho những đâu, còi hay đèn, hú hay hét...vv.\n\n\n\n[b]13. Thiết bị điều khiển từ xa:[/b] 250K-400K-600K\n\nNếu như “đầu vào” của hệ thống smarthome là các cảm biến đã thông báo cho hệ thống chính xác tất cả những gì đang diễn ra, thì “đầu ra” chính là các thiết bị điều khiển. Nếu không có thiết bị điều khiển thì chả có ý nghĩa gì của việc “tự động hoàn toàn” nữa.\n\n\n\nhttps://www.otofun.net/attachments/4507140/​\n\nĐiều khiển từ xa hồng ngoại Xiaomi (400K) sẽ phát lệnh điều khiển các thiết bị kiểu như quạt, TV, điều hoà... dựa trên kịch bản mà bạn xây dựng. Ví dụ, nhiệt độ xuống dưới 25 độ thì bật điều hoà ở mức 27 độ. Hoặc cửa sổ mở ra quá 1 phút thì phát lệnh tắt điều hoà nếu thấy điều hoà đang bật chẳng hạn. Rất thú vị là bộ điều khiển IR này hoạt động hoàn hảo với Siri của Apple (trên cả iPhone lẫn loa Homepod).\n\n\n\nhttps://www.otofun.net/attachments/4507142/​\n\nĐiều khiển từ xa hồng ngoại Broadlink Mini RM3 (250K) hoặc điều khiển từ xa sóng RF Broadlink Pro (600K) có công dụng cũng y hệt như nêu trên, nhưng nó hoạt động rất tốt với Google Home và Home Assistant. Lưu ý, sóng RF thường dùng cho rèm cửa, giàn phơi thông minh...vv.\n\n\n\nhttps://www.otofun.net/attachments/4507143/\n\n\n[i]Broadlink RM Pro[/i]​\n\nVà để điều khiển các thiết bị RF thì chỉ dùng 1 cái là đủ vì nó xuyên được qua tường. Không như điều khiển hồng ngoại, buộc phải “nhìn thấy” thiết bị cần điều khiển nên có khi 1 phòng cần tới 2-3 cái IR remote.\n\n\n\n[b]14. Loa Google Home Mini:[/b] 500K\n\nNếu hệ thống smarthome chỉ tự động làm theo cảm biến thì cũng có những hạn chế nhất định vì không cảm biến nào đủ sức dự trù mọi tình huống trên đời, kể cả mong muốn bất chợt của chủ nhà.\n\n\n\nDo đó, cần có 1 phương tiện để chủ nhà ra lệnh (các lệnh bất chợt) và không gì tự nhiên hơn là ra lệnh bằng giọng nói. Các loa Google sinh ra để làm việc đó là chủ yếu. Vừa cởi áo vừa nói “close my room curtain” sẽ nhanh và chuyên nghiệp hơn nhiều so với việc đi tìm cái remote đóng rèm, hay là mở điện thoại ra, tìm app rồi mở app tìm phím bấm, bấm cái nút ra lệnh đóng rèm.\n\n\n\nhttps://www.otofun.net/attachments/4507144/​\n\nNgoài ra, loa Google này còn là kênh thông báo phản hồi của hệ thống. Ví dụ, kịch bản là trời nắng thì đóng rèm. Vậy thì khi đóng rèm, phải thông báo 1 câu kiểu như “Rèm đang được đóng lại vì trời nắng” chứ không thì cảm giác nó rất... tuỳ tiện.\n\n\n\nHãy cố gắng trang bị ít nhất 1 phòng có 1 loa này. Hãy thử đứng tại tất cả mọi ngóc ngách trong nhà và ra lệnh thật tự nhiên xem các loa đã nhận lệnh trơn tru chưa. Nếu chưa thì mua thêm loa, cắm bổ sung vào góc đó. Như nhà tôi, ngay cả khu wc cũng được trang bị đầy đủ. Đó là lý do tôi giới thiệu Google Home Mini chứ không phải Google Home.\n\n\n\n[b]15. Bộ điều khiển trung tâm:[/b] 500K\n\nTất cả các cảm biến, công tắc, ổ cắm, remote... zigbee của Aqara hay Xiaomi nêu trên đều cần gửi và nhận dữ liệu thông qua một bộ điều khiển trung tâm còn gọi là gateway hay là hub.\n\n\n\nhttps://www.otofun.net/attachments/4507146/\n\n\n[i]Aqara Gateway có thể cắm thẳng vào ổ cắm nên rất gọn[/i]​\n\nBộ này đóng vai trò như một cái “máy chủ” mini để thu tín hiệu, gửi lệnh thực thi đến các thiết bị của hãng Aqara và Xiaomi. Khi nó lỗi (hỏng, mất wifi) thì hệ thống gần như tê liệt ngay lập tức.\n\n\n\n[b]16. “Máy chủ” smarthome:[/b] 1.500K\n\nNếu như bạnc gateway của Xiaomi để điều khiển các thiết bị của Aqara và Xiaomi thì còn rất nhiều thiết bị khác (Broadlink, Google Home...vv) cần một “máy chủ” khác để quản lý.\n\n\n\n“Máy chủ” này có tên Raspberry Pi và chỉ bằng bao thuốc lá. Vậy nên mới để trong ngoặc kép chữ “máy chủ”. Đây chính là bộ não của các hệ thống smarthome mà chủ nhân phải tự xây dựng, tự lập trình, tự viết giao diện. Nghe đã hãi rồi. Nhưng đừng ngại. Không có việc gì khó, không làm được thì... đi xin!\n\n\n\nhttps://www.otofun.net/attachments/4507149/\n\n\n[i]Đây là một mẫu vỏ của Pi[/i]​\n\nRaspberry Pi dùng để cài đặt hệ thống smarthome nguồn mở có tên Home Assistant hay còn gọi tắt là hass, hassio...vv. Rất hay là máy chủ hass này có thể điều khiển gần như tất cả đám Aqara và Xiaomi luôn (nếu chúng ta muốn và thường là sẽ muốn).\n\n\n\nVà đến đây, cài xong hass rồi thì năng lực của nó đối với việc điều khiển các thiết bị smarthome trong một ngôi nhà thông thường gần như là vô biên. Giới hạn các tính năng của smarthome lúc này, có lẽ chỉ phụ thuộc vào trí tưởng tượng và khả năng... lập trình hoặc khả năng đi xin code của bạn.\n\n\n\nTôi cũng phải đi hỏi rất rất nhiều chuyên gia, lập trình viên trong và ngoài nước để có được bộ code như ngày hôm nay. Có những đêm, cùng ngồi sửa code và test với các kỹ sư smarthome đến 2-3h sáng, chỉ để hoàn thiện 1 tính năng nào đó một cách... thật hoàn hảo.\n\n\n\n[b]17. Những thứ khác nữa:[/b]\n\nĐiều cần nhất có lẽ là một chút tiếng Anh. Bạn đừng quá chờ đợi Google hỗ trợ đầy đủ Tiếng Việt cho Google Home hay Assistant, bởi vì kiểu gì thì quá trình cài đặt, cấu hình, tinh chỉnh... bạn cũng phải biết chút tiếng Anh. Chưa kể lúc cần tìm sự trợ giúp từ các trang web quốc tế (vốn đầy rẫy chuyên gia với các tình huống mắc mớ, lỗi lầm đã được họ giải quyết ngon lành).\n\n\n\nHơn nữa, ra lệnh bằng tiếng Anh cũng sẽ đồng bộ với việc đặt tên thiết bị, tên phòng bằng tiếng Anh. Các câu lệnh smarthome thường khá đơn giản, kiểu như “turn on my room fan” hoặc “turn off living room TV”. Không qua khó để nhớ. Cấu trúc câu lệnh sẽ luôn là [mệnh lệnh cần làm] + [địa chỉ phòng] + [thiết bị cần nhận lệnh] + [thông tin bổ sung thêm nếu cần]. Ví vụ [turn on] + [baby room] + [26].\n\n\n\nCuối cùng là lòng kiên nhẫn và sự đam mê. Kiên nhẫn, kiên nhẫn và kiên nhẫn. Kiên nhẫn rồi thì sẽ dần dần cảm thấy đam mê vì làm chủ được những điều kỳ diệu... như trong phim. Hãy bắt đầu làm smarthome bằng 1 cái hub, 1 cái remote, rồi tuần sau thêm 1 cái công tắc, rồi thêm 1 cái cảm biến cửa nữa... rồi hoàn thiện dần. Dục tốc bất đạt!\n\n\n\n***​[b]Phần 2 này đơn giản là tôi mô tả tính năng, giá thành của từng loại thiết bị. Đồng thời sơ bộ giới thiệu để các bạn hình dung việc chúng sẽ phối hợp với nhau hoạt động liên tác ra sao. Nhưng nếu chỉ dừng lại ở đây thì chưa thể thành smarthome được, bởi để mua được các cảm biến, thiết bị nêu trên là điều cực kỳ dễ dàng (giá nó quá rẻ).[/b]\n\n\n\nCho nên có rất nhiều người mua bộ smarthome về rồi... bán thanh lý. Từ những bộ của Xiaomi đến Broadlink rồi Raspberry Pi, chưa kể hàng chục nhãn hàng smarthome khác được rao bán 2nd rất nhiều. Đó là vì người mua chưa có sự chuẩn bị đúng mức, chưa biết cách để cho các thiết bị đó hoạt động hết khả năng, nên thấy chán và bỏ.\n\n\n\nVậy cần làm như thế nào? Điều đó sẽ được mô tả dần dần ở phần 3: Cấu hình, lập trình, tinh chỉnh và vận hành smarthome! Phần 3 tôi dự báo sẽ là phần hết sức nhức đầu và dài dòng, khó hiểu.\n\t\t [/QUOTE]\nP/S: có bạn nào đánh giá giúp Google Nest Uwifi và Netgear Orbi của bạn chủ với ạ",
+            "idComment": 498343,
+            "iduser": 24715,
+            "image": [],
+            "username": "Sweethome"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 22:30:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Sweethome\"] \n\t\t\tMột sự ngạc nhiên không hề nhẹ, mình đoán được tương đối lựa chọn của anh ấy. Muốn rẻ phải dùng đồ tàu. Không muốn thời cũng phải có niềm tin vào những em như xiaomi vậy, chỉ cần chuyển sang smartthing Samsung thôi giá lại lên giời ngay, hoặc là giá một đằng chất lượng một kiểu\n\nP/S: có bạn nào đánh giá giúp Google Nest Uwifi và Netgear Orbi của bạn chủ với ạ\n\t\t [/QUOTE]\nCái smartthings của samsung em thấy rất vô dụng vì ko có hệ sinh thái cũng như cộng đồng hỗ trợ.",
+            "idComment": 498344,
+            "iduser": 6040,
+            "image": [],
+            "username": "khanhtx8"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 22:32:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tCả 2 bạn chứ đề cao cái voice control chứ đã làm đến tầm automation theo kịch bản rồi thì thật sự chả mấy khi dùng voice đâu, cái nút vật lý cũng ít khi dùng, hầu như phục vụ người già thôi, trẻ nhỏ nó cũng như mình. Chính vì thế khi triển khai nhà em 3 năm nay, chưa bao giờ em để trong đầu cái đó. Gần đây vn mới được dùng voice nên lấy đó làm cái để khè nhau chứ em dùng con xiaopengyou từ cách đây 2 năm đã rất ngon nhưng chả mấy khi dùng\n\t\t [/QUOTE]\nHiện tại e ko hứng thú với smarthome kiểu này lắm,e đang nghịch một thứ ''khoai'' hơn, ''thị giác máy'' (Computer vision) nhận diện và giám sát chuyển động với imageAI, hy vọng sẽ có smarthome ''thông minh'' hơn.",
+            "idComment": 498345,
+            "iduser": 2830,
+            "image": [],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 22:35:00 GMT",
+            "avatar": null,
+            "content": "\nbạn cho biết thông số về mặt bằng nhà bạn đc chứ ạ ?",
+            "idComment": 498346,
+            "iduser": 2933,
+            "image": [],
+            "username": "Glenfarclas"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 22:45:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"khanhtx8\"] \n\t\t\tÝ bạn là cần 1 con switch $40 $60 chỉ vẫn để giải quyết 1 vấn đề đó =))\n\n\n\nCái smartthings của samsung em thấy rất vô dụng vì ko có hệ sinh thái cũng như cộng đồng hỗ trợ.\n\t\t [/QUOTE]\nEm muốn hỏi về 2 cái mess wifi đó nó hơn kém nhau ntn. Bởi, nếu cái google nest wifi nó cũng tốt thì em sẽ chọn Google",
+            "idComment": 498347,
+            "iduser": 24715,
+            "image": [],
+            "username": "Sweethome"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 22:49:00 GMT",
+            "avatar": null,
+            "content": "\nThank bạn \nBài viết rất tâm huyết",
+            "idComment": 498348,
+            "iduser": 4474,
+            "image": [],
+            "username": "vieteuro"
+        },
+        {
+            "actionAt": "Sun, 05 Apr 2020 23:16:00 GMT",
+            "avatar": null,
+            "content": "\nSmart home  thì phải giúp ng sử dụng dễ dàng tuỳ biến, ngoài ra \" đòi hỏi phải nghiên cứu kỹ thói quen của ng sử dụng\".\nEm chém là vậy.\nTuy nhiên em rất muốn hóng bạn thể các công bạn tuỳ biến - lập trình. Gọi là \" sâu trong môn smart home\" mà bạn gì trên kia nói.\n Ps: Em thấy thớt của bạn xedieu có cả trên tinh tướng chấm cơm hihi",
+            "idComment": 498349,
+            "iduser": 4903,
+            "image": [],
+            "username": "tieuphuong1146"
+        },
+        {
+            "actionAt": "Mon, 06 Apr 2020 00:27:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Goyave\"] \n\t\t\tEm cũng đang mon men tìm hiểu món smart này, định bắt đầu với 1 cái hub và muơi cái cảm biến, công tắc, ổ cắm... sau nâng cấp sắm thêm dần.\n\nbạn cho em hỏi mấy cái sau:\n\n- Hai thằng aqara và xiaomi dùng lẫn cho nhau được? dùng loại nào ngon hơn ạ?\n\n- Các cảm biến với hub khoảng cách bao xa thì nhận được sóng nhau, VD em để hub ở tầng 2, các cảm biến ở tầng 1 thì có nhận lệnh được không?\n\n- Các loại cảm biến bạn đều dùng pin hay adapter cắm điện? Dùng pin thì có tốn pin lắm không ạ?\n\n- Mấy bộ xiaomi thấy bảo chỉ dùng wifi 2.4, ko dùng được sóng 5Ghz đúng ko ạ.\n\nCảm ơn bạn.\n\t\t [/QUOTE]\nSmarthome thì bắt buộc chạy trên tần số 2.4GHz vì rất nhiều thiết bị chỉ hỗ trợ 2.4 thôi.",
+            "idComment": 498350,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Mon, 06 Apr 2020 00:30:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Sweethome\"] \n\t\t\tMột sự ngạc nhiên không hề nhẹ, mình đoán được tương đối lựa chọn của anh ấy. Muốn rẻ phải dùng đồ tàu. Không muốn thời cũng phải có niềm tin vào những em như xiaomi vậy, chỉ cần chuyển sang smartthing Samsung thôi giá lại lên giời ngay, hoặc là giá một đằng chất lượng một kiểu\n\nP/S: có bạn nào đánh giá giúp Google Nest Uwifi và Netgear Orbi của bạn chủ với ạ\n\t\t [/QUOTE]\nĐã dùng Home Assistant thì thiết bị nào làm việc được với hass là ok thôi. Đồ nó ổn định và bền bỉ là được. Ngoài ra, còn vấn đề hệ sinh thái có đầy đủ không nữa. Nhiều hãng lớn cũng kiếm đồ khoai lắm. Riêng mảng smarthome thì khái niệm đồ tàu không ý nghĩa nhiều.",
+            "idComment": 498351,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Mon, 06 Apr 2020 00:32:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tieuphuong1146\"] \n\t\t\tSmart home  thì phải giúp ng sử dụng dễ dàng tuỳ biến, ngoài ra \" đòi hỏi phải nghiên cứu kỹ thói quen của ng sử dụng\".\n\nEm chém là vậy.\n\nTuy nhiên em rất muốn hóng bạn thể các công bạn tuỳ biến - lập trình. Gọi là \" sâu trong môn smart home\" mà bạn gì trên kia nói.\n\nPs: Em thấy thớt của bạn xedieu có cả trên tinh tướng chấm cơm hihi\n\t\t [/QUOTE]\nĐây là nền tảng gốc của hệ thống,làm gì tiếp theo tùy vào khả năng của người dùng",
+            "idComment": 498352,
+            "iduser": 2830,
+            "image": [
+                "https://img.otofun.net/upload/v7/images/4381/4381965-af4a0445045b2fefb607fec669c676f5.png",
+                "https://img.otofun.net/upload/v7/images/4381/4381966-57b24cc97d6c9429bf6d87e15f731d92.png"
+            ],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Mon, 06 Apr 2020 00:42:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Sweethome\"] \n\t\t\tEm muốn hỏi về 2 cái mess wifi đó nó hơn kém nhau ntn. Bởi, nếu cái google nest wifi nó cũng tốt thì em sẽ chọn Google\n\t\t [/QUOTE]\nĐọc bọn Tây review thì điểm trừ của Google là “Short range” - wifi mà vậy là chán luôn rồi. So kỹ về thông số thì Google kém nhiều lắm. Như bọn này chấm thì Orbi 4,5 còn Google có 3,5.",
+            "idComment": 498353,
+            "iduser": 15118,
+            "image": [
+                "https://img.otofun.net/upload/v7/images/4381/4381971-23d828ea565ff480415abcdbd44a3850.png"
+            ],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Mon, 06 Apr 2020 01:18:00 GMT",
+            "avatar": null,
+            "content": "\nEm cũng tí tởn nghịch tý bóng với công tắc wifi cái google mini khó ra lệnh bằng giọng nói để nó hiểu được quá",
+            "idComment": 498354,
+            "iduser": 24716,
+            "image": [],
+            "username": "magicianfs"
+        },
+        {
+            "actionAt": "Mon, 06 Apr 2020 11:50:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"joix\"] \n\t\t\tVoice control là một cấu thành của smarthome,sử dụng giọng nói để điều khiển,e nghĩ nó thích hợp trong mọi hoàn cảnh,theo quan điểm của e,smarthome theo kịch bản khá máy móc,vì ko phải lúc nào cũng dập khuôn theo kịch bản đã setup.\n\nVí dụ:theo kịch bản,buổi sáng,6h bạn sẽ dậy,đèn sẽ bật,rèm tự mở,tv bật kênh tin tức yêu thích của bạn,nhưng hôm nay bạn ko phải đi làm,và tất nhiên sẽ ngủ nướng,bạn sẽ làm gì? Tìm điện thoại hay tab,mở app,tắt hết mấy cái đó đi,hay ra lệnh:tắt tv,giảm độ sáng đèn 30% (nếu đèn của bạn điều khiển bằng pwm) đóng rèm lại?\n\nHiện tại e ko hứng thú với smarthome kiểu này lắm,e đang nghịch một thứ ''khoai'' hơn, ''thị giác máy'' (Computer vision) nhận diện và giám sát chuyển động với imageAI, hy vọng sẽ có smarthome ''thông minh'' hơn. :D\n [/QUOTE]\ný bạn joix automation ko phải là kịch bản định sẳn mà là dựa trên cảm biến cho ra quyết định. như hôm nay trời nóng cảm biến tự chỉnh về lạnh, bạn ở nhà thì cảm biến chuyển động thông báo k cần phải tắt tivi hoặc dạng vậy, em cho rằng rất phức tạp",
+            "idComment": 498355,
+            "iduser": 24711,
+            "image": [],
+            "username": "baotm"
+        },
+        {
+            "actionAt": "Mon, 06 Apr 2020 11:56:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tieuphuong1146\"] \n\t\t\tSmart home  thì phải giúp ng sử dụng dễ dàng tuỳ biến, ngoài ra \" đòi hỏi phải nghiên cứu kỹ thói quen của ng sử dụng\".\n\nEm chém là vậy.\n\nTuy nhiên em rất muốn hóng bạn thể các công bạn tuỳ biến - lập trình. Gọi là \" sâu trong môn smart home\" mà bạn gì trên kia nói.\n\nPs: Em thấy thớt của bạn xedieu có cả trên tinh tướng chấm cơm hihi\n\t\t [/QUOTE]\nbạn tìm hiểu Home Assistant (hass.io) nhé, kết hợp các công bạn cho home assistant trên github (đóng góp của người dùng cộng đồng). Chỉ cái đấy thôi là làm được cực kỳ nhiều thứ rồi bạn",
+            "idComment": 498356,
+            "iduser": 15162,
+            "image": [],
+            "username": "anh_nvc"
+        },
+        {
+            "actionAt": "Mon, 06 Apr 2020 13:03:00 GMT",
+            "avatar": null,
+            "content": "\nDài quá, bạn nên chia thành topic nhỏ mà giới thiệu.",
+            "idComment": 498357,
+            "iduser": 24717,
+            "image": [],
+            "username": "Calcifer_93"
+        },
+        {
+            "actionAt": "Tue, 07 Apr 2020 10:34:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"baotm\"] \n\t\t\tý bạn joix automation ko phải là kịch bản định sẳn mà là dựa trên cảm biến cho ra quyết định. như hôm nay trời nóng cảm biến tự chỉnh về lạnh, bạn ở nhà thì cảm biến chuyển động thông báo k cần phải tắt tivi hoặc dạng vậy, em cho rằng rất phức tạp\n\t\t [/QUOTE]\nTất nhiên là có phức tạp,nhưng điều khiển cần như vậy bạn ạ,nó là điều khiển có phản hồi.E ví dụ,một trình tự trong ngữ cảnh được lập trình sẵn,vi xử lý sẽ nạp lệnh từ bộ nhớ,giải mã và thực thi lệnh,trong quá trình đó,có thể có tác động từ ngoại cảnh,con người,cảm biến mà ko dự đoán trước được,tín hiệu sẽ trả về vi xử lý để so sánh,nếu giá trị gửi về =1,các lệnh sẽ thực thi tuần tự từ trên xuống dưới,nếu giá trị #1 sẽ ngắt vi điều khiển và lưu các trạng thái đang hoạt động vào bộ nhớ cho lần nạp lệnh tiếp theo....",
+            "idComment": 498358,
+            "iduser": 2830,
+            "image": [],
+            "username": "joix"
+        },
+        {
+            "actionAt": "Tue, 07 Apr 2020 16:22:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"magicianfs\"] \n\t\t\tEm cũng tí tởn nghịch tý bóng với công tắc wifi cái google mini khó ra lệnh bằng giọng nói để nó hiểu được quá\n\t\t [/QUOTE]\nbạn hãy dùng Routines của Google Home xem, sẽ rất khác biệt đấy!",
+            "idComment": 498359,
+            "iduser": 15118,
+            "image": [],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Tue, 07 Apr 2020 16:28:00 GMT",
+            "avatar": null,
+            "content": "\nem góp vui cho xôm thớt. hóng cc.",
+            "idComment": 498360,
+            "iduser": 7864,
+            "image": [],
+            "username": "formen"
+        },
+        {
+            "actionAt": "Tue, 07 Apr 2020 16:44:00 GMT",
+            "avatar": null,
+            "content": "\n1 số thiết bị ít điện như lọc kk thì để chạy 24/24 cũng được, cần gì cài đặt",
+            "idComment": 498361,
+            "iduser": 24718,
+            "image": [],
+            "username": "zonet"
+        },
+        {
+            "actionAt": "Wed, 08 Apr 2020 13:18:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tGiá mềm thì em thấy gần đây nhiều bạn chơi Tuya. Em chưa thử được vì nó đi theo hệ của nó. bạn nghiên cứu hệ đấy chưa?\n\t\t [/QUOTE]\nEm dùng tuya đây, mới được nửa năm, hình thức đẹp, phản hồi nhanh, ko lỗi, nhưng một con đèn báo công tắc có nguy cơ chết. Cũng ko ảnh hưởng gì.",
+            "idComment": 498362,
+            "iduser": 1465,
+            "image": [],
+            "username": "xe đạp 3 bánh"
+        },
+        {
+            "actionAt": "Wed, 08 Apr 2020 13:19:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"formen\"] \n\t\t\tem góp vui cho xôm thớt. hóng cc.\n\n\n\nhttps://www.youtube.com/embed/nwPtcqcqz00?wmode=opaque&amp;start=0\n\n\n [/QUOTE]\nThực tế thì ko bao giờ xảy ra chuyện này, nhưng nó phản ánh đúng đấy",
+            "idComment": 498363,
+            "iduser": 1465,
+            "image": [],
+            "username": "xe đạp 3 bánh"
+        },
+        {
+            "actionAt": "Wed, 08 Apr 2020 13:24:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xe đạp 3 bánh\"] \n\t\t\tThực tế thì ko bao giờ xảy ra chuyện này, nhưng nó phản ánh đúng đấy :))\n [/QUOTE]\nVầng, nhiều lúc tháo xem các mạch điện dân dụng, đặc biệt mấy cái thiết bị y tế nghĩ cuộc sống mình phụ thuộc cái tụ này thấy cũng là lạ. Nên em có thiên hướng sử dụng đơn giản.",
+            "idComment": 498364,
+            "iduser": 7864,
+            "image": [],
+            "username": "formen"
+        },
+        {
+            "actionAt": "Wed, 08 Apr 2020 13:28:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"formen\"] \n\t\t\tVầng, nhiều lúc tháo xem các mạch điện dân dụng, đặc biệt mấy cái thiết bị y tế nghĩ cuộc sống mình phụ thuộc cái tụ này thấy cũng là lạ. Nên em có thiên hướng sử dụng đơn giản.\n\t\t [/QUOTE]\nEm cũng nghĩ vậy, nên có nghịch gọi là có và giải quyết những cái cần thôi, chứ cơ học vẫn là chính xác và đơn giản nhất. Như xe tự lái chẳng hạn, em ko hiểu tại sao nhiều người mua nó mà ko sợ bị hack sao?",
+            "idComment": 498365,
+            "iduser": 1465,
+            "image": [],
+            "username": "xe đạp 3 bánh"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 08:26:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xe đạp 3 bánh\"] \n\t\t\tEm dùng tuya đây, mới được nửa năm, hình thức đẹp, phản hồi nhanh, ko lỗi, nhưng một con đèn báo công tắc có nguy cơ chết. Cũng ko ảnh hưởng gì.\n\t\t [/QUOTE]\nCon này bạn mày mò đặt về con LED đôi SMD 0805 hoặc 2 con LED đơn (SMD 0805 hoặc 0606) về hàn lại là được, mua lẻ chắc 1-2k/1 con",
+            "idComment": 498366,
+            "iduser": 15162,
+            "image": [],
+            "username": "anh_nvc"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 08:38:00 GMT",
+            "avatar": null,
+            "content": "\nQuá ngon. Hóng bản full.",
+            "idComment": 498367,
+            "iduser": 24719,
+            "image": [],
+            "username": "Thích Là Bụp"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 08:44:00 GMT",
+            "avatar": null,
+            "content": "\nNhà bạn diện tích sàn là bao nhiêu thế bạn?",
+            "idComment": 498368,
+            "iduser": 6109,
+            "image": [],
+            "username": "vutuanlong"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 09:21:00 GMT",
+            "avatar": null,
+            "content": "\nmáy giặt máy rửa bát bây giờ cũng có wifi cơ à",
+            "idComment": 498369,
+            "iduser": 4668,
+            "image": [],
+            "username": "nicktrongsang"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 09:55:00 GMT",
+            "avatar": null,
+            "content": "\nHay quá note đọc dần",
+            "idComment": 498370,
+            "iduser": 24720,
+            "image": [],
+            "username": "xe hoành"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 10:14:00 GMT",
+            "avatar": null,
+            "content": "\n",
+            "idComment": 498371,
+            "iduser": 24721,
+            "image": [
+                "https://www.otofun.net/attachments/otofun-1586402089107-png.4519242/"
+            ],
+            "username": "vikingloveu"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 14:34:00 GMT",
+            "avatar": null,
+            "content": "\nHóng clip thực tế!",
+            "idComment": 498372,
+            "iduser": 8996,
+            "image": [],
+            "username": "kfc1981"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 15:50:00 GMT",
+            "avatar": null,
+            "content": "\nNhà thông minh quá.",
+            "idComment": 498373,
+            "iduser": 24722,
+            "image": [],
+            "username": "limoux"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 15:52:00 GMT",
+            "avatar": null,
+            "content": "\nCháu vào hóng vì cũng thích món này nhưng cũng mới chỉ có ít đồ",
+            "idComment": 498374,
+            "iduser": 1777,
+            "image": [],
+            "username": "hoadt84"
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 15:56:00 GMT",
+            "avatar": null,
+            "content": "\nE lưu lại để tham khảo ạ",
+            "idComment": 498375,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Thu, 09 Apr 2020 15:57:00 GMT",
+            "avatar": null,
+            "content": "\nEm lưu lại chờ phần 3 và hóng để sau này có điều kiện thì setup",
+            "idComment": 498376,
+            "iduser": 24724,
+            "image": [],
+            "username": "tgl77"
+        },
+        {
+            "actionAt": "Sat, 11 Apr 2020 09:14:00 GMT",
+            "avatar": null,
+            "content": "\nQuá hay. Cám ơn bạn chủ đã chia sẻ.",
+            "idComment": 498377,
+            "iduser": 5388,
+            "image": [],
+            "username": "huutrinh6688"
+        },
+        {
+            "actionAt": "Sat, 11 Apr 2020 09:59:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"nicktrongsang\"] \n\t\t\tmáy giặt máy rửa bát bây giờ cũng có wifi cơ à :|\n [/QUOTE]\nBồn cầu còn có nữa là",
+            "idComment": 498378,
+            "iduser": 1465,
+            "image": [],
+            "username": "xe đạp 3 bánh"
+        },
+        {
+            "actionAt": "Mon, 13 Apr 2020 14:19:00 GMT",
+            "avatar": null,
+            "content": "\nHóng bạn ra tiếp phần 3 ạ",
+            "idComment": 498379,
+            "iduser": 24725,
+            "image": [],
+            "username": "fordfocus2012"
+        },
+        {
+            "actionAt": "Mon, 13 Apr 2020 14:22:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Trâu gầy\"] \n\t\t\tnhà em xài sờmát cơm\n\t\t [/QUOTE]\nNhà mình cũng toàn sờ mát cơm, rẻ bền đẹp.",
+            "idComment": 498380,
+            "iduser": 24726,
+            "image": [],
+            "username": "Never_Say_No"
+        },
+        {
+            "actionAt": "Tue, 14 Apr 2020 11:23:00 GMT",
+            "avatar": null,
+            "content": "\nEm muốn tìm một thiết bị cảnh báo gắn cố định, dùng wifi để cảnh báo tới sdt khi được ấn nút (nút khẩn cấp), bạn thớt có biết loại nào chỉ giúp em với ạ.",
+            "idComment": 498381,
+            "iduser": 6109,
+            "image": [],
+            "username": "vutuanlong"
+        },
+        {
+            "actionAt": "Tue, 14 Apr 2020 11:48:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"vutuanlong\"] \n\t\t\tEm muốn tìm một thiết bị cảnh báo gắn cố định, dùng wifi để cảnh báo tới sdt khi được ấn nút (nút khẩn cấp), bạn thớt có biết loại nào chỉ giúp em với ạ.\n\t\t [/QUOTE]\nPA2 thay camera bằng bạnc gateway rẻ hơn được 2-300k nhưng không quan sát được.",
+            "idComment": 498382,
+            "iduser": 15118,
+            "image": [
+                "https://img.otofun.net/upload/v7/images/4406/4406955-48f5eb0dda539a8752cb2281c81809b0.jpeg",
+                "https://img.otofun.net/upload/v7/images/4406/4406979-0ef8a9acea7d71680671d4144f0bbf5f.jpeg"
+            ],
+            "username": "xedieu"
+        },
+        {
+            "actionAt": "Tue, 14 Apr 2020 12:02:00 GMT",
+            "avatar": null,
+            "content": "\nĐọc xong bài của bạn thấy xấu hổ với hệ thống smarthome nhà em quá.",
+            "idComment": 498383,
+            "iduser": 24727,
+            "image": [],
+            "username": "Sâu Róm"
+        },
+        {
+            "actionAt": "Tue, 14 Apr 2020 12:17:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Sâu Róm\"] \n\t\t\tĐọc xong bài của bạn thấy xấu hổ với hệ thống smarthome nhà em quá.\n\t\t [/QUOTE]\nCó đồ chơi là được rồi bạn ạ.",
+            "idComment": 498384,
+            "iduser": 1465,
+            "image": [],
+            "username": "xe đạp 3 bánh"
+        },
+        {
+            "actionAt": "Tue, 14 Apr 2020 12:20:00 GMT",
+            "avatar": null,
+            "content": "\nTuyệt quá, đầu tư hệ thông nay bao tiền thế bạn?",
+            "idComment": 498385,
+            "iduser": 444,
+            "image": [],
+            "username": "Mợ toét 2710"
+        },
+        {
+            "actionAt": "Tue, 14 Apr 2020 13:19:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"xedieu\"] \n\t\t\tNhư em thì sẽ chọn 1 trong 2 PA: lấy 1 cái cam aqara vừa giám sát được, vừa là gateway để kết nối cái bạnc remote gần 200k. Điện thoại cài app Mihome. Ấn nút sẽ báo vào điện thoại. Vừa thêm được camera giám sát.\n\n\n\n\n\n[img]https://img.otofun.net/upload/v7/images/4406/4406955-48f5eb0dda539a8752cb2281c81809b0.jpeg[/img]\n\n\n\n\n\n\n\n[img]https://img.otofun.net/upload/v7/images/4406/4406979-0ef8a9acea7d71680671d4144f0bbf5f.jpeg[/img]\n\n\n\n\n\nPA2 thay camera bằng bạnc gateway rẻ hơn được 2-300k nhưng không quan sát được.\n\t\t [/QUOTE]\nEm cần cái bạn gateway ạ, bạn cho em xin link sp với, cảm ơn bạn!",
+            "idComment": 498386,
+            "iduser": 6109,
+            "image": [
+                "https://img.otofun.net/upload/v7/images/4406/4406955-48f5eb0dda539a8752cb2281c81809b0.jpeg",
+                "https://img.otofun.net/upload/v7/images/4406/4406979-0ef8a9acea7d71680671d4144f0bbf5f.jpeg"
+            ],
+            "username": "vutuanlong"
+        }
+    ]
+}

@@ -1,0 +1,955 @@
+{
+    "comments": [
+        {
+            "actionAt": "Wed, 09 Aug 2017 14:23:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tNhìn mạch in mờ mờ em đoán mạch này cấp nguồn nhờ sụt áp tải giữa L và 01. bạn nối tải vào 01 rồi tiến hành đo thử các tải khác mới không bị loạn xạ :|\n [/QUOTE]\nChắc nó sẽ không dùng riêng cọc 01 (tải) để cấp nguồn đâu bạn ợ. Và nó sẽ cấp chung qua cả 03 cọc (tải) có trở phụ/ tụ cùng nối //. Nếu chỉ riêng từng cọc tải thì trong tình huống (ngẫu nhiên) nếu tải ko được mắc thì mạch sẽ \"đơ\" ngay. Nói chung bạn nhatientri  nên ktra tín hiệu đến các cặp opto coupler (817); nếu OK rồi thì hãy sờ dến TRIAC và các mạch xung quanh nó (kể cả các cầu diode-4 chân và các mạch snubber xung quanh, nếu có) rồi mới xử tiếp được...",
+            "idComment": 494076,
+            "iduser": 23457,
+            "image": [],
+            "username": "Vinaxuki JBC"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 08:44:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vinaxuki JBC\"] \n\t\t\tChắc nó sẽ không dùng riêng cọc 01 (tải) để cấp nguồn đâu bạn ợ. Và nó sẽ cấp chung qua cả 03 cọc (tải) có trở phụ/ tụ cùng nối //. Nếu chỉ riêng từng cọc tải thì trong tình huống (ngẫu nhiên) nếu tải ko được mắc thì mạch sẽ \"đơ\" ngay. Nói chung bạn https://www.otofun.net/members/342016/  nên ktra tín hiệu đến các cặp opto coupler (817); nếu OK rồi thì hãy sờ dến TRIAC và các mạch xung quanh nó (kể cả các cầu diode-4 chân và các mạch snubber xung quanh, nếu có) rồi mới xử tiếp được...\n\t\t [/QUOTE]\nIem thấy cái cơ chế cấp nguồn của mạch này cứ ảo ảo thế ếch nào đấy, nó sẽ không ổn định vì phụ thuộc vào tải khá nhiều. Gặp phải tải kiểu đèn tuýp nếu đèn chưa sáng thì nó lấy đâu nguồn mà chạy nhỉ? với loại chiết áp dùng triac thì không cần nguồn. Đằng này 1 rổ IC các loại, tối thiểu cần 3V để cấp nguồn, vậy mạch này hóa ra tạo sụt áp qua mạch điều khiển, như vậy nếu tính ra tổn hao công suất qua mạch là khá cao",
+            "idComment": 494077,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 09:34:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tIem thấy cái cơ chế cấp nguồn của mạch này cứ ảo ảo thế ếch nào đấy, nó sẽ không ổn định vì phụ thuộc vào tải khá nhiều. Gặp phải tải kiểu đèn tuýp nếu đèn chưa sáng thì nó lấy đâu nguồn mà chạy nhỉ? với loại chiết áp dùng triac thì không cần nguồn. Đằng này 1 rổ IC các loại, tối thiểu cần 3V để cấp nguồn, vậy mạch này hóa ra tạo sụt áp qua mạch điều khiển, như vậy nếu tính ra tổn hao công suất qua mạch là khá cao :(\n [/QUOTE]\nVâng bạn ợ, nhưng có lẽ nhà thiết kế cũng thông minh chứ ko đùa đâu bạn ah. Vì cơ chế cấp nguồn của họ E thấy còn có cả 1 biến áp xung nên chắc nguồn cũng sẽ khá ổn định. Không thấy bạn nhatientri  có thêm report gì nữa, nhưng E nghĩ cái này nếu muốn rõ ràng thì cần phải \"ngâm cứu' offline, mắt thấy, tay sờ + kết hợp đo đạc, thậm chí phải \"giải phẫu\" board mạch thì mới được. Không thể phán thêm gì nữa theo kiểu \"đuổi hình bắt bệnh\" này đâu bạn ợ. Ko rõ bạn hay vọc mấy thứ này như thế nào, nhưng E nếu gặp vấn đề tương tự thì thường là phải vẽ phác lại sơ đồ của nó, ra nguyên lý sơ bộ rồi mới vọc thêm được. Kiểu \"hoán đổi\" linh kiện (Triac) như bạn nhatientri  vừa làm thường ít khi có hiệu quả (trừ trong trường hợp bất đắc dĩ mà thôi).",
+            "idComment": 494078,
+            "iduser": 23457,
+            "image": [],
+            "username": "Vinaxuki JBC"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 09:37:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vinaxuki JBC\"] \n\t\t\tnhưng E nếu gặp vấn đề tương tự thì thường là phải vẽ phác lại sơ đồ của nó, ra nguyên lý sơ bộ rồi mới vọc thêm được. Kiểu \"hoán đổi\" linh kiện (Triac) như bạn https://www.otofun.net/members/342016/ vừa làm thường ít khi có hiệu quả (trừ trong trường hợp bất đắc dĩ mà thôi).\n\t\t [/QUOTE]\nTuy nhiên tìm theo tên sản phẩm của bạn nhatientri thì cũng có phiên bản dùng cả dây nguội (N) nữa - theo chuẩn EU. Như vậy có thể phương án không dùng N không được tối ưu lắm",
+            "idComment": 494079,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 09:41:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tĐương nhiên có thực tế là tốt nhất rồi bạn. Như em đã nói cái này em cũng chửa dùng nên chỉ đoán thôi :))\n [/QUOTE]\nVâng bạn ợ. Hy vọng bạn nhatientri  sẽ có điều kiện đi đến cùng của vấn đề và sẽ có chia sẻ kinh nghiệm lên đây để cộng đồng được bổ sung kiến thức, kinh nghiệm cho các vấn đề tương tự. Tuy rằng hy vọng đó cũng là khó, vì thường là các bạn ấy sẽ lẳng nó đi và mua cái khác thay thế  (khi đã vọc chán rồi mà không được).",
+            "idComment": 494080,
+            "iduser": 23457,
+            "image": [],
+            "username": "Vinaxuki JBC"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:10:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tNhìn mạch in mờ mờ em đoán mạch này cấp nguồn nhờ sụt áp tải giữa L và 01. bạn nối tải vào 01 rồi tiến hành đo thử các tải khác mới không bị loạn xạ :|\n [/QUOTE]\nbạn ơi, hôm qua e cắm thử tải vào chân 01,02,03 đều thấy mạch hoạt động hết",
+            "idComment": 494081,
+            "iduser": 24172,
+            "image": [],
+            "username": "nhatientri"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:11:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"nhatientri\"] \n\t\t\tbạn ơi, hôm qua e cắm thử tải vào chân 01,02,03 đều thấy mạch hoạt động hết :D\n [/QUOTE]\nChắc nó ghép song song như bạn Vinaxuki JBC nói",
+            "idComment": 494082,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:14:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vinaxuki JBC\"] \n\t\t\tVâng bạn ợ, nhưng có lẽ nhà thiết kế cũng thông minh chứ ko đùa đâu bạn ah. Vì cơ chế cấp nguồn của họ E thấy còn có cả 1 biến áp xung nên chắc nguồn cũng sẽ khá ổn định. Không thấy bạn https://www.otofun.net/members/342016/  có thêm report gì nữa, nhưng E nghĩ cái này nếu muốn rõ ràng thì cần phải \"ngâm cứu' offline, mắt thấy, tay sờ + kết hợp đo đạc, thậm chí phải \"giải phẫu\" board mạch thì mới được. Không thể phán thêm gì nữa theo kiểu \"đuổi hình bắt bệnh\" này đâu bạn ợ. Ko rõ bạn hay vọc mấy thứ này như thế nào, nhưng E nếu gặp vấn đề tương tự thì thường là phải vẽ phác lại sơ đồ của nó, ra nguyên lý sơ bộ rồi mới vọc thêm được. Kiểu \"hoán đổi\" linh kiện (Triac) như bạn https://www.otofun.net/members/342016/  vừa làm thường ít khi có hiệu quả (trừ trong trường hợp bất đắc dĩ mà thôi).\n\t\t [/QUOTE]\nE cũng định vẽ lại mạch cho các bạn ngâm cứu đây, chứ nhìn không có vẻ khó quá",
+            "idComment": 494083,
+            "iduser": 24172,
+            "image": [],
+            "username": "nhatientri"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:24:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"nhatientri\"] \n\t\t\tBản dùng mỗi dây L là phiên bản mơi hơn bạn ạ :(\n\nEm có 1 cái công tắc khác của Xiaomi, cũng không dùng dây N, thấy hoạt động khá ổn định :D\n [/QUOTE]\nCác phiên bản cải tiến cải lùi này khù khoằm quá..; theo như sách của họ đã phán thì ghép mấy con tụ (cấp nguồn nuôi mạch) song song với tải như các kiểu cấp nguồn thông dụng, rẻ tiền. Nay thực tế lại cấp qua mấy con trở (14K Ohm) như bạn nhatientri  đã báo. Như vậy khi các tải đều tắt (Off) thì các con trở này cũng \"sưởi\" mạch ấm ra phết. Có lẽ cứ chơi phiên bản dùng thêm cả dây (N) cho nó lành. Chỉ có (L) không thôi thì cũng đau đầu...",
+            "idComment": 494084,
+            "iduser": 23457,
+            "image": [],
+            "username": "Vinaxuki JBC"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:31:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vinaxuki JBC\"] \n\t\t\tCác phiên bản cải tiến cải lùi này khù khoằm quá..:)); theo như sách của họ đã phán thì ghép mấy con tụ (cấp nguồn nuôi mạch) song song với tải như các kiểu cấp nguồn thông dụng, rẻ tiền. Nay thực tế lại cấp qua mấy con trở (14K Ohm) như bạn https://www.otofun.net/members/342016/  đã báo. Như vậy khi các tải đều tắt (Off) thì các con trở này cũng \"sưởi\" mạch ấm ra phết. Có lẽ cứ chơi phiên bản dùng thêm cả dây (N) cho nó lành. Chỉ có (L) không thôi thì cũng đau đầu...\n\t\t [/QUOTE]\nđúng như bạn nói, con trở này lắp vào 1 lúc là ấm rồi",
+            "idComment": 494085,
+            "iduser": 24172,
+            "image": [],
+            "username": "nhatientri"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:31:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vinaxuki JBC\"] \n\t\t\tCác phiên bản cải tiến cải lùi này khù khoằm quá..:)); theo như sách của họ đã phán thì ghép mấy con tụ (cấp nguồn nuôi mạch) song song với tải như các kiểu cấp nguồn thông dụng, rẻ tiền. Nay thực tế lại cấp qua mấy con trở (14K Ohm) như bạn https://www.otofun.net/members/342016/  đã báo. Như vậy khi các tải đều tắt (Off) thì các con trở này cũng \"sưởi\" mạch ấm ra phết. Có lẽ cứ chơi phiên bản dùng thêm cả dây (N) cho nó lành. Chỉ có (L) không thôi thì cũng đau đầu...\n\t\t [/QUOTE]\nĐúng vậy, giống điện 3 phase mà dây N kém ấy, nó cứ \"chung chiêng\" khó kiểm soát lắm",
+            "idComment": 494086,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:44:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tĐúng vậy, giống điện 3 phase mà dây N kém ấy, nó cứ \"chung chiêng\" khó kiểm soát lắm :(\n [/QUOTE]\nCó lẽ bạn nhatientri  nên tiếp tục tìm hiểu và xử lý (nếu bạn còn hứng thú với nó), rồi khi có kết quả thì bạn chia sẻ lên đây. Các vấn đề đi sâu hơn nữa thì bạn có thể inbox riêng; hoặc nếu cần thì gặp gỡ, giao lưu offline trao đổi kinh nghiệm thêm cho vui. Kẻo chỉ có mỗi cái này mà chiếm hết mấy tầng thớt ở đây của bạn Ngo Rung  cũng không hợp lý. Ko biết bạn Ngo Rung  ý kiến thế nào???",
+            "idComment": 494087,
+            "iduser": 23457,
+            "image": [],
+            "username": "Vinaxuki JBC"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:54:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vinaxuki JBC\"] \n\t\t\tCó lẽ bạn https://www.otofun.net/members/342016/  nên tiếp tục tìm hiểu và xử lý (nếu bạn còn hứng thú với nó), rồi khi có kết quả thì bạn chia sẻ lên đây. Các vấn đề đi sâu hơn nữa thì bạn có thể inbox riêng; hoặc nếu cần thì gặp gỡ, giao lưu offline trao đổi kinh nghiệm thêm cho vui. Kẻo chỉ có mỗi cái này mà chiếm hết mấy tầng thớt ở đây của bạn https://www.otofun.net/members/73049/  cũng không hợp lý. Ko biết bạn https://www.otofun.net/members/73049/  ý kiến thế nào??? :))\n [/QUOTE]\nMay là có bạn nhatientri làm \"chuột bạch\" trước rồi đấy thôi",
+            "idComment": 494088,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 10:58:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tVấn đề gì đâu bạn, trao đổi trên này thì nhiều người cùng đọc và hiểu thêm chút về mấy cái này. Vì nó cũng tương đối mới nên cũng để mọi người tự đánh giá khi muốn lắp cho GĐ.\n\nMay là có bạn https://www.otofun.net/members/342016/ làm \"chuột bạch\" trước rồi đấy thôi \\m/\n [/QUOTE]\nAh, ý của nhà cháu e ngại là chỉ có mấy bạn cháu mình \"độc diễn\" ở đây thì chiếm sóng nhiều quá (mà chỉ riêng mỗi vấn đề này) nên ảnh hưởng đến các bạn khác muốn trao đổi về các vấn đề (khác) nữa mà thôi. Vậy nên khi có kết quả (dù là tiêu cực hay tích cực) thì đưa lên rồi chém ngược lại cũng được. Vậy thôi, chứ thời gian chém gió thì nhà cháu ko ngại...",
+            "idComment": 494089,
+            "iduser": 23457,
+            "image": [],
+            "username": "Vinaxuki JBC"
+        },
+        {
+            "actionAt": "Thu, 10 Aug 2017 11:13:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vinaxuki JBC\"] \n\t\t\tAh, ý của nhà cháu e ngại là chỉ có mấy bạn cháu mình \"độc diễn\" ở đây thì chiếm sóng nhiều quá (mà chỉ riêng mỗi vấn đề này) nên ảnh hưởng đến các bạn khác muốn trao đổi về các vấn đề (khác) nữa mà thôi. Vậy nên khi có kết quả (dù là tiêu cực hay tích cực) thì đưa lên rồi chém ngược lại cũng được. Vậy thôi, chứ thời gian chém gió thì nhà cháu ko ngại...:))\n [/QUOTE]\nChẳng sao đâu, vật ra mổ xẻ, tranh luận tưng bừng thì mới nhớ lâu được",
+            "idComment": 494090,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Fri, 11 Aug 2017 14:39:00 GMT",
+            "avatar": null,
+            "content": "\nChào các bạn,  e có vẽ lại mạch điện của nó như dưới đây\nlink bản vẽ https://www.digikey.com/schemeit/project/tc2-P9TJ9083020G/\n\ne có phát điện là có 1 con tụ nó phình to như hình bên dưới, mời các bạn Ngo Rung và Vinaxuki JBC ngâm cứu",
+            "idComment": 494091,
+            "iduser": 24172,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/11/578400-342016-tc2-01-f80wqo4uplk2aph_do4f.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/11/578387-342016-2017-08-11-143243-l4cjim95bo5mhzhk4yki.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/11/578396-342016-img-20170811-063524-gk0otyprkuzhjsd3cnxr.jpg"
+            ],
+            "username": "nhatientri"
+        },
+        {
+            "actionAt": "Fri, 11 Aug 2017 14:43:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"nhatientri\"] \n\t\t\tChào các bạn,  e có vẽ lại mạch điện của nó như dưới đây\n\nlink bản vẽ https://www.digikey.com/schemeit/project/tc2-P9TJ9083020G/\n\n\n\ne có phát điện là có 1 con tụ nó phình to như hình bên dưới, mời các bạn https://www.otofun.net/members/73049/ và https://www.otofun.net/members/16471/ ngâm cứu\n\t\t [/QUOTE]\nCó cái shematic kia tham khảo cũng quý hoá lắm rồi bạn ợ. Tụ đã phình thế rồi thì tiếc gì mà ko thay luôn bạn ei. Chờ report tiếp theo của bạn nhé...",
+            "idComment": 494092,
+            "iduser": 23457,
+            "image": [],
+            "username": "Vinaxuki JBC"
+        },
+        {
+            "actionAt": "Fri, 11 Aug 2017 15:57:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vinaxuki JBC\"] \n\t\t\tCó cái shematic kia tham khảo cũng quý hoá lắm rồi bạn ợ. Tụ đã phình thế rồi thì tiếc gì mà ko thay luôn bạn ei. Chờ report tiếp theo của bạn nhé...\n\t\t [/QUOTE]\ne thay tụ, thử lắp tải vào 03 thì không thấy đèn nháy như trước nữa, e nhưng khi lắp tải vào 02 thì bật công tắc đèn nháy 1 cái rồi tắt, rồi chờ mấy giây sau mới bấm tiếp được, giống kiểu mcu bị reset lại ấy",
+            "idComment": 494093,
+            "iduser": 24172,
+            "image": [],
+            "username": "nhatientri"
+        },
+        {
+            "actionAt": "Mon, 14 Aug 2017 08:54:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"nhatientri\"] \n\t\t\te thay tụ, thử lắp tải vào 03 thì không thấy đèn nháy như trước nữa, e nhưng khi lắp tải vào 02 thì bật công tắc đèn nháy 1 cái rồi tắt, rồi chờ mấy giây sau mới bấm tiếp được, giống kiểu mcu bị reset lại ấy\n\t\t [/QUOTE]\n Mấy ngày nghỉ cuối tuần ko online, hôm nay thấy bạn report lại vậy chắc là có biến chuyển theo hướng tích cực (tốt lên) rồi đó. Không biết kết quả cuối được đến đâu rồi bạn ơi? Nếu có thời gian rảnh thì mời bạn lại post chia sẻ thêm nhé...",
+            "idComment": 494094,
+            "iduser": 23457,
+            "image": [],
+            "username": "Vinaxuki JBC"
+        },
+        {
+            "actionAt": "Tue, 15 Aug 2017 13:25:00 GMT",
+            "avatar": null,
+            "content": "\nNhà em đang dùng bếp từ Rommelsbacher CT3410, từ mấy hôm trước 1 bên bếp bật lên ko thấy báo lỗi gì nhưng đặt nồi vào ko nóng, em đã thử nhiều nồi khác nhau đều ko được. bạn tư vấn giúp em xem bị sao và chỗ sửa uy tín với. Thanks bạn.",
+            "idComment": 494095,
+            "iduser": 24183,
+            "image": [],
+            "username": "metalhuce"
+        },
+        {
+            "actionAt": "Tue, 15 Aug 2017 15:57:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"metalhuce\"] \n\t\t\tNhà em đang dùng bếp từ Rommelsbacher CT3410, từ mấy hôm trước 1 bên bếp bật lên ko thấy báo lỗi gì nhưng đặt nồi vào ko nóng, em đã thử nhiều nồi khác nhau đều ko được. bạn tư vấn giúp em xem bị sao và chỗ sửa uy tín với. Thanks bạn.\n [/QUOTE]\n\t\t\tNhà em đang dùng bếp từ Rommelsbacher CT3410, từ mấy hôm trước 1 bên bếp bật lên ko thấy báo lỗi gì nhưng đặt nồi vào ko nóng, em đã thử nhiều nồi khác nhau đều ko được. bạn tư vấn giúp em xem bị sao và chỗ sửa uy tín với. Thanks bạn.",
+            "idComment": 494096,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Wed, 16 Aug 2017 20:40:00 GMT",
+            "avatar": null,
+            "content": "\nCác bạn thông tháii cho e hỏi cái lvs nhà e quay đènsáng mà thức ăn k nóng. Thế là hỏng câi gì ạ? Và sửa ở đâuu đc các bạn?",
+            "idComment": 494097,
+            "iduser": 457,
+            "image": [],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Wed, 16 Aug 2017 22:53:00 GMT",
+            "avatar": null,
+            "content": "\nĐại ca Ngo Rung, Euro2CityStar  , Vinaxuki JBC  tư vấn cho em vụ này với. Đây là Aptomat bình nước nóng. Chắc bị lỏng nên đánh tia lửa, chảy hết dây ra rồi, giờ phương án khắc phục ntn là tối ưu nhất ạ? Đục tường ạ (\n\n\n\n\n\n\n[/USER]",
+            "idComment": 494098,
+            "iduser": 14996,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/16/593774-127256-img-20170816-200206-npg68vvp0n3yqgdvtj5i.jpg"
+            ],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Wed, 16 Aug 2017 22:59:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tuan2681\"] \n\t\t\tCác bạn thông tháii cho e hỏi cái lvs nhà e quay đènsáng mà thức ăn k nóng. Thế là hỏng câi gì ạ? Và sửa ở đâuu đc các bạn?\n\t\t [/QUOTE]\nkhả năng lại đứt cầu chì cao áp. Nếu bạn chịu khó lọ mọ có thể tự xử đc. bạn tháo vỏ chụp trong máy mọi người sẽ chỉ cho bạn được",
+            "idComment": 494099,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Wed, 16 Aug 2017 23:00:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tĐại ca https://www.otofun.net/members/73049/, https://www.otofun.net/members/123822/ , https://www.otofun.net/members/7425/ tư vấn cho em vụ này với. Đây là Aptomat bình nước nóng. Chắc bị lỏng nên đánh tia lửa, chảy hết dây ra rồi, giờ phương án khắc phục ntn là tối ưu nhất ạ? Đục tường ạ :(((\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/16/593774-127256-img-20170816-200206-npg68vvp0n3yqgdvtj5i.jpg[/img]\n\n [/QUOTE]\nChỉ có đục ra làm lại hoặc chạy dây nổi thôi. Tải nặng không nên tạm bợ",
+            "idComment": 494100,
+            "iduser": 0,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/16/593774-127256-img-20170816-200206-npg68vvp0n3yqgdvtj5i.jpg"
+            ],
+            "username": null
+        },
+        {
+            "actionAt": "Wed, 16 Aug 2017 23:07:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tChỉ có đục ra làm lại hoặc chạy dây nổi thôi. Tải nặng không nên tạm bợ :(\n [/QUOTE]\nChạy dây nổi chắc phải đi từ bảng điện giữa 2 tầng anh nhỉ",
+            "idComment": 494101,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Wed, 16 Aug 2017 23:13:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tĐục thì theo anh cách điểm hỏng đấy bao xa thì đảm bảo ạ?\n\nChạy dây nổi chắc phải đi từ bảng điện giữa 2 tầng anh nhỉ :(\n [/QUOTE]\nChạy dây nổi thì phải từ tủ phân phối gần nhất thôi",
+            "idComment": 494102,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Wed, 16 Aug 2017 23:18:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tAnh đoán sao được :((\n\nChạy dây nổi thì phải từ tủ phân phối gần nhất thôi \\m/\n [/QUOTE]\nThế về nguyên tắc thì thế nào ạ? Đến đoạn dây sáng bóng màu đồng, vỏ dây không bị om là được ạ?",
+            "idComment": 494103,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 08:57:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tkhả năng lại đứt cầu chì cao áp. Nếu bạn chịu khó lọ mọ có thể tự xử đc. bạn tháo vỏ chụp trong máy mọi người sẽ chỉ cho bạn được \\m/\n [/QUOTE]\nvâng ạ, tối em sẽ về tháo tung cả ra rồi post lên hỏi các bạn",
+            "idComment": 494104,
+            "iduser": 457,
+            "image": [],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 09:04:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tĐại ca https://www.otofun.net/members/73049/, https://www.otofun.net/members/123822/ tư vấn cho em vụ này với. Đây là Aptomat bình nước nóng. Chắc bị lỏng nên đánh tia lửa, chảy hết dây ra rồi, giờ phương án khắc phục ntn là tối ưu nhất ạ? Đục tường ạ :(((\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/16/593774-127256-img-20170816-200206-npg68vvp0n3yqgdvtj5i.jpg[/img]\n\n\n[/USER]\n\t\t [/QUOTE]\nbạn xem lại có phải dây đểu hay không? Nhìn ảnh em thấy dây to thế cơ mà. Sao mà đứt kiểu quá tải thế được. Nếu bị cho nối này thì cắt chỗ đứt đi, rồi đấu lại bình thường là được.",
+            "idComment": 494105,
+            "iduser": 24002,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/16/593774-127256-img-20170816-200206-npg68vvp0n3yqgdvtj5i.jpg"
+            ],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 09:35:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"ACDELCO434\"] \n\t\t\tbạn xem lại có phải dây đểu hay không? Nhìn ảnh em thấy dây to thế cơ mà. Sao mà đứt kiểu quá tải thế được. Nếu bị cho nối này thì cắt chỗ đứt đi, rồi đấu lại bình thường là được.\n\t\t [/QUOTE]\nchỗ này là nó nối vào cái Aptomat chứ không phải đứt dây ạ, do điểm nối không chắc gây ra đánh lửa tạo nhiệt nên mới bị thế ạ. Dây bị nóng, om thì phải thay chứ không nối được đâu ạ (đến mức chảy hết phần nhựa bọc rồi mà  )",
+            "idComment": 494106,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 09:45:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tchỗ này là nó nối vào cái Aptomat chứ không phải đứt dây ạ, do điểm nối không chắc gây ra đánh lửa tạo nhiệt nên mới bị thế ạ. Dây bị nóng, om thì phải thay chứ không nối được đâu ạ (đến mức chảy hết phần nhựa bọc rồi mà :(( )\n\t\t [/QUOTE]\nEm hiểu mà. Ý em là bạn chỉ cần cắt chỗ om, chảy nhựa thôi. Dây nào chảy sát vào đế âm thì cậy đế ra và câu dây ra thôi. Nối thì dùng dây to và tốt hơn. Em làm đấy lần ở nhà em rồi. Toàn quá tải bị đứt ở chỗ nối. bạn cứ làm như em, không phải chạy lại dây đâu.",
+            "idComment": 494107,
+            "iduser": 24002,
+            "image": [],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 09:58:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"ACDELCO434\"] \n\t\t\tEm hiểu mà. Ý em là bạn chỉ cần cắt chỗ om, chảy nhựa thôi. Dây nào chảy sát vào đế âm thì cậy đế ra và câu dây ra thôi. Nối thì dùng dây to và tốt hơn. Em làm đấy lần ở nhà em rồi. Toàn quá tải bị đứt ở chỗ nối. bạn cứ làm như em, không phải chạy lại dây đâu.\n\t\t [/QUOTE]\nem cũng nghĩ phần trong tường không bị om, vậy chắc cũng phải đục 1 đoạn tường đủ để nối. dây nóng lạnh thì đi dây bao nhiêu là vừa bạn nhỉ? Em định nối bằng cầu đấu cho an toàn.",
+            "idComment": 494108,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 10:03:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tem cũng nghĩ phần trong tường không bị om, vậy chắc cũng phải đục 1 đoạn tường đủ để nối. dây nóng lạnh thì đi dây bao nhiêu là vừa bạn nhỉ? Em định nối bằng cầu đấu cho an toàn.\n\t\t [/QUOTE]\nCứ dùng nó riêng 1 đường. Dây 2,5 là được. Cứ gặp những pha như này mới thấm được và có kinh nghiệm.",
+            "idComment": 494109,
+            "iduser": 24002,
+            "image": [],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 10:03:00 GMT",
+            "avatar": null,
+            "content": "\nkệ nó , giờ mua ghen bọc dây rồi thay at thôi đụ tường làm gì",
+            "idComment": 494110,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 10:07:00 GMT",
+            "avatar": null,
+            "content": "\nko tin cứ thay át cho mang tải. kiểm tra dây còn nnongs  ko  là biết ngay",
+            "idComment": 494111,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 10:54:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Euro2CityStar\"] \n\t\t\tko tin cứ thay át cho mang tải. kiểm tra dây còn nnongs  ko  là biết ngay\n\t\t [/QUOTE]\nkhông nóng là có thể tạm chấp nhận phải không ạ? chắc em sẽ cắt bớt đoạn dây bị đen đi  Mà dùng gen như thế nào được ạ? em search ra nhiều loại lắm.",
+            "idComment": 494112,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 10:58:00 GMT",
+            "avatar": null,
+            "content": "\ncạo vệ sinh sạch chỗ đầu dây là ok",
+            "idComment": 494113,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 11:15:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Euro2CityStar\"] \n\t\t\tcạo vệ sinh sạch chỗ đầu dây là ok\n\t\t [/QUOTE]\nMà dùng gen như thế nào được ạ? em search ra nhiều loại lắm.",
+            "idComment": 494114,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 13:02:00 GMT",
+            "avatar": null,
+            "content": "\nra mấy chỗ quấn motor xin là có . \nko thì phi xuống chợ hỏi mua gen  cách điện  motor",
+            "idComment": 494115,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 18:55:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tkhả năng lại đứt cầu chì cao áp. Nếu bạn chịu khó lọ mọ có thể tự xử đc. bạn tháo vỏ chụp trong máy mọi người sẽ chỉ cho bạn được \\m/\n [/QUOTE]\nbạn ơi. bạn chỉ giúp em cầu chì cao áp là cái nào ạ? Món này em mù tịt",
+            "idComment": 494116,
+            "iduser": 457,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/17/596410-194313-img-1142-sq4m0e2gk32peo1eiyid.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/17/596411-194313-img-1143-os9quehnajpnsiubj1wb.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/17/596412-194313-img-1144-zfa9opkgyah_916ynrmw.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/17/596413-194313-img-1145-wi-rzazar13pejqwium8.jpg"
+            ],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 19:02:00 GMT",
+            "avatar": null,
+            "content": "\nĐiện đóm em sợ lắm ạ",
+            "idComment": 494117,
+            "iduser": 24187,
+            "image": [],
+            "username": "Long.TV"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 19:14:00 GMT",
+            "avatar": null,
+            "content": "\nSau 1 hồi lần mò và sợt ra post sửa lvs chả bạn Bụp nhà mình. E đã tìm đc con cầu chì cao áp. Ntn là đứt rồi đúng k các bạn? Mai ra chợ giời mua là có phải k ạ?",
+            "idComment": 494118,
+            "iduser": 457,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/17/596444-194313-img-1147-tidlagcv3j240y8lrejk.jpg"
+            ],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 19:48:00 GMT",
+            "avatar": null,
+            "content": "\nkiểm tra lại đèn viba",
+            "idComment": 494119,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 21:44:00 GMT",
+            "avatar": null,
+            "content": "\nNhà em có 2 quạt pana f400k, 1 cái thì điều khiển bật nên được xong lại ko điều khiển được nữa, 1 cái thì bật chế độ quay thì tắt. Các bạn có kinh nghiệm trường hợp này giúp em với.",
+            "idComment": 494120,
+            "iduser": 4689,
+            "image": [],
+            "username": "cuBi07"
+        },
+        {
+            "actionAt": "Thu, 17 Aug 2017 22:02:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Euro2CityStar\"] \n\t\t\tkiểm tra lại đèn viba\n\t\t [/QUOTE]\nĐèn viba là câi nào bạn ơi?",
+            "idComment": 494121,
+            "iduser": 457,
+            "image": [],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 09:55:00 GMT",
+            "avatar": null,
+            "content": "\nbạnc Sharp",
+            "idComment": 494122,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 10:21:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"cuBi07\"] \n\t\t\tNhà em có 2 quạt pana f400k, 1 cái thì điều khiển bật nên được xong lại ko điều khiển được nữa, 1 cái thì bật chế độ quay thì tắt. Các bạn có kinh nghiệm trường hợp này giúp em với.\n\t\t [/QUOTE]\nbạn cậy nắp điều khiển ra xem trong đấy có bị kẹt gì không? Điều khiển của thằng này là hơi khó cậy, sẽ bị vỡ và gãy một số lẫy .",
+            "idComment": 494123,
+            "iduser": 24002,
+            "image": [],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 16:44:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Euro2CityStar\"] \n\t\t\tbạnc Sharp\n\t\t [/QUOTE]\nmà k được thì chắc là hỏng đèn viba.",
+            "idComment": 494124,
+            "iduser": 457,
+            "image": [],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 18:11:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tuan2681\"] \n\t\t\tcảm ơn bạn, em vừa thử mò tren google xem kiểm tra thế nào, thì hóa ra phải có đồng hồ đo điện, cái này thì em k có rồi. để lát em mua cái cầu chì cao áp về thay xem sao,\n\nmà k được thì chắc là hỏng đèn viba. :D\n [/QUOTE]\nbạn cứ thay cầu chì đi. Nếu đứt tiếp thì tính",
+            "idComment": 494125,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 18:15:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"cuBi07\"] \n\t\t\tNhà em có 2 quạt pana f400k, 1 cái thì điều khiển bật nên được xong lại ko điều khiển được nữa, 1 cái thì bật chế độ quay thì tắt. Các bạn có kinh nghiệm trường hợp này giúp em với.\n\t\t [/QUOTE]\nCủa bạn khả năng cao là hỏng tụ cấp nguồn cho mạch điều khiển. Nguồn cấp yếu nên gây \"treo\" mạch điều khiển. Thay tụ là hết",
+            "idComment": 494126,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 18:56:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tMấy hôm bị tịch thu máy tính nên ngại chém :D\n\nbạn cứ thay cầu chì đi. Nếu đứt tiếp thì tính \\m/\n [/QUOTE]\nCầu chí khó tháo quâ bạn ơi. E kẽo mãi mà nó k ra. K có nắp gài hay gì cả.",
+            "idComment": 494127,
+            "iduser": 457,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/18/598998-194313-image-llkz7zdsnuxzw6mlbuai.jpg"
+            ],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 21:30:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tÔng em hiểu sai ý bạn ấy rồi. Không phải hỏng điều khiển mà là ko điều khiển được :D\n\n\n\n\n\nCủa bạn khả năng cao là hỏng tụ cấp nguồn cho mạch điều khiển. Nguồn cấp yếu nên gây \"treo\" mạch điều khiển. Thay tụ là hết :))\n [/QUOTE]\nCám on bạn, thế còn cái bị tắt khi chọn chế độ quay thì do bị làm sao ạ",
+            "idComment": 494128,
+            "iduser": 4689,
+            "image": [],
+            "username": "cuBi07"
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 22:39:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"cuBi07\"] \n\t\t\tCám on bạn, thế còn cái bị tắt khi chọn chế độ quay thì do bị làm sao ạ\n\t\t [/QUOTE]\nCũng cùng nguyên nhân bạn ợ. Bình thường nguồn hơi yếu, khi bạn thêm lệnh chạy túp-năng thì sụt thêm tí nữa có thể tắt ngủm luôn ấy",
+            "idComment": 494129,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 22:46:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tuan2681\"] \n\t\t\tCầu chí khó tháo quâ bạn ơi. E kẽo mãi mà nó k ra. K có nắp gài hay gì cả. :(\n\n\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/18/598998-194313-image-llkz7zdsnuxzw6mlbuai.jpg[/img]\n\n [/QUOTE]\nLoại của bạn nó làm kiểu gần như là chết roài, cái này khoai phết. bạn dùng kìm bóp vỡ hẳn cầu chì rồi bóp bẹp đầu kim loại (của cầu chì) là lấy ra được. Lắp cái mới bạn chỉ cần ấn vào là được. Lưu ý ấn cẩn thận không lại vỡ cầu chì mới nhé",
+            "idComment": 494130,
+            "iduser": 0,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/18/598998-194313-image-llkz7zdsnuxzw6mlbuai.jpg"
+            ],
+            "username": null
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 22:57:00 GMT",
+            "avatar": null,
+            "content": "\nHihi, em quất nhầm lão thớt chủ nhà \n\ntuan2681: bạn thử kéo rút hình như dễ hơn, câu tạm mẩu dây đồng nhỏ tí xem có được không. Em hỏi mấy chỗ mà không có cái cầu chì này nên vẫn nối dây đồng - trộm vía chưa có khói \n\nP/s: bạn có ông thợ phụ yêu nhỉ",
+            "idComment": 494131,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 23:08:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tVâng. :)\n\nThế về nguyên tắc thì thế nào ạ? Đến đoạn dây sáng bóng màu đồng, vỏ dây không bị om là được ạ?\n\t\t [/QUOTE]\nChỗ cái cốc nhựa đấy mà rộng bạn đục thêm cái nữa sang phía chảy rồi nối vô tư.",
+            "idComment": 494132,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Fri, 18 Aug 2017 23:27:00 GMT",
+            "avatar": null,
+            "content": "\nbạn Ngo Rung và các bạn cho em hỏi với là có chỗ nào thợ sửa điện uy tín không ạ.\nNhà em vừa bị mất điện. Em xem thì thấy một đoạn ở giữa của cái dây từ aptomat ra cháy đỏ rực.\nCác bạn giúp em với, món điện đóm em chả biết gì cả!",
+            "idComment": 494133,
+            "iduser": 1978,
+            "image": [],
+            "username": "nadushop"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 00:03:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"The_Godfather\"] \n\t\t\tbạn https://www.otofun.net/members/73049/ và các bạn cho em hỏi với là có chỗ nào thợ sửa điện uy tín không ạ.\n\nNhà em vừa bị mất điện. Em xem thì thấy một đoạn ở giữa của cái dây từ aptomat ra cháy đỏ rực.\n\nCác bạn giúp em với, món điện đóm em chả biết gì cả! :(\n [/QUOTE]\nMà bạn tả kỹ hơn cái đường điện nhà bạn để các bạn ấy chém cho còn chém lại với thợ đỡ bị chăn",
+            "idComment": 494134,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 06:11:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"The_Godfather\"] \n\t\t\tbạn https://www.otofun.net/members/73049/ và các bạn cho em hỏi với là có chỗ nào thợ sửa điện uy tín không ạ.\n\nNhà em vừa bị mất điện. Em xem thì thấy một đoạn ở giữa của cái dây từ aptomat ra cháy đỏ rực.\n\nCác bạn giúp em với, món điện đóm em chả biết gì cả! :(\n [/QUOTE]\nOài, vụ này nguy hiểm đấy. Tốt nhất bạn tìm quanh khu nhà bạn ông thợ điện cho nhanh. Cái này không khó đâu, quan trọng phải xử lý nhanh không là nguy hiểm lắm",
+            "idComment": 494135,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 07:12:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tOài, vụ này nguy hiểm đấy. Tốt nhất bạn tìm quanh khu nhà bạn ông thợ điện cho nhanh. Cái này không khó đâu, quan trọng phải xử lý nhanh không là nguy hiểm lắm :(\n [/QUOTE]\nEm chém cũng như chiên da ý nhỉ",
+            "idComment": 494136,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 07:25:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tOài, vụ này nguy hiểm đấy. Tốt nhất bạn tìm quanh khu nhà bạn ông thợ điện cho nhanh. Cái này không khó đâu, quan trọng phải xử lý nhanh không là nguy hiểm lắm :(\n [/QUOTE]\nEm chụp ảnh chỗ ấy đây",
+            "idComment": 494137,
+            "iduser": 1978,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/599838-192166-img-2095-bxrv-42iqd_tg9lgmmvm.jpg"
+            ],
+            "username": "nadushop"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 07:34:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"The_Godfather\"] \n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/599838-192166-img-2095-bxrv-42iqd_tg9lgmmvm.jpg[/img]\n\n\n\n\n\nVâng em cũng đang tìm xem có thợ nào quanh nhà không ạ :(\n\nEm chụp ảnh chỗ ấy đây\n\t\t [/QUOTE]\nThế này chắc là tại chỗ nối bị lỏng sinh nhiệt rồi, bạn xem thay luôn đoạn dây đấy đi cho lành, dây đi nổi thế này dễ làm thôi. Mà dây nguồn từ At ra bé thế thôi à, thiết bị nhà bạn có nhiều không - thay dây to hơn cho an toàn.",
+            "idComment": 494138,
+            "iduser": 20455,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/599838-192166-img-2095-bxrv-42iqd_tg9lgmmvm.jpg"
+            ],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 07:50:00 GMT",
+            "avatar": null,
+            "content": "\ncần quái gì thợ , chay ra mua đoạn dây  nnois lại từ switch  đến đấy là ổn",
+            "idComment": 494139,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 08:11:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"The_Godfather\"] \n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/599838-192166-img-2095-bxrv-42iqd_tg9lgmmvm.jpg[/img]\n\n\n\n\n\n\n\nVâng em cũng đang tìm xem có thợ nào quanh nhà không ạ :(\n\nEm chụp ảnh chỗ ấy đây\n\t\t [/QUOTE]\nNhớ quấn băng cách điện cẩn thận",
+            "idComment": 494140,
+            "iduser": 0,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/599838-192166-img-2095-bxrv-42iqd_tg9lgmmvm.jpg"
+            ],
+            "username": null
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 08:13:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Euro2CityStar\"] \n\t\t\tcần quái gì thợ , chay ra mua đoạn dây  nnois lại từ switch  đến đấy là ổn\n\t\t [/QUOTE]\nCác bạn ấy không chuyên về điện, bạn em nói Switch là các bạn ấy không hiểu rõ, cần nói theo kiểu thông dụng là thay đoạn từ Atomat thì dễ hình dung hơn",
+            "idComment": 494141,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:02:00 GMT",
+            "avatar": null,
+            "content": "\nTrực tiếp tại hiện trường. May quá ca này dễ xử lý rồi. Không biết có cái cầu đấu 3 chân không các đại ca nhỉ",
+            "idComment": 494142,
+            "iduser": 14996,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/599985-127256-img-20170819-085546-khoxgufcyi73owpmyrkk.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/19/599987-127256-img-20170819-085100-ttzhmr74whyj-wcegn8o.jpg"
+            ],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:06:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tTrực tiếp tại hiện trường. May quá ca này dễ xử lý rồi. Không biết có cái cầu đấu 3 chân không các đại ca nhỉ?\n\n\n\n\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/599982-127256-img-20170819-085243-hdmpogslzsnq_q25fvky.jpg[/img]\n\n\n\n\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/599985-127256-img-20170819-085546-khoxgufcyi73owpmyrkk.jpg[/img]\n\n [/QUOTE]\nChuyển vị trí ổ cắm với át cho nhau là ổn đới.",
+            "idComment": 494143,
+            "iduser": 20455,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/599982-127256-img-20170819-085243-hdmpogslzsnq_q25fvky.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/19/599985-127256-img-20170819-085546-khoxgufcyi73owpmyrkk.jpg"
+            ],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:07:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tChuyển vị trí ổ cắm với át cho nhau là ổn đới.\n\t\t [/QUOTE]\nThế lại phải nối dài dây đến nóng lạnh. Ở bên trái của lỗ bên trái ấy",
+            "idComment": 494144,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:14:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tThế lại phải nối dài dây đến nóng lạnh. Ở bên trái của lỗ bên trái ấy\n\t\t [/QUOTE]\nbạn xem có đủ đầu dây để nối không thì giữ nguyên đấy, không bị dây đồng chạm vào tường vữa là được, cách điện thì làm như lão Euro nói ấy.",
+            "idComment": 494145,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:15:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tCác bạn ấy không chuyên về điện, bạn em nói Switch là các bạn ấy không hiểu rõ, cần nói theo kiểu thông dụng là thay đoạn từ Atomat thì dễ hình dung hơn :D\n [/QUOTE]\nChuẩn ạ. Nói cho người ngoài ngành phải dùng từ phổ thông. Các bạn lại dùng từ chuyên môn khác gì oánh đố.",
+            "idComment": 494146,
+            "iduser": 24002,
+            "image": [],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:19:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tLoại của bạn nó làm kiểu gần như là chết roài, cái này khoai phết. bạn dùng kìm bóp vỡ hẳn cầu chì rồi bóp bẹp đầu kim loại (của cầu chì) là lấy ra\n\n được. Lắp cái mới bạn chỉ cần ấn vào là được. Lưu ý ấn cẩn thận không lại vỡ cầu chì mới nhé :D\n [/QUOTE]\nNó kẹp chết rồi bạn ạ. Khoai thật.",
+            "idComment": 494147,
+            "iduser": 457,
+            "image": [],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:23:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tHihi, em quất nhầm lão thớt chủ nhà :))\n\n\n\nhttps://www.otofun.net/members/194313/: bạn thử \n\nkéo rút hình như dễ hơn, câu tạm mẩu dây đồng nhỏ tí xem có được không. Em hỏi mấy chỗ mà không có cái cầu chì này nên vẫn nối dây đồng - trộm vía chưa có khói :D\n\n\n\nP/s: bạn có ông thợ phụ yêu nhỉ :x\n [/QUOTE]\nPs: thợ phụ của e hơn 2t. Vặn ốc như đúng rồi bạn ạ.",
+            "idComment": 494148,
+            "iduser": 457,
+            "image": [],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:23:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tbạn xem có đủ đầu dây để nối không thì giữ nguyên đấy, không bị dây đồng chạm vào tường vữa là được, cách điện thì làm như lão Euro nói ấy.\n\t\t [/QUOTE]\nPhải nối vì em thấy dễ thay nên cắt vứt đoạn dây cháy đi rồi. Giờ vấn đề tay nghề thôi. Phải nối 3 dây. Dễ là em bó chằng bó đụm lại lắm",
+            "idComment": 494149,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:30:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tPhải nối vì em thấy dễ thay nên cắt vứt đoạn dây cháy đi rồi. Giờ vấn đề tay nghề thôi. Phải nối 3 dây. Dễ là em bó chằng bó đụm lại lắm :))\n [/QUOTE]\nSát quá khó nối với bọc cách điện, chắc phải đục ra một tí.",
+            "idComment": 494150,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:35:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tuan2681\"] \n\t\t\tEm kéo hết sức kiểu gì cũng k ra. Kiểu như nó kẹp chết rồ bạn ạ. E thấy có khấc ở đầu.\n\nCầu chì này hqua e tìm trên mạng. May gần nhà lại có shop bán. Nhưng e xem lại là loại khác. Trong lò nhà e là loại 5kva 900mA. Lạoi e mua về là 5kva 600mA.\n\n\n\nPs: thợ phụ của e hơn 2t. Vặn ốc như đúng rồi bạn ạ. :))\n [/QUOTE]\nEm không nghĩ nó đính chết đâu, bạn kiếm cái mũi dẹt lựa vào cái khe tách nó ra xem, nó kẹp chặt quá thôi.",
+            "idComment": 494151,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 09:37:00 GMT",
+            "avatar": null,
+            "content": "\nMáy giặt nhà em Toshiba 7kg lồng đứng mấy hôm nay có hiện tượng đang giặt thì nhảy báo hiệu tất cả các đèn đều nháy giống như khi không đóng cửa của máy giặt (Mặc dù đã đóng cửa rồi). Sau đó, E tắt đi bật lại thì lại chạy được. Tần suất số lần phải bật lại là khoảng 30% rồi. Các bạn cho hỏi là lỗi gì thế ạ? sửa như thế nào ạ?",
+            "idComment": 494152,
+            "iduser": 24195,
+            "image": [],
+            "username": "tramtich"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 10:04:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tramtich\"] \n\t\t\tMáy giặt nhà em Toshiba 7kg lồng đứng mấy hôm nay có hiện tượng đang giặt thì nhảy báo hiệu tất cả các đèn đều nháy giống như khi không đóng cửa của máy giặt (Mặc dù đã đóng cửa rồi). Sau đó, E tắt đi bật lại thì lại chạy được. Tần suất số lần phải bật lại là khoảng 30% rồi. Các bạn cho hỏi là lỗi gì thế ạ? sửa như thế nào ạ?\n\t\t [/QUOTE]\nNếu hiện tượng giống không đóng cửa thì phải dò từ công tắc cửa máy nhé bạn. Khả năng công tắc chập chờn, máy chạy rung lắc nên nó hiểu sai. Nếu có thể thì bạn thay công tắc khác cho yên tâm",
+            "idComment": 494153,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 10:09:00 GMT",
+            "avatar": null,
+            "content": "\nbóp phá huỷ cái ống thuỷ tinh đi .\nsẽ thấy đường ra thôi",
+            "idComment": 494154,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 10:23:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tEm không nghĩ nó đính chết đâu, bạn kiếm cái mũi dẹt lựa vào cái khe tách nó ra xem, nó kẹp chặt quá thôi.\n\t\t [/QUOTE]\nEM đã bóp voẽ cái ống thuỷ tinh của cầu chì để nối dây trực tiếp , chạy thử như hình dưới mà vẫn k nóng. Khả năng hỏng đèn viba như bạn euro nói rồi ạ. E đang mày mò tiếp",
+            "idComment": 494155,
+            "iduser": 457,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/600231-194313-img-1151-w3abp2aqfkmiwiuh5crt.jpg"
+            ],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 10:51:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tuan2681\"] \n\t\t\tEM đã bóp voẽ cái ống thuỷ tinh của cầu chì để nối dây trực tiếp , chạy thử như hình dưới mà vẫn k nóng. Khả năng hỏng đèn viba như bạn euro nói rồi ạ. E đang mày mò tiếp :))\n\n\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/600231-194313-img-1151-w3abp2aqfkmiwiuh5crt.jpg[/img]\n\n [/QUOTE]\nbạn chụp lại chỗ em khoanh đỏ nhé",
+            "idComment": 494156,
+            "iduser": 0,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/600231-194313-img-1151-w3abp2aqfkmiwiuh5crt.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/19/600296-73049-600231-194313-img-1151-w3abp2aqfkmiwiuh5crt-xtehpvjoyoi06aqyny5v.jpg"
+            ],
+            "username": null
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 10:58:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tuan2681\"] \n\t\t\tEM đã bóp voẽ cái ống thuỷ tinh của cầu chì để nối dây trực tiếp , chạy thử như hình dưới mà vẫn k nóng. Khả năng hỏng đèn viba như bạn euro nói rồi ạ. E đang mày mò tiếp :))\n\n\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/600231-194313-img-1151-w3abp2aqfkmiwiuh5crt.jpg[/img]\n\n [/QUOTE]\nbạn cắt điện đi rồi làm gì thì làm chứ sáng choang thế kia rồi chụp choạch kinh bỏ bu.",
+            "idComment": 494157,
+            "iduser": 20455,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/600231-194313-img-1151-w3abp2aqfkmiwiuh5crt.jpg"
+            ],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 12:10:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Euro2CityStar\"] \n\t\t\tcạo vệ sinh sạch chỗ đầu dây là ok\n\t\t [/QUOTE]\nEm lại hỏi có cầu đấu 3 không, ngáo ngơ thật",
+            "idComment": 494158,
+            "iduser": 14996,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/600507-127256-img-20170819-103617-hht-mesha0sg9wxflhap9ags.jpg"
+            ],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 13:52:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tDone :)\n\nEm lại hỏi có cầu đấu 3 không, ngáo ngơ thật :))\n\n\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/600507-127256-img-20170819-103617-hht-mesha0sg9wxflhap9ags.jpg[/img]\n\n [/QUOTE]\nbạn mua cái cầu đấu nhựa trấng ở đâu thế? Loại này dùng đấu có an toàn không?",
+            "idComment": 494159,
+            "iduser": 24002,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/600507-127256-img-20170819-103617-hht-mesha0sg9wxflhap9ags.jpg"
+            ],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:01:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Thuoc lao\"] \n\t\t\tDone :)\n\nEm lại hỏi có cầu đấu 3 không, ngáo ngơ thật :))\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/600507-127256-img-20170819-103617-hht-mesha0sg9wxflhap9ags.jpg[/img]\n\n [/QUOTE]\nbạn cắt tuốt dây hơi dài nên khi bị uốn nó gập luôn chỗ sát với vỏ, em hay gập đầu để cả một phần vỏ vào trong thì thấy chắc hơn, bạn thử xem.",
+            "idComment": 494160,
+            "iduser": 20455,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/600507-127256-img-20170819-103617-hht-mesha0sg9wxflhap9ags.jpg"
+            ],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:04:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tLoại này có nhiều cỡ, bạn dùng đúng cỡ thì yên tâm.\n\n\n\n\n\n\n\nbạn cắt tuốt dây hơi dài nên khi bị uốn nó gập luôn chỗ sát với vỏ, em hay để cả một phần vỏ vào trong thì thấy chắc hơn, bạn thử xem.\n\t\t [/QUOTE]\nEm cảm ơn. Để mua ít dành khi nối bị đứt. Có loại nào cho mấy dây 2.5 quấn vào rồi đút vào cầu không bạn?",
+            "idComment": 494161,
+            "iduser": 24002,
+            "image": [],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:08:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"ACDELCO434\"] \n\t\t\tEm cảm ơn. Để mua ít dành khi nối bị đứt. Có loại nào cho mấy dây 2.5 quấn vào rồi đút vào cầu không bạn?\n\t\t [/QUOTE]\nKhông hiểu ý bạn lắm, nhưng Dây 10 cũng có chứ 2,5 thì quá phổ thông rồi.",
+            "idComment": 494162,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:10:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tKhông hiểu ý bạn lắm, nhưng Dây 10 cũng có chứ 2,5 thì quá phổ thông rồi.\n\t\t [/QUOTE]\nÀ, ý em là mấy sợi 2.5 xoắn vào nhau rồi đút cầu ý. Nhưng bạn nói thế thì chắc kiếm không có. bạn có địa chỉ chỗ nào bán hàng chuẩn giá tốt không ạ?",
+            "idComment": 494163,
+            "iduser": 24002,
+            "image": [],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:17:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"ACDELCO434\"] \n\t\t\tÀ, ý em là mấy sợi 2.5 xoắn vào nhau rồi đút cầu ý. Nhưng bạn nói thế thì chắc kiếm không có. bạn có địa chỉ chỗ nào bán hàng chuẩn giá tốt không ạ?\n\t\t [/QUOTE]\nEm bên Lâm Gia Trang - gần lão Ngo Rung cơ.",
+            "idComment": 494164,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:26:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tbạn cứ ra hàng bán đồ điện hỏi cầu nối điện họ chỉ cho, nhiều loại, nhiều cỡ to lắm mà em chẳng biết dùng nối cái gì :D\n\nEm bên Lâm Gia Trang - gần lão Ngo Rung cơ.\n\t\t [/QUOTE]\nbạn cứ đùa em. Chuyên điện mà không biết dùng nối gì.",
+            "idComment": 494165,
+            "iduser": 24002,
+            "image": [],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:29:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tEm bên Lâm Gia Trang - gần lão Ngo Rung cơ.\n\t\t [/QUOTE]\nOạch, lão này chỗ lào nhể?!",
+            "idComment": 494166,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:30:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"ACDELCO434\"] \n\t\t\tbạn cứ đùa em. Chuyên điện mà không biết dùng nối gì. ;)) ;))\n [/QUOTE]\nCái cầu đấy chú chạy bộ vào chợ giời thì cả rổ, 50K được mấy cái",
+            "idComment": 494167,
+            "iduser": 0,
+            "image": [],
+            "username": null
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:37:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tCái cầu đấy chú chạy bộ vào chợ giời thì cả rổ, 50K được mấy cái \\m/\n [/QUOTE]\n . Tks A.",
+            "idComment": 494168,
+            "iduser": 24002,
+            "image": [],
+            "username": "ACDELCO434"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 14:39:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"ACDELCO434\"] \n\t\t\tbạn cứ đùa em. Chuyên điện mà không biết dùng nối gì. ;)) ;))\n [/QUOTE]\n\t\t\tbạn cứ đùa em. Chuyên điện mà không biết dùng nối gì. ;)) ;))",
+            "idComment": 494169,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 15:13:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"ACDELCO434\"] \n\t\t\tbạn cứ đùa em. Chuyên điện mà không biết dùng nối gì. ;)) ;))\n [/QUOTE]\nEm đoán bạn trên không biết bạn xoắn mấy cái 2.5 vào với nhau để làm gì để tư vấn cho chính xác. Em mua 2 cái như trên là 5k. Cũng rẻ nên chả để ý giá rổ chỗ nào tốt hơn. Chợ giời có cả mớ  nhiều cỡ nhiều loại lắm.",
+            "idComment": 494170,
+            "iduser": 14996,
+            "image": [],
+            "username": "Thuoc lao"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 15:44:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Ngo Rung\"] \n\t\t\tKhả năng của bạn còn hỏng rơ le bảo vệ nhiệt nên mất nguồn 220 cấp cho biến áp.e\n\nbạn chụp lại chỗ em khoanh đỏ nhé\n\n\n\n\n\n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/600296-73049-600231-194313-img-1151-w3abp2aqfkmiwiuh5crt-xtehpvjoyoi06aqyny5v.jpg[/img]\n\n [/QUOTE]\nĐây bạn ơi",
+            "idComment": 494171,
+            "iduser": 457,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/600296-73049-600231-194313-img-1151-w3abp2aqfkmiwiuh5crt-xtehpvjoyoi06aqyny5v.jpg",
+                "https://img.otofun.net/upload/v6/2017/08/19/601000-194313-img-1142-c4thfxfxqndzmvx05wcx.jpg"
+            ],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 15:48:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"Vanh123\"] \n\t\t\tbạn cắt điện đi rồi làm gì thì làm chứ sáng choang thế kia rồi chụp choạch kinh bỏ bu.\n\t\t [/QUOTE]\nE đang muốn đi thêm dây để làm thêm ổ cắm ấy ạ.  Trc e thấy thợ điện có sợi dây mồi nhưng e k có sợi nào đủ cứng nthe cả. Các bạn oẻ đây có cao kiến gì chỉ e với.",
+            "idComment": 494172,
+            "iduser": 457,
+            "image": [],
+            "username": "tuan2681"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 16:10:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"tuan2681\"] \n\n\n[img]https://img.otofun.net/upload/v6/2017/08/19/601000-194313-img-1142-c4thfxfxqndzmvx05wcx.jpg[/img]\n\n\n\nĐây bạn ơi\n\t\t [/QUOTE]\nP/S: Cái dây luồn ống gọi là dây mồi, bạn ra hàng điện nước nào cũng có bán sẵn, có mấy loại: 5m, 10m, 20m.....",
+            "idComment": 494173,
+            "iduser": 0,
+            "image": [
+                "https://img.otofun.net/upload/v6/2017/08/19/601000-194313-img-1142-c4thfxfxqndzmvx05wcx.jpg"
+            ],
+            "username": null
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 18:56:00 GMT",
+            "avatar": null,
+            "content": "\nko có dây cứng thì kéo ngược 1 dây  lại mà mồi",
+            "idComment": 494174,
+            "iduser": 1436,
+            "image": [],
+            "username": "Euro2CityStar"
+        },
+        {
+            "actionAt": "Sat, 19 Aug 2017 20:19:00 GMT",
+            "avatar": null,
+            "content": "[QUOTE=\"ACDELCO434\"] \n\t\t\tbạn cứ đùa em. Chuyên điện mà không biết dùng nối gì. ;)) ;))\n [/QUOTE]\nHihi, em dân cạo giấy, không liên quan điện đóm gì cả. Em toàm chém gió theo anh gúc thôi",
+            "idComment": 494175,
+            "iduser": 20455,
+            "image": [],
+            "username": "Vanh123"
+        }
+    ]
+}
